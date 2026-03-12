@@ -1,0 +1,155 @@
+#!/usr/bin/env python3
+"""Validate llms.txt and linked markdown artifacts."""
+
+from __future__ import annotations
+
+import re
+import sys
+from pathlib import Path
+from urllib.parse import urlparse
+
+
+ROOT = Path(__file__).resolve().parents[1]
+LLMS_ROOT = ROOT / "llms.txt"
+DOCS_DIR = ROOT / "llms"
+
+REQUIRED_FILES = [
+    ROOT / "llms.txt",
+    DOCS_DIR / "getting-started.md",
+    DOCS_DIR / "odsql-cheatsheet.md",
+    DOCS_DIR / "query-cookbook.md",
+    DOCS_DIR / "datasets" / "index.md",
+    DOCS_DIR / "datasets" / "by-theme" / "index.md",
+]
+
+REQUIRED_SECTIONS = [
+    "# data.bs.ch",
+    "## Getting Started",
+    "## Query Language (ODSQL)",
+    "## Examples",
+    "## Dataset Catalog",
+    "## Optional",
+]
+
+MARKDOWN_LINK = re.compile(r"\[[^\]]+\]\(([^)]+)\)")
+
+REQUIRED_ROOT_LINKS = [
+    "https://data.bs.ch/llms/getting-started.md",
+    "https://data.bs.ch/llms/odsql-cheatsheet.md",
+    "https://data.bs.ch/llms/query-cookbook.md",
+    "https://data.bs.ch/llms/datasets/index.md",
+]
+
+OPTIONAL_SECTION_HEADER = "## Optional"
+
+
+def find_missing_files() -> list[str]:
+    missing = []
+    for path in REQUIRED_FILES:
+        if not path.exists():
+            missing.append(str(path.relative_to(ROOT)))
+    return missing
+
+
+def find_missing_sections() -> list[str]:
+    text = LLMS_ROOT.read_text(encoding="utf-8")
+    missing = [section for section in REQUIRED_SECTIONS if section not in text]
+    return missing
+
+
+def collect_markdown_files() -> list[Path]:
+    files = [LLMS_ROOT]
+    files.extend(sorted(DOCS_DIR.rglob("*.md")))
+    return files
+
+
+def validate_local_links(path: Path) -> list[str]:
+    text = path.read_text(encoding="utf-8")
+    errors = []
+    for match in MARKDOWN_LINK.finditer(text):
+        target = match.group(1).strip()
+        if target.startswith("http://") or target.startswith("https://") or target.startswith("mailto:"):
+            continue
+        if target.startswith("#"):
+            continue
+        clean_target = target.split("#", 1)[0]
+        local_path = (path.parent / clean_target).resolve()
+        if not local_path.exists():
+            errors.append(f"{path.relative_to(ROOT)} -> missing local link target: {target}")
+    return errors
+
+
+def extract_markdown_links(text: str) -> list[str]:
+    return [match.group(1).strip() for match in MARKDOWN_LINK.finditer(text)]
+
+
+def is_public_absolute_https(url: str) -> bool:
+    parsed = urlparse(url)
+    if parsed.scheme != "https" or not parsed.netloc:
+        return False
+    host = parsed.netloc.lower()
+    if host in {"localhost", "127.0.0.1"} or host.endswith(".local"):
+        return False
+    return True
+
+
+def validate_root_llms_links() -> tuple[list[str], list[str]]:
+    """Validate critical root links strictly, optional links as warnings."""
+    errors: list[str] = []
+    warnings: list[str] = []
+
+    text = LLMS_ROOT.read_text(encoding="utf-8")
+    links = extract_markdown_links(text)
+    link_set = set(links)
+
+    for required in REQUIRED_ROOT_LINKS:
+        if required not in link_set:
+            errors.append(f"llms.txt -> missing required root link: {required}")
+        elif not is_public_absolute_https(required):
+            errors.append(f"llms.txt -> required link must be public https: {required}")
+
+    optional_idx = text.find(OPTIONAL_SECTION_HEADER)
+    if optional_idx >= 0:
+        optional_text = text[optional_idx:]
+        optional_links = extract_markdown_links(optional_text)
+        for url in optional_links:
+            if not is_public_absolute_https(url):
+                warnings.append(f"llms.txt -> optional link is not public https: {url}")
+
+    return errors, warnings
+
+
+def main() -> int:
+    errors: list[str] = []
+    warnings: list[str] = []
+
+    missing_files = find_missing_files()
+    if missing_files:
+        errors.append("Missing required files:")
+        errors.extend(f"  - {name}" for name in missing_files)
+
+    if LLMS_ROOT.exists():
+        missing_sections = find_missing_sections()
+        if missing_sections:
+            errors.append("Missing required sections in llms.txt:")
+            errors.extend(f"  - {section}" for section in missing_sections)
+        root_link_errors, root_link_warnings = validate_root_llms_links()
+        errors.extend(root_link_errors)
+        warnings.extend(root_link_warnings)
+
+    for file_path in collect_markdown_files():
+        errors.extend(validate_local_links(file_path))
+
+    if errors:
+        print("\n".join(errors), file=sys.stderr)
+        return 1
+
+    if warnings:
+        print("\n".join(warnings), file=sys.stderr)
+
+    print("llms docs validation passed.")
+    return 0
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())
