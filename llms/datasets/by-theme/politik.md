@@ -1,6 +1,6 @@
 # Theme: Politik
 
-_Generated: 2026-03-12T13:31:29+00:00_
+_Generated: 2026-03-12T15:24:18+00:00_
 
 - Dataset count: **55**
 - Back to: [theme index](./index.md)
@@ -17,7 +17,7 @@ _Generated: 2026-03-12T13:31:29+00:00_
 | [100132](https://data.bs.ch/explore/dataset/100132/information/) | Resultate der Wahl eines Mitglieds des Gerichts für fürsorgerische Unterbringungen 9. Mai 2021 | 8 | 2025-04-28T07:45:46.734000+00:00 |
 | [100133](https://data.bs.ch/explore/dataset/100133/information/) | Resultate der Wahl von sieben Präsidentinnen oder Präsidenten des Strafgerichts 9. Mai 2021 | 32 | 2025-04-28T07:45:47.881000+00:00 |
 | [100186](https://data.bs.ch/explore/dataset/100186/information/) | Grosser Rat: Live-Abstimmungsergebnisse | 593300 | 2026-03-11T15:32:42.299000+00:00 |
-| [100188](https://data.bs.ch/explore/dataset/100188/information/) | Grosser Rat: Sitzungskalender | 1025 | 2026-03-12T02:40:29.475000+00:00 |
+| [100188](https://data.bs.ch/explore/dataset/100188/information/) | Grosser Rat: Sitzungskalender | 1025 | 2026-03-12T14:42:10.445000+00:00 |
 | [100223](https://data.bs.ch/explore/dataset/100223/information/) | Briefliche Stimmbeteiligung | 433 | 2026-03-06T16:30:14.874000+00:00 |
 | [100229](https://data.bs.ch/explore/dataset/100229/information/) | Kantonale Abstimmungen | 650 | 2025-09-29T07:01:03.942000+00:00 |
 | [100281](https://data.bs.ch/explore/dataset/100281/information/) | Resultate der Nationalratswahlen 22. Oktober 2023 | 610 | 2025-04-28T07:47:12.008000+00:00 |

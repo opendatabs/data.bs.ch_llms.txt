@@ -1,6 +1,6 @@
 # Theme: Gesundheit
 
-_Generated: 2026-03-12T13:31:29+00:00_
+_Generated: 2026-03-12T15:24:18+00:00_
 
 - Dataset count: **37**
 - Back to: [theme index](./index.md)
@@ -9,10 +9,10 @@ _Generated: 2026-03-12T13:31:29+00:00_
 |---|---|---:|---|
 | [100019](https://data.bs.ch/explore/dataset/100019/information/) | Defibrillatoren | 235 | 2025-02-04T00:00:00+00:00 |
 | [100020](https://data.bs.ch/explore/dataset/100020/information/) | Elternberatung | 12 | 2025-03-17T00:00:00+00:00 |
-| [100048](https://data.bs.ch/explore/dataset/100048/information/) | Luftqualität Station Chrischona | 227151 | 2026-03-12T12:16:17.614000+00:00 |
-| [100049](https://data.bs.ch/explore/dataset/100049/information/) | Luftqualität Station St. Johannplatz | 228862 | 2026-03-12T12:16:23.744000+00:00 |
-| [100050](https://data.bs.ch/explore/dataset/100050/information/) | Luftqualität Station Feldbergstrasse | 227693 | 2026-03-12T12:16:29.081000+00:00 |
-| [100051](https://data.bs.ch/explore/dataset/100051/information/) | Luftqualität Station Basel-Binningen | 68208 | 2026-03-12T13:20:47.537000+00:00 |
+| [100048](https://data.bs.ch/explore/dataset/100048/information/) | Luftqualität Station Chrischona | 227153 | 2026-03-12T14:16:19.476000+00:00 |
+| [100049](https://data.bs.ch/explore/dataset/100049/information/) | Luftqualität Station St. Johannplatz | 228864 | 2026-03-12T14:16:25.729000+00:00 |
+| [100050](https://data.bs.ch/explore/dataset/100050/information/) | Luftqualität Station Feldbergstrasse | 227695 | 2026-03-12T14:16:30.961000+00:00 |
+| [100051](https://data.bs.ch/explore/dataset/100051/information/) | Luftqualität Station Basel-Binningen | 68208 | 2026-03-12T15:21:14.132000+00:00 |
 | [100073](https://data.bs.ch/explore/dataset/100073/information/) | Coronavirus (COVID-19): Fallzahlen Basel-Stadt | 1225 | 2023-07-05T07:40:31.547000+00:00 |
 | [100076](https://data.bs.ch/explore/dataset/100076/information/) | Coronavirus (COVID-19): Todesfälle Basel-Stadt nach Alter und Geschlecht | 321 | 2024-03-13T14:01:41.500000+00:00 |
 | [100077](https://data.bs.ch/explore/dataset/100077/information/) | Coronavirus (COVID-19): Fallzahlen ganze Schweiz | 24440 | 2025-09-26T11:29:59+00:00 |

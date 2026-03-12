@@ -1,6 +1,6 @@
 # Theme: Tourismus
 
-_Generated: 2026-03-12T13:31:29+00:00_
+_Generated: 2026-03-12T15:24:18+00:00_
 
 - Dataset count: **40**
 - Back to: [theme index](./index.md)
@@ -16,17 +16,17 @@ _Generated: 2026-03-12T13:31:29+00:00_
 | [100024](https://data.bs.ch/explore/dataset/100024/information/) | Kinder- und Jugendangebote | 90 | 2021-07-16T00:00:00+00:00 |
 | [100032](https://data.bs.ch/explore/dataset/100032/information/) | Alltagsvelorouten | 21 | 2025-02-10T13:49:36.886000+00:00 |
 | [100033](https://data.bs.ch/explore/dataset/100033/information/) | Touristische Velorouten | 29 | 2024-10-08T11:23:40.424000+00:00 |
-| [100044](https://data.bs.ch/explore/dataset/100044/information/) | Standorte der öffentlichen Parkhäuser Basel | 16 | 2026-03-12T13:01:14.182000+00:00 |
-| [100048](https://data.bs.ch/explore/dataset/100048/information/) | Luftqualität Station Chrischona | 227151 | 2026-03-12T12:16:17.614000+00:00 |
-| [100049](https://data.bs.ch/explore/dataset/100049/information/) | Luftqualität Station St. Johannplatz | 228862 | 2026-03-12T12:16:23.744000+00:00 |
-| [100050](https://data.bs.ch/explore/dataset/100050/information/) | Luftqualität Station Feldbergstrasse | 227693 | 2026-03-12T12:16:29.081000+00:00 |
-| [100051](https://data.bs.ch/explore/dataset/100051/information/) | Luftqualität Station Basel-Binningen | 68208 | 2026-03-12T13:20:47.537000+00:00 |
+| [100044](https://data.bs.ch/explore/dataset/100044/information/) | Standorte der öffentlichen Parkhäuser Basel | 16 | 2026-03-12T15:01:22.657000+00:00 |
+| [100048](https://data.bs.ch/explore/dataset/100048/information/) | Luftqualität Station Chrischona | 227153 | 2026-03-12T14:16:19.476000+00:00 |
+| [100049](https://data.bs.ch/explore/dataset/100049/information/) | Luftqualität Station St. Johannplatz | 228864 | 2026-03-12T14:16:25.729000+00:00 |
+| [100050](https://data.bs.ch/explore/dataset/100050/information/) | Luftqualität Station Feldbergstrasse | 227695 | 2026-03-12T14:16:30.961000+00:00 |
+| [100051](https://data.bs.ch/explore/dataset/100051/information/) | Luftqualität Station Basel-Binningen | 68208 | 2026-03-12T15:21:14.132000+00:00 |
 | [100063](https://data.bs.ch/explore/dataset/100063/information/) | Haltestellen des öffentlichen Verkehrs | 846 | 2026-02-09T00:00:00+00:00 |
 | [100064](https://data.bs.ch/explore/dataset/100064/information/) | Liniennetz des öffentlichen Verkehrs | 187 | 2026-02-09T00:00:00+00:00 |
 | [100065](https://data.bs.ch/explore/dataset/100065/information/) | Teilhaltestellen des öffentlichen Verkehrs | 660 | 2026-02-09T00:00:00+00:00 |
 | [100075](https://data.bs.ch/explore/dataset/100075/information/) | Fahrgastzahlen BVB | 277 | 2026-02-26T12:46:37.997000+00:00 |
 | [100078](https://data.bs.ch/explore/dataset/100078/information/) | EuroAirport: Tägliche Flugbewegungen, Passagiere und Fracht | 10512 | 2026-03-12T08:45:44.981000+00:00 |
-| [100088](https://data.bs.ch/explore/dataset/100088/information/) | Aktuelle Belegung der öffentlichen Parkhäuser Basel | 16 | 2026-03-12T13:31:05.225000+00:00 |
+| [100088](https://data.bs.ch/explore/dataset/100088/information/) | Aktuelle Belegung der öffentlichen Parkhäuser Basel | 16 | 2026-03-12T15:23:05.438000+00:00 |
 | [100106](https://data.bs.ch/explore/dataset/100106/information/) | Tägliche Logiernächte, verfügbare und belegte Zimmer | 16308 | 2026-03-12T09:01:22.245000+00:00 |
 | [100107](https://data.bs.ch/explore/dataset/100107/information/) | Monatliche Ankünfte und Logiernächte | 10273 | 2026-03-12T09:01:17.101000+00:00 |
 | [100151](https://data.bs.ch/explore/dataset/100151/information/) | Sport- und Bewegungsanlagen | 297 | 2024-05-28T00:00:00+00:00 |
@@ -41,9 +41,9 @@ _Generated: 2026-03-12T13:31:29+00:00_
 | [100283](https://data.bs.ch/explore/dataset/100283/information/) | Buvetten in Gewässernähe | 11 | 2026-01-22T10:17:14.069000+00:00 |
 | [100284](https://data.bs.ch/explore/dataset/100284/information/) | Grillstellen in Gewässernähe | 5 | 2026-01-22T10:17:14.264000+00:00 |
 | [100285](https://data.bs.ch/explore/dataset/100285/information/) | Treppen und Ausstiegsleitern an Gewässern | 264 | 2025-04-28T07:46:56.438000+00:00 |
-| [100384](https://data.bs.ch/explore/dataset/100384/information/) | Zeitreihe der Temperaturen der Gartenbäder | 161808 | 2026-03-12T13:02:45.939000+00:00 |
-| [100388](https://data.bs.ch/explore/dataset/100388/information/) | Aktuelle Temperaturen der Gartenbäder | 7 | 2026-03-12T13:30:45.676000+00:00 |
-| [100404](https://data.bs.ch/explore/dataset/100404/information/) | Velostadtplan | 5794 | 2026-03-12T12:09:52+00:00 |
+| [100384](https://data.bs.ch/explore/dataset/100384/information/) | Zeitreihe der Temperaturen der Gartenbäder | 161861 | 2026-03-12T15:03:00.089000+00:00 |
+| [100388](https://data.bs.ch/explore/dataset/100388/information/) | Aktuelle Temperaturen der Gartenbäder | 6 | 2026-03-12T15:15:32.870000+00:00 |
+| [100404](https://data.bs.ch/explore/dataset/100404/information/) | Velostadtplan | 5794 | 2026-03-12T14:09:15+00:00 |
 | [100413](https://data.bs.ch/explore/dataset/100413/information/) | Tägliche Ankünfte, Logiernächte, Zimmer nach Hotelkategorie | 5775 | 2026-03-12T09:01:25.625000+00:00 |
 | [100414](https://data.bs.ch/explore/dataset/100414/information/) | Tägliche Ankünfte und Logiernächte nach Herkunftsland | 289390 | 2026-03-12T09:04:23.530000+00:00 |
 | [100417](https://data.bs.ch/explore/dataset/100417/information/) | ESC Eurovision Song Contest - FAQ | 180 | 2025-05-16T12:45:41.841000+00:00 |

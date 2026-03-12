@@ -22,8 +22,11 @@ Maintainer toolkit for generating and validating LLM-facing docs for `data.bs.ch
 
 ## Data source strategy
 
-`scripts/generate_dataset_docs.py` uses `huwise-utils-py` only.
-If data loading fails, generation fails with an error.
+`scripts/generate_dataset_docs.py` uses the public Explore API only:
+
+- `https://data.bs.ch/api/explore/v2.1/catalog/datasets`
+
+Only public datasets are indexed.
 
 ## Prerequisites
 
@@ -80,4 +83,4 @@ uv run python scripts/validate_llms_docs.py
 - Broken local links
   - Run validator and fix target paths in markdown.
 - Dataset count changes unexpectedly
-  - Verify portal availability and check Huwise API connectivity.
+  - Verify portal availability and Explore API connectivity.

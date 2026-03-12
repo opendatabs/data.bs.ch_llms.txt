@@ -1,8 +1,8 @@
 # Theme: Bildung, Wissenschaft
 
-_Generated: 2026-03-12T13:31:29+00:00_
+_Generated: 2026-03-12T15:24:18+00:00_
 
-- Dataset count: **9**
+- Dataset count: **10**
 - Back to: [theme index](./index.md)
 
 | dataset_id | title | records_count | modified |
@@ -15,4 +15,5 @@ _Generated: 2026-03-12T13:31:29+00:00_
 | [100177](https://data.bs.ch/explore/dataset/100177/information/) | Öffentlicher Archivkatalog in RDF | 0 | 2026-01-29T09:52:58.619000+00:00 |
 | [100191](https://data.bs.ch/explore/dataset/100191/information/) | Studierende der Universität Basel nach Geschlecht und Fakultät | 126 | 2026-02-10T09:12:30.927000+00:00 |
 | [100214](https://data.bs.ch/explore/dataset/100214/information/) | Kunst im öffentlichen Raum | 563 | 2026-02-18T00:00:00+00:00 |
+| [100341](https://data.bs.ch/explore/dataset/100341/information/) | Tagesheime und Kitas | 132 | 2026-03-12T14:09:16+00:00 |
 | [100397](https://data.bs.ch/explore/dataset/100397/information/) | Schulferien Kanton Basel-Stadt | 88 | 2026-03-12T03:00:35.604000+00:00 |

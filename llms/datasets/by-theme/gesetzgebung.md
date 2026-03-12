@@ -1,6 +1,6 @@
 # Theme: Gesetzgebung
 
-_Generated: 2026-03-12T13:31:29+00:00_
+_Generated: 2026-03-12T15:24:18+00:00_
 
 - Dataset count: **36**
 - Back to: [theme index](./index.md)
@@ -16,7 +16,7 @@ _Generated: 2026-03-12T13:31:29+00:00_
 | [100132](https://data.bs.ch/explore/dataset/100132/information/) | Resultate der Wahl eines Mitglieds des Gerichts für fürsorgerische Unterbringungen 9. Mai 2021 | 8 | 2025-04-28T07:45:46.734000+00:00 |
 | [100133](https://data.bs.ch/explore/dataset/100133/information/) | Resultate der Wahl von sieben Präsidentinnen oder Präsidenten des Strafgerichts 9. Mai 2021 | 32 | 2025-04-28T07:45:47.881000+00:00 |
 | [100186](https://data.bs.ch/explore/dataset/100186/information/) | Grosser Rat: Live-Abstimmungsergebnisse | 593300 | 2026-03-11T15:32:42.299000+00:00 |
-| [100188](https://data.bs.ch/explore/dataset/100188/information/) | Grosser Rat: Sitzungskalender | 1025 | 2026-03-12T02:40:29.475000+00:00 |
+| [100188](https://data.bs.ch/explore/dataset/100188/information/) | Grosser Rat: Sitzungskalender | 1025 | 2026-03-12T14:42:10.445000+00:00 |
 | [100300](https://data.bs.ch/explore/dataset/100300/information/) | Resultate der Bürgergemeinderatswahlen 18. Juni 2023 | 298 | 2025-04-28T07:47:13.213000+00:00 |
 | [100301](https://data.bs.ch/explore/dataset/100301/information/) | Resultate der Bürgergemeinderatswahlen 2023 auf Listenebene | 10 | 2025-04-28T07:47:13.668000+00:00 |
 | [100316](https://data.bs.ch/explore/dataset/100316/information/) | Kandidierende der Nationalratswahlen 22. Oktober 2023 | 122 | 2025-04-28T07:47:25.598000+00:00 |

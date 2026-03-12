@@ -3,6 +3,7 @@
 
 from __future__ import annotations
 
+import logging
 import re
 import sys
 from pathlib import Path
@@ -41,9 +42,19 @@ REQUIRED_ROOT_LINKS = [
 ]
 
 OPTIONAL_SECTION_HEADER = "## Optional"
+LOG = logging.getLogger("validate_llms_docs")
+
+
+def configure_logging() -> None:
+    """Configure script logging."""
+    logging.basicConfig(
+        level=logging.INFO,
+        format="%(asctime)s %(levelname)s %(name)s - %(message)s",
+    )
 
 
 def find_missing_files() -> list[str]:
+    """Return required files that do not exist."""
     missing = []
     for path in REQUIRED_FILES:
         if not path.exists():
@@ -52,18 +63,28 @@ def find_missing_files() -> list[str]:
 
 
 def find_missing_sections() -> list[str]:
+    """Return required root sections missing from llms.txt."""
     text = LLMS_ROOT.read_text(encoding="utf-8")
     missing = [section for section in REQUIRED_SECTIONS if section not in text]
     return missing
 
 
 def collect_markdown_files() -> list[Path]:
+    """Collect markdown files that should be validated."""
     files = [LLMS_ROOT]
     files.extend(sorted(DOCS_DIR.rglob("*.md")))
     return files
 
 
 def validate_local_links(path: Path) -> list[str]:
+    """Validate local markdown links in one file.
+
+    Args:
+        path: Markdown file path to validate.
+
+    Returns:
+        A list of link validation errors for that file.
+    """
     text = path.read_text(encoding="utf-8")
     errors = []
     for match in MARKDOWN_LINK.finditer(text):
@@ -80,10 +101,12 @@ def validate_local_links(path: Path) -> list[str]:
 
 
 def extract_markdown_links(text: str) -> list[str]:
+    """Extract markdown link targets from text."""
     return [match.group(1).strip() for match in MARKDOWN_LINK.finditer(text)]
 
 
 def is_public_absolute_https(url: str) -> bool:
+    """Return whether a URL is public and absolute HTTPS."""
     parsed = urlparse(url)
     if parsed.scheme != "https" or not parsed.netloc:
         return False
@@ -94,7 +117,11 @@ def is_public_absolute_https(url: str) -> bool:
 
 
 def validate_root_llms_links() -> tuple[list[str], list[str]]:
-    """Validate critical root links strictly, optional links as warnings."""
+    """Validate root llms.txt links.
+
+    Returns:
+        Tuple of (errors, warnings).
+    """
     errors: list[str] = []
     warnings: list[str] = []
 
@@ -119,16 +146,32 @@ def validate_root_llms_links() -> tuple[list[str], list[str]]:
     return errors, warnings
 
 
+def print_messages(messages: list[str]) -> None:
+    """Print messages to stderr, one per line."""
+    if messages:
+        print("\n".join(messages), file=sys.stderr)
+
+
+def log_messages(messages: list[str], *, level: int) -> None:
+    """Log validation messages individually at a given log level."""
+    for message in messages:
+        LOG.log(level, message)
+
+
 def main() -> int:
+    """Run all validation checks and return an exit code."""
+    LOG.info("Starting llms docs validation")
     errors: list[str] = []
     warnings: list[str] = []
 
+    LOG.info("Checking required files")
     missing_files = find_missing_files()
     if missing_files:
         errors.append("Missing required files:")
         errors.extend(f"  - {name}" for name in missing_files)
 
     if LLMS_ROOT.exists():
+        LOG.info("Checking required llms.txt sections and root links")
         missing_sections = find_missing_sections()
         if missing_sections:
             errors.append("Missing required sections in llms.txt:")
@@ -136,20 +179,32 @@ def main() -> int:
         root_link_errors, root_link_warnings = validate_root_llms_links()
         errors.extend(root_link_errors)
         warnings.extend(root_link_warnings)
+    else:
+        LOG.error("Root file missing: %s", LLMS_ROOT)
 
+    LOG.info("Checking local markdown links")
     for file_path in collect_markdown_files():
         errors.extend(validate_local_links(file_path))
 
     if errors:
-        print("\n".join(errors), file=sys.stderr)
+        LOG.error("Validation failed with %s error(s)", len(errors))
+        log_messages(errors, level=logging.ERROR)
+        print_messages(errors)
         return 1
 
     if warnings:
-        print("\n".join(warnings), file=sys.stderr)
+        LOG.warning("Validation completed with %s warning(s)", len(warnings))
+        log_messages(warnings, level=logging.WARNING)
+    else:
+        LOG.info("Validation completed with no warnings")
 
+    print_messages(warnings)
+
+    LOG.info("llms docs validation passed")
     print("llms docs validation passed.")
     return 0
 
 
 if __name__ == "__main__":
+    configure_logging()
     raise SystemExit(main())

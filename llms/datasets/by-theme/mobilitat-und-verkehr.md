@@ -1,6 +1,6 @@
 # Theme: Mobilität und Verkehr
 
-_Generated: 2026-03-12T13:31:29+00:00_
+_Generated: 2026-03-12T15:24:18+00:00_
 
 - Dataset count: **61**
 - Back to: [theme index](./index.md)
@@ -11,12 +11,12 @@ _Generated: 2026-03-12T13:31:29+00:00_
 | [100005](https://data.bs.ch/explore/dataset/100005/information/) | Standorte der IWB Ladestationen für Elektroautos | 219 | 2026-03-11T23:00:03.703000+00:00 |
 | [100006](https://data.bs.ch/explore/dataset/100006/information/) | Verkehrszähldaten motorisierter Individualverkehr | 1598472 | 2026-03-05T02:03:55.321000+00:00 |
 | [100013](https://data.bs.ch/explore/dataset/100013/information/) | Verkehrszähldaten Velos und Fussgänger | 1857480 | 2026-03-05T02:04:40.420000+00:00 |
-| [100014](https://data.bs.ch/explore/dataset/100014/information/) | Zeitreihe der Belegung öffentlicher Parkhäuser Basel | 950013 | 2026-03-12T13:08:23.182000+00:00 |
+| [100014](https://data.bs.ch/explore/dataset/100014/information/) | Zeitreihe der Belegung öffentlicher Parkhäuser Basel | 950045 | 2026-03-12T15:07:34.895000+00:00 |
 | [100022](https://data.bs.ch/explore/dataset/100022/information/) | Güteklassen öffentlicher Verkehr | 5 | 2025-03-04T00:00:00+00:00 |
 | [100032](https://data.bs.ch/explore/dataset/100032/information/) | Alltagsvelorouten | 21 | 2025-02-10T13:49:36.886000+00:00 |
 | [100033](https://data.bs.ch/explore/dataset/100033/information/) | Touristische Velorouten | 29 | 2024-10-08T11:23:40.424000+00:00 |
 | [100038](https://data.bs.ch/explore/dataset/100038/information/) | Standorte der Zählstellen für Verkehrszähldaten | 351 | 2025-04-10T00:00:00+00:00 |
-| [100044](https://data.bs.ch/explore/dataset/100044/information/) | Standorte der öffentlichen Parkhäuser Basel | 16 | 2026-03-12T13:01:14.182000+00:00 |
+| [100044](https://data.bs.ch/explore/dataset/100044/information/) | Standorte der öffentlichen Parkhäuser Basel | 16 | 2026-03-12T15:01:22.657000+00:00 |
 | [100047](https://data.bs.ch/explore/dataset/100047/information/) | Smarte Strasse: Elektroauto-Ladestationen | 4159 | 2025-11-10T08:18:53.229000+00:00 |
 | [100053](https://data.bs.ch/explore/dataset/100053/information/) | Schulwegsicherheit: Strassenquerungen | 0 | 2025-08-28T14:18:27.157000+00:00 |
 | [100056](https://data.bs.ch/explore/dataset/100056/information/) | Schulwegsicherheit: Fusswege | 0 | 2025-08-28T14:18:25.520000+00:00 |
@@ -26,7 +26,7 @@ _Generated: 2026-03-12T13:31:29+00:00_
 | [100065](https://data.bs.ch/explore/dataset/100065/information/) | Teilhaltestellen des öffentlichen Verkehrs | 660 | 2026-02-09T00:00:00+00:00 |
 | [100075](https://data.bs.ch/explore/dataset/100075/information/) | Fahrgastzahlen BVB | 277 | 2026-02-26T12:46:37.997000+00:00 |
 | [100078](https://data.bs.ch/explore/dataset/100078/information/) | EuroAirport: Tägliche Flugbewegungen, Passagiere und Fracht | 10512 | 2026-03-12T08:45:44.981000+00:00 |
-| [100088](https://data.bs.ch/explore/dataset/100088/information/) | Aktuelle Belegung der öffentlichen Parkhäuser Basel | 16 | 2026-03-12T13:31:05.225000+00:00 |
+| [100088](https://data.bs.ch/explore/dataset/100088/information/) | Aktuelle Belegung der öffentlichen Parkhäuser Basel | 16 | 2026-03-12T15:23:05.438000+00:00 |
 | [100097](https://data.bs.ch/explore/dataset/100097/information/) | Geschwindigkeitsmonitoring: Einzelmessungen | 15602766 | 2026-03-05T05:38:59.523000+00:00 |
 | [100112](https://data.bs.ch/explore/dataset/100112/information/) | Geschwindigkeitsmonitoring: Kennzahlen pro Mess-Standort | 1063 | 2026-03-12T02:01:45.579000+00:00 |
 | [100113](https://data.bs.ch/explore/dataset/100113/information/) | Feinstaubmessungen auf BVB-Trams | 933434 | 2026-01-28T10:16:46.763000+00:00 |
@@ -59,8 +59,8 @@ _Generated: 2026-03-12T13:31:29+00:00_
 | [100332](https://data.bs.ch/explore/dataset/100332/information/) | Verbotszonen geteilte Mikromobilität: Sperr- und Parkverbotszonen | 54 | 2025-01-29T00:00:00+00:00 |
 | [100356](https://data.bs.ch/explore/dataset/100356/information/) | Geschwindigkeitsklassen motorisierter Individualverkehr | 1171320 | 2026-03-04T06:56:13.427000+00:00 |
 | [100396](https://data.bs.ch/explore/dataset/100396/information/) | U-Abos nach Alter und Wohnsitz | 4226 | 2025-10-23T12:31:56.066000+00:00 |
-| [100404](https://data.bs.ch/explore/dataset/100404/information/) | Velostadtplan | 5794 | 2026-03-12T12:09:52+00:00 |
-| [100415](https://data.bs.ch/explore/dataset/100415/information/) | Geteilte Mikromobilität: Aktuelle Verfügbarkeit | 2685 | 2026-03-12T13:21:33.578000+00:00 |
+| [100404](https://data.bs.ch/explore/dataset/100404/information/) | Velostadtplan | 5794 | 2026-03-12T14:09:15+00:00 |
+| [100415](https://data.bs.ch/explore/dataset/100415/information/) | Geteilte Mikromobilität: Aktuelle Verfügbarkeit | 2639 | 2026-03-12T15:21:35.270000+00:00 |
 | [100416](https://data.bs.ch/explore/dataset/100416/information/) | Geteilte Mikromobilität nach Bezirk und Tag | 197540 | 2026-03-12T04:01:55.093000+00:00 |
 | [100419](https://data.bs.ch/explore/dataset/100419/information/) | Veranstaltungen im Raum St. Jakob | 358 | 2026-03-10T12:15:43.402000+00:00 |
 | [100422](https://data.bs.ch/explore/dataset/100422/information/) | Geteilte Mikromobilität nach Gemeinde und Tag | 5036 | 2026-03-12T04:01:47.551000+00:00 |

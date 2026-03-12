@@ -1,6 +1,6 @@
 # Theme: Verwaltung
 
-_Generated: 2026-03-12T13:31:29+00:00_
+_Generated: 2026-03-12T15:24:18+00:00_
 
 - Dataset count: **40**
 - Back to: [theme index](./index.md)
@@ -10,19 +10,19 @@ _Generated: 2026-03-12T13:31:29+00:00_
 | [100007](https://data.bs.ch/explore/dataset/100007/information/) | Bevölkerungsszenarien Basel-Stadt 2024-2045 | 97600 | 2025-07-15T07:47:27.001000+00:00 |
 | [100016](https://data.bs.ch/explore/dataset/100016/information/) | Postleitzahlenkreise | 15 | 2026-03-10T00:00:00+00:00 |
 | [100017](https://data.bs.ch/explore/dataset/100017/information/) | Gemeinden | 3 | 2026-03-10T00:00:00+00:00 |
-| [100057](https://data.bs.ch/explore/dataset/100057/information/) | OGD Datensätze | 338 | 2026-03-12T13:03:11.538000+00:00 |
+| [100057](https://data.bs.ch/explore/dataset/100057/information/) | OGD Datensätze | 338 | 2026-03-12T15:03:10.591000+00:00 |
 | [100063](https://data.bs.ch/explore/dataset/100063/information/) | Haltestellen des öffentlichen Verkehrs | 846 | 2026-02-09T00:00:00+00:00 |
 | [100064](https://data.bs.ch/explore/dataset/100064/information/) | Liniennetz des öffentlichen Verkehrs | 187 | 2026-02-09T00:00:00+00:00 |
 | [100065](https://data.bs.ch/explore/dataset/100065/information/) | Teilhaltestellen des öffentlichen Verkehrs | 660 | 2026-02-09T00:00:00+00:00 |
-| [100070](https://data.bs.ch/explore/dataset/100070/information/) | Wilde Abfall-Deponien | 29106 | 2026-03-12T07:05:32.461000+00:00 |
-| [100080](https://data.bs.ch/explore/dataset/100080/information/) | Weiterverwendungen von OGD Datensätzen | 108 | 2026-03-12T13:10:35.948000+00:00 |
+| [100070](https://data.bs.ch/explore/dataset/100070/information/) | Wilde Abfall-Deponien | 29111 | 2026-03-12T14:01:35.174000+00:00 |
+| [100080](https://data.bs.ch/explore/dataset/100080/information/) | Weiterverwendungen von OGD Datensätzen | 108 | 2026-03-12T15:10:43.008000+00:00 |
 | [100083](https://data.bs.ch/explore/dataset/100083/information/) | Umfrage «digitale Mitwirkung» 2020 | 1000 | 2020-05-06T08:52:25.304000+00:00 |
-| [100095](https://data.bs.ch/explore/dataset/100095/information/) | Abfuhrzonen (Gemeinde Basel) | 9 | 2026-03-12T12:10:00+00:00 |
+| [100095](https://data.bs.ch/explore/dataset/100095/information/) | Abfuhrzonen (Gemeinde Basel) | 9 | 2026-03-12T14:09:22+00:00 |
 | [100096](https://data.bs.ch/explore/dataset/100096/information/) | Abfuhrtermine | 15925 | 2025-12-17T09:12:05.008000+00:00 |
 | [100123](https://data.bs.ch/explore/dataset/100123/information/) | Lohntabelle des Kantons Basel-Stadt | 18088 | 2026-01-13T12:30:55.441000+00:00 |
 | [100177](https://data.bs.ch/explore/dataset/100177/information/) | Öffentlicher Archivkatalog in RDF | 0 | 2026-01-29T09:52:58.619000+00:00 |
 | [100186](https://data.bs.ch/explore/dataset/100186/information/) | Grosser Rat: Live-Abstimmungsergebnisse | 593300 | 2026-03-11T15:32:42.299000+00:00 |
-| [100188](https://data.bs.ch/explore/dataset/100188/information/) | Grosser Rat: Sitzungskalender | 1025 | 2026-03-12T02:40:29.475000+00:00 |
+| [100188](https://data.bs.ch/explore/dataset/100188/information/) | Grosser Rat: Sitzungskalender | 1025 | 2026-03-12T14:42:10.445000+00:00 |
 | [100307](https://data.bs.ch/explore/dataset/100307/information/) | Grosser Rat: Ratsmitgliedschaften | 451 | 2026-03-12T04:01:37.116000+00:00 |
 | [100308](https://data.bs.ch/explore/dataset/100308/information/) | Grosser Rat: Mitgliedschaften in Gremien | 2997 | 2026-03-12T04:01:39.390000+00:00 |
 | [100309](https://data.bs.ch/explore/dataset/100309/information/) | Grosser Rat: Interessensbindungen Ratsmitglieder | 1025 | 2026-03-12T04:01:40.102000+00:00 |

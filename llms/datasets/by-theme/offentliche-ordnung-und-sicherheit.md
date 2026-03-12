@@ -1,6 +1,6 @@
 # Theme: Öffentliche Ordnung und Sicherheit
 
-_Generated: 2026-03-12T13:31:29+00:00_
+_Generated: 2026-03-12T15:24:18+00:00_
 
 - Dataset count: **26**
 - Back to: [theme index](./index.md)
@@ -16,9 +16,9 @@ _Generated: 2026-03-12T13:31:29+00:00_
 | [100053](https://data.bs.ch/explore/dataset/100053/information/) | Schulwegsicherheit: Strassenquerungen | 0 | 2025-08-28T14:18:27.157000+00:00 |
 | [100056](https://data.bs.ch/explore/dataset/100056/information/) | Schulwegsicherheit: Fusswege | 0 | 2025-08-28T14:18:25.520000+00:00 |
 | [100058](https://data.bs.ch/explore/dataset/100058/information/) | Ordnungsbussen | 1914257 | 2026-01-23T11:40:31.264000+00:00 |
-| [100070](https://data.bs.ch/explore/dataset/100070/information/) | Wilde Abfall-Deponien | 29106 | 2026-03-12T07:05:32.461000+00:00 |
+| [100070](https://data.bs.ch/explore/dataset/100070/information/) | Wilde Abfall-Deponien | 29111 | 2026-03-12T14:01:35.174000+00:00 |
 | [100074](https://data.bs.ch/explore/dataset/100074/information/) | Veranstaltungen mit potenziellem Einfluss auf Veloverkehr | 14549 | 2026-03-11T17:31:00.529000+00:00 |
-| [100095](https://data.bs.ch/explore/dataset/100095/information/) | Abfuhrzonen (Gemeinde Basel) | 9 | 2026-03-12T12:10:00+00:00 |
+| [100095](https://data.bs.ch/explore/dataset/100095/information/) | Abfuhrzonen (Gemeinde Basel) | 9 | 2026-03-12T14:09:22+00:00 |
 | [100096](https://data.bs.ch/explore/dataset/100096/information/) | Abfuhrtermine | 15925 | 2025-12-17T09:12:05.008000+00:00 |
 | [100120](https://data.bs.ch/explore/dataset/100120/information/) | Strassenverkehrsunfälle | 11383 | 2025-05-08T00:00:00+00:00 |
 | [100216](https://data.bs.ch/explore/dataset/100216/information/) | Unfallschwerpunkte | 160 | 2026-03-11T00:00:00+00:00 |
@@ -32,4 +32,4 @@ _Generated: 2026-03-12T13:31:29+00:00_
 | [100376](https://data.bs.ch/explore/dataset/100376/information/) | Zivilschutzkataster Sektor | 8 | 2023-09-05T00:00:00+00:00 |
 | [100389](https://data.bs.ch/explore/dataset/100389/information/) | Sprayereien | 7859 | 2026-03-12T09:02:02.303000+00:00 |
 | [100421](https://data.bs.ch/explore/dataset/100421/information/) | Zivilschutzkataster Block | 294 | 2023-09-05T00:00:00+00:00 |
-| [100459](https://data.bs.ch/explore/dataset/100459/information/) | Notfalltreffpunkte | 17 | 2026-03-12T12:09:57+00:00 |
+| [100459](https://data.bs.ch/explore/dataset/100459/information/) | Notfalltreffpunkte | 17 | 2026-03-12T14:09:20+00:00 |

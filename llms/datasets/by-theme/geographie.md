@@ -1,6 +1,6 @@
 # Theme: Geographie
 
-_Generated: 2026-03-12T13:31:29+00:00_
+_Generated: 2026-03-12T15:24:18+00:00_
 
 - Dataset count: **59**
 - Back to: [theme index](./index.md)
@@ -32,7 +32,7 @@ _Generated: 2026-03-12T13:31:29+00:00_
 | [100041](https://data.bs.ch/explore/dataset/100041/information/) | Statistische Raumeinheiten: Blockseiten | 4179 | 2025-07-08T05:03:50.067000+00:00 |
 | [100042](https://data.bs.ch/explore/dataset/100042/information/) | Statistische Raumeinheiten: Wohnviertel | 21 | 2023-05-02T00:00:00+00:00 |
 | [100043](https://data.bs.ch/explore/dataset/100043/information/) | Invasive Neophyten | 6982 | 2026-03-08T00:00:00+00:00 |
-| [100044](https://data.bs.ch/explore/dataset/100044/information/) | Standorte der öffentlichen Parkhäuser Basel | 16 | 2026-03-12T13:01:14.182000+00:00 |
+| [100044](https://data.bs.ch/explore/dataset/100044/information/) | Standorte der öffentlichen Parkhäuser Basel | 16 | 2026-03-12T15:01:22.657000+00:00 |
 | [100052](https://data.bs.ch/explore/dataset/100052/information/) | Baumkataster: Baumbestand | 32321 | 2026-03-12T00:00:00+00:00 |
 | [100054](https://data.bs.ch/explore/dataset/100054/information/) | Baumkataster: Fäll- und Baumersatzliste | 61 | 2026-03-12T00:00:00+00:00 |
 | [100151](https://data.bs.ch/explore/dataset/100151/information/) | Sport- und Bewegungsanlagen | 297 | 2024-05-28T00:00:00+00:00 |
@@ -57,12 +57,12 @@ _Generated: 2026-03-12T13:31:29+00:00_
 | [100286](https://data.bs.ch/explore/dataset/100286/information/) | Standorte der Smiley-Geschwindigkeitsanzeigen | 73 | 2026-03-02T00:00:00+00:00 |
 | [100291](https://data.bs.ch/explore/dataset/100291/information/) | Gewässerschutzkarte: Gewässerschutzbereiche | 7 | 2025-11-10T00:00:00+00:00 |
 | [100292](https://data.bs.ch/explore/dataset/100292/information/) | Gewässerschutzkarte: Grundwasserschutzzonen: GWSZonen | 63 | 2025-11-10T00:00:00+00:00 |
-| [100341](https://data.bs.ch/explore/dataset/100341/information/) | Tagesheime und Kitas | 132 | 2026-03-12T12:09:54+00:00 |
+| [100341](https://data.bs.ch/explore/dataset/100341/information/) | Tagesheime und Kitas | 132 | 2026-03-12T14:09:16+00:00 |
 | [100357](https://data.bs.ch/explore/dataset/100357/information/) | Baumkronenbedeckung | 3 | 2026-02-07T10:39:24.760000+00:00 |
 | [100363](https://data.bs.ch/explore/dataset/100363/information/) | Secondhand-Angebote / Wiederverwendungsstellen | 109 | 2026-03-05T00:00:00+00:00 |
 | [100375](https://data.bs.ch/explore/dataset/100375/information/) | Zivilschutzkataster Quartier | 43 | 2023-09-05T00:00:00+00:00 |
 | [100376](https://data.bs.ch/explore/dataset/100376/information/) | Zivilschutzkataster Sektor | 8 | 2023-09-05T00:00:00+00:00 |
-| [100404](https://data.bs.ch/explore/dataset/100404/information/) | Velostadtplan | 5794 | 2026-03-12T12:09:52+00:00 |
+| [100404](https://data.bs.ch/explore/dataset/100404/information/) | Velostadtplan | 5794 | 2026-03-12T14:09:15+00:00 |
 | [100421](https://data.bs.ch/explore/dataset/100421/information/) | Zivilschutzkataster Block | 294 | 2023-09-05T00:00:00+00:00 |
-| [100459](https://data.bs.ch/explore/dataset/100459/information/) | Notfalltreffpunkte | 17 | 2026-03-12T12:09:57+00:00 |
-| [100477](https://data.bs.ch/explore/dataset/100477/information/) | Bodenbedeckungen | 49529 | 2026-03-12T12:09:58+00:00 |
+| [100459](https://data.bs.ch/explore/dataset/100459/information/) | Notfalltreffpunkte | 17 | 2026-03-12T14:09:20+00:00 |
+| [100477](https://data.bs.ch/explore/dataset/100477/information/) | Bodenbedeckungen | 49529 | 2026-03-12T14:09:20+00:00 |

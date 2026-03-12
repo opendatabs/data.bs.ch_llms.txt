@@ -1,6 +1,6 @@
 # Theme: Bevölkerung
 
-_Generated: 2026-03-12T13:31:29+00:00_
+_Generated: 2026-03-12T15:24:18+00:00_
 
 - Dataset count: **69**
 - Back to: [theme index](./index.md)
@@ -18,7 +18,7 @@ _Generated: 2026-03-12T13:31:29+00:00_
 | [100060](https://data.bs.ch/explore/dataset/100060/information/) | Wohnbevölkerung nach Staatsangehörigkeit und Wohnviertel | 567 | 2026-03-12T00:00:58.966000+00:00 |
 | [100061](https://data.bs.ch/explore/dataset/100061/information/) | Wohnbevölkerung nach Staatsangehörigkeit und Bezirk | 1880 | 2026-03-12T00:01:12.105000+00:00 |
 | [100062](https://data.bs.ch/explore/dataset/100062/information/) | Wohnbevölkerung nach Staatsangehörigkeit und Block | 34534 | 2026-03-12T00:06:46.298000+00:00 |
-| [100070](https://data.bs.ch/explore/dataset/100070/information/) | Wilde Abfall-Deponien | 29106 | 2026-03-12T07:05:32.461000+00:00 |
+| [100070](https://data.bs.ch/explore/dataset/100070/information/) | Wilde Abfall-Deponien | 29111 | 2026-03-12T14:01:35.174000+00:00 |
 | [100079](https://data.bs.ch/explore/dataset/100079/information/) | Gestorbene nach Altersklasse, Geschlecht und Sterbedatum | 7693 | 2026-03-12T02:01:25.369000+00:00 |
 | [100092](https://data.bs.ch/explore/dataset/100092/information/) | Geborene nach Geschlecht, Staatsangehörigkeit, Wohnviertel und Geburtsdatum | 40161 | 2026-03-12T02:01:55.176000+00:00 |
 | [100099](https://data.bs.ch/explore/dataset/100099/information/) | Geborene nach Geschlecht, Staatsangehörigkeit und Geburtsmonat | 40066 | 2026-03-12T02:02:10.458000+00:00 |
@@ -56,7 +56,7 @@ _Generated: 2026-03-12T13:31:29+00:00_
 | [100334](https://data.bs.ch/explore/dataset/100334/information/) | Kandidierende der Ersatzwahlen Regierungspräsidium 3. März 2024 | 4 | 2024-03-21T12:43:21.265000+00:00 |
 | [100337](https://data.bs.ch/explore/dataset/100337/information/) | Resultate der Ersatzwahlen Regierungsrat 3. März 2024 | 16 | 2025-04-28T07:47:38.285000+00:00 |
 | [100338](https://data.bs.ch/explore/dataset/100338/information/) | Resultate der Ersatzwahlen Regierungspräsidium 3. März 2024 | 20 | 2025-04-28T07:47:39.408000+00:00 |
-| [100341](https://data.bs.ch/explore/dataset/100341/information/) | Tagesheime und Kitas | 132 | 2026-03-12T12:09:54+00:00 |
+| [100341](https://data.bs.ch/explore/dataset/100341/information/) | Tagesheime und Kitas | 132 | 2026-03-12T14:09:16+00:00 |
 | [100360](https://data.bs.ch/explore/dataset/100360/information/) | Resultate der Ersatzwahlen Regierungsrat 7. April 2024 (2. Wahlgang) | 12 | 2025-04-28T07:47:41.886000+00:00 |
 | [100361](https://data.bs.ch/explore/dataset/100361/information/) | Resultate der Ersatzwahlen Regierungspräsidium 7. April 2024 (2. Wahlgang) | 28 | 2025-04-28T07:47:43.294000+00:00 |
 | [100362](https://data.bs.ch/explore/dataset/100362/information/) | Sauberkeitsindex pro Quartal und Wohnviertel | 400 | 2026-01-05T10:40:54.786000+00:00 |
