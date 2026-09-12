@@ -1,6 +1,6 @@
 # Theme: Industrie, Dienstleistungen
 
-_Generated: 2026-03-12T15:24:18+00:00_
+_Generated: 2026-09-12T07:16:25+00:00_
 
 - Dataset count: **7**
 - Back to: [theme index](./index.md)
@@ -13,4 +13,4 @@ _Generated: 2026-03-12T15:24:18+00:00_
 | [100149](https://data.bs.ch/explore/dataset/100149/information/) | Rohdaten-Zeitreihe der Belegung der Elektroauto-Ladestationen der IWB | 423098 | 2024-02-29T14:17:13.615000+00:00 |
 | [100196](https://data.bs.ch/explore/dataset/100196/information/) | Zeitreihe der Belegung der Elektroauto-Ladestationen der IWB | 107714 | 2022-09-21T03:28:52.377000+00:00 |
 | [100226](https://data.bs.ch/explore/dataset/100226/information/) | Kennzahlen zu den Basler Wohnvierteln und Landgemeinden - langer Datensatz | 2793 | 2025-10-17T08:15:35.570000+00:00 |
-| [100330](https://data.bs.ch/explore/dataset/100330/information/) | Handelsregister: Firmen mit Rechtsform und Standort | 19104 | 2026-03-02T08:59:40.488000+00:00 |
+| [100330](https://data.bs.ch/explore/dataset/100330/information/) | Handelsregister: Firmen mit Rechtsform und Standort | 19409 | 2026-09-12T00:06:19.845000+00:00 |
