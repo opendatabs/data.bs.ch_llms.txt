@@ -1,6 +1,6 @@
 # Theme: Tourismus
 
-_Generated: 2026-10-27T08:10:35+00:00_
+_Generated: 2026-10-31T08:38:21+00:00_
 
 - Dataset count: **42**
 - Back to: [theme index](./index.md)
@@ -8,31 +8,31 @@ _Generated: 2026-10-27T08:10:35+00:00_
 | dataset_id | title | records_count | modified |
 |---|---|---:|---|
 | [100004](https://data.bs.ch/explore/dataset/100004/information/) | Belegung der Elektroauto-Ladestationen der IWB | 26 | 2026-01-26T08:31:00.070000+00:00 |
-| [100005](https://data.bs.ch/explore/dataset/100005/information/) | Standorte der IWB Ladestationen für Elektroautos | 233 | 2026-10-26T23:00:36.148000+00:00 |
-| [100006](https://data.bs.ch/explore/dataset/100006/information/) | Verkehrszähldaten motorisierter Individualverkehr | 1991376 | 2026-10-27T07:40:15.575000+00:00 |
-| [100008](https://data.bs.ch/explore/dataset/100008/information/) | Bade-, Trinkwasser- und Zierbrunnen in Basel | 305 | 2026-10-26T23:03:57.994000+00:00 |
-| [100013](https://data.bs.ch/explore/dataset/100013/information/) | Verkehrszähldaten Velos und Fussgänger | 2453736 | 2026-10-27T07:43:44.961000+00:00 |
+| [100005](https://data.bs.ch/explore/dataset/100005/information/) | Standorte der IWB Ladestationen für Elektroautos | 233 | 2026-10-30T23:00:43.164000+00:00 |
+| [100006](https://data.bs.ch/explore/dataset/100006/information/) | Verkehrszähldaten motorisierter Individualverkehr | 1998912 | 2026-10-31T07:36:43.188000+00:00 |
+| [100008](https://data.bs.ch/explore/dataset/100008/information/) | Bade-, Trinkwasser- und Zierbrunnen in Basel | 305 | 2026-10-30T23:03:44.237000+00:00 |
+| [100013](https://data.bs.ch/explore/dataset/100013/information/) | Verkehrszähldaten Velos und Fussgänger | 2461392 | 2026-10-31T07:41:33.933000+00:00 |
 | [100015](https://data.bs.ch/explore/dataset/100015/information/) | Basel Info Points of Interest | 1014 | 2026-08-18T00:00:00+00:00 |
 | [100024](https://data.bs.ch/explore/dataset/100024/information/) | Kinder- und Jugendangebote | 90 | 2021-07-16T00:00:00+00:00 |
 | [100032](https://data.bs.ch/explore/dataset/100032/information/) | Alltagsvelorouten | 21 | 2025-02-10T13:49:36.886000+00:00 |
 | [100033](https://data.bs.ch/explore/dataset/100033/information/) | Touristische Velorouten | 29 | 2024-10-08T11:23:40.424000+00:00 |
-| [100044](https://data.bs.ch/explore/dataset/100044/information/) | Standorte der öffentlichen Parkhäuser Basel | 16 | 2026-10-27T08:05:36.926000+00:00 |
-| [100048](https://data.bs.ch/explore/dataset/100048/information/) | Luftqualität Station Chrischona | 232637 | 2026-10-27T07:15:58.549000+00:00 |
-| [100049](https://data.bs.ch/explore/dataset/100049/information/) | Luftqualität Station St. Johannplatz | 234279 | 2026-10-27T07:16:04.876000+00:00 |
-| [100050](https://data.bs.ch/explore/dataset/100050/information/) | Luftqualität Station Feldbergstrasse | 233180 | 2026-10-27T07:16:10.798000+00:00 |
-| [100051](https://data.bs.ch/explore/dataset/100051/information/) | Luftqualität Station Basel-Binningen | 73704 | 2026-10-27T07:20:52.100000+00:00 |
+| [100044](https://data.bs.ch/explore/dataset/100044/information/) | Standorte der öffentlichen Parkhäuser Basel | 16 | 2026-10-31T08:01:32.747000+00:00 |
+| [100048](https://data.bs.ch/explore/dataset/100048/information/) | Luftqualität Station Chrischona | 232733 | 2026-10-31T07:15:52.349000+00:00 |
+| [100049](https://data.bs.ch/explore/dataset/100049/information/) | Luftqualität Station St. Johannplatz | 234375 | 2026-10-31T07:15:57.951000+00:00 |
+| [100050](https://data.bs.ch/explore/dataset/100050/information/) | Luftqualität Station Feldbergstrasse | 233276 | 2026-10-31T07:16:02.317000+00:00 |
+| [100051](https://data.bs.ch/explore/dataset/100051/information/) | Luftqualität Station Basel-Binningen | 73800 | 2026-10-31T08:20:48.109000+00:00 |
 | [100063](https://data.bs.ch/explore/dataset/100063/information/) | Haltestellen des öffentlichen Verkehrs | 846 | 2026-02-09T00:00:00+00:00 |
 | [100064](https://data.bs.ch/explore/dataset/100064/information/) | Liniennetz des öffentlichen Verkehrs | 187 | 2026-02-09T00:00:00+00:00 |
 | [100065](https://data.bs.ch/explore/dataset/100065/information/) | Teilhaltestellen des öffentlichen Verkehrs | 660 | 2026-02-09T00:00:00+00:00 |
 | [100075](https://data.bs.ch/explore/dataset/100075/information/) | Fahrgastzahlen BVB | 285 | 2026-10-09T09:30:58.929000+00:00 |
-| [100078](https://data.bs.ch/explore/dataset/100078/information/) | EuroAirport: Tägliche Flugbewegungen, Passagiere und Fracht | 11424 | 2026-10-27T08:05:44.048000+00:00 |
-| [100088](https://data.bs.ch/explore/dataset/100088/information/) | Aktuelle Belegung der öffentlichen Parkhäuser Basel | 16 | 2026-10-27T08:09:04.712000+00:00 |
+| [100078](https://data.bs.ch/explore/dataset/100078/information/) | EuroAirport: Tägliche Flugbewegungen, Passagiere und Fracht | 11440 | 2026-10-31T08:30:51.825000+00:00 |
+| [100088](https://data.bs.ch/explore/dataset/100088/information/) | Aktuelle Belegung der öffentlichen Parkhäuser Basel | 16 | 2026-10-31T08:38:05.408000+00:00 |
 | [100106](https://data.bs.ch/explore/dataset/100106/information/) | Tägliche Logiernächte, verfügbare und belegte Zimmer | 17164 | 2026-10-16T06:31:30.313000+00:00 |
 | [100107](https://data.bs.ch/explore/dataset/100107/information/) | Monatliche Ankünfte und Logiernächte | 10805 | 2026-10-16T06:31:27.610000+00:00 |
 | [100151](https://data.bs.ch/explore/dataset/100151/information/) | Sport- und Bewegungsanlagen | 313 | 2026-05-05T00:00:00+00:00 |
 | [100170](https://data.bs.ch/explore/dataset/100170/information/) | Smarte Strasse: Verkehrslärm | 144229 | 2024-02-29T13:52:55.404000+00:00 |
 | [100171](https://data.bs.ch/explore/dataset/100171/information/) | Smarte Strasse: Zu- und Wegfahrten, Parkplatzauslastung | 7796 | 2022-10-04T11:45:10.577000+00:00 |
-| [100199](https://data.bs.ch/explore/dataset/100199/information/) | Durchschnittlicher Tagesverkehr (basierend auf dem Geschwindigkeitsmonitoring der Kantonspolizei) | 1701 | 2026-10-27T04:02:15.105000+00:00 |
+| [100199](https://data.bs.ch/explore/dataset/100199/information/) | Durchschnittlicher Tagesverkehr (basierend auf dem Geschwindigkeitsmonitoring der Kantonspolizei) | 1701 | 2026-10-31T04:02:08.211000+00:00 |
 | [100246](https://data.bs.ch/explore/dataset/100246/information/) | BachApp: Infos - Allgemein | 21 | 2026-09-02T11:15:37.192000+00:00 |
 | [100247](https://data.bs.ch/explore/dataset/100247/information/) | Events in Gewässernähe | 20 | 2026-09-02T11:15:38.958000+00:00 |
 | [100255](https://data.bs.ch/explore/dataset/100255/information/) | BachApp: Am Fluss | 24 | 2026-09-02T11:15:39.158000+00:00 |
@@ -41,8 +41,8 @@ _Generated: 2026-10-27T08:10:35+00:00_
 | [100283](https://data.bs.ch/explore/dataset/100283/information/) | Buvetten in Gewässernähe | 11 | 2026-09-02T11:15:39.574000+00:00 |
 | [100284](https://data.bs.ch/explore/dataset/100284/information/) | Grillstellen in Gewässernähe | 5 | 2026-09-02T11:15:40.629000+00:00 |
 | [100285](https://data.bs.ch/explore/dataset/100285/information/) | Treppen und Ausstiegsleitern an Gewässern | 264 | 2025-04-28T07:46:56.438000+00:00 |
-| [100384](https://data.bs.ch/explore/dataset/100384/information/) | Zeitreihe der Temperaturen der Gartenbäder | 139397 | 2026-10-27T08:06:39.401000+00:00 |
-| [100388](https://data.bs.ch/explore/dataset/100388/information/) | Aktuelle Temperaturen der Gartenbäder | 7 | 2026-10-27T08:05:36.884000+00:00 |
+| [100384](https://data.bs.ch/explore/dataset/100384/information/) | Zeitreihe der Temperaturen der Gartenbäder | 141847 | 2026-10-31T08:03:18.739000+00:00 |
+| [100388](https://data.bs.ch/explore/dataset/100388/information/) | Aktuelle Temperaturen der Gartenbäder | 7 | 2026-10-31T08:30:47.382000+00:00 |
 | [100404](https://data.bs.ch/explore/dataset/100404/information/) | Velostadtplan: Hinweise | 329 | 2026-08-18T00:00:00+00:00 |
 | [100413](https://data.bs.ch/explore/dataset/100413/information/) | Tägliche Ankünfte, Logiernächte, Zimmer nach Hotelkategorie | 6695 | 2026-09-15T07:01:45.432000+00:00 |
 | [100414](https://data.bs.ch/explore/dataset/100414/information/) | Tägliche Ankünfte und Logiernächte nach Herkunftsland | 336545 | 2026-09-15T07:04:06.255000+00:00 |

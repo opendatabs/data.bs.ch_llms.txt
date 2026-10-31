@@ -1,6 +1,6 @@
 # Theme: Gesundheit
 
-_Generated: 2026-10-27T08:10:35+00:00_
+_Generated: 2026-10-31T08:38:21+00:00_
 
 - Dataset count: **37**
 - Back to: [theme index](./index.md)
@@ -9,14 +9,14 @@ _Generated: 2026-10-27T08:10:35+00:00_
 |---|---|---:|---|
 | [100019](https://data.bs.ch/explore/dataset/100019/information/) | Defibrillatoren | 235 | 2026-05-05T00:00:00+00:00 |
 | [100020](https://data.bs.ch/explore/dataset/100020/information/) | Elternberatung | 12 | 2026-05-05T00:00:00+00:00 |
-| [100048](https://data.bs.ch/explore/dataset/100048/information/) | Luftqualität Station Chrischona | 232637 | 2026-10-27T07:15:58.549000+00:00 |
-| [100049](https://data.bs.ch/explore/dataset/100049/information/) | Luftqualität Station St. Johannplatz | 234279 | 2026-10-27T07:16:04.876000+00:00 |
-| [100050](https://data.bs.ch/explore/dataset/100050/information/) | Luftqualität Station Feldbergstrasse | 233180 | 2026-10-27T07:16:10.798000+00:00 |
-| [100051](https://data.bs.ch/explore/dataset/100051/information/) | Luftqualität Station Basel-Binningen | 73704 | 2026-10-27T07:20:52.100000+00:00 |
+| [100048](https://data.bs.ch/explore/dataset/100048/information/) | Luftqualität Station Chrischona | 232733 | 2026-10-31T07:15:52.349000+00:00 |
+| [100049](https://data.bs.ch/explore/dataset/100049/information/) | Luftqualität Station St. Johannplatz | 234375 | 2026-10-31T07:15:57.951000+00:00 |
+| [100050](https://data.bs.ch/explore/dataset/100050/information/) | Luftqualität Station Feldbergstrasse | 233276 | 2026-10-31T07:16:02.317000+00:00 |
+| [100051](https://data.bs.ch/explore/dataset/100051/information/) | Luftqualität Station Basel-Binningen | 73800 | 2026-10-31T08:20:48.109000+00:00 |
 | [100073](https://data.bs.ch/explore/dataset/100073/information/) | Coronavirus (COVID-19): Fallzahlen Basel-Stadt | 1225 | 2023-07-05T07:40:31.547000+00:00 |
 | [100076](https://data.bs.ch/explore/dataset/100076/information/) | Coronavirus (COVID-19): Todesfälle Basel-Stadt nach Alter und Geschlecht | 321 | 2024-03-13T14:01:41.500000+00:00 |
 | [100077](https://data.bs.ch/explore/dataset/100077/information/) | Coronavirus (COVID-19): Fallzahlen ganze Schweiz | 24440 | 2025-09-26T11:29:59+00:00 |
-| [100079](https://data.bs.ch/explore/dataset/100079/information/) | Gestorbene nach Altersklasse, Geschlecht und Sterbedatum | 7920 | 2026-10-27T02:15:43.903000+00:00 |
+| [100079](https://data.bs.ch/explore/dataset/100079/information/) | Gestorbene nach Altersklasse, Geschlecht und Sterbedatum | 7923 | 2026-10-30T02:16:18.605000+00:00 |
 | [100085](https://data.bs.ch/explore/dataset/100085/information/) | Coronavirus (COVID-19): Ergänzte Fallzahlen ganze Schweiz | 39693 | 2024-05-05T08:01:25.842000+00:00 |
 | [100094](https://data.bs.ch/explore/dataset/100094/information/) | Coronavirus (COVID-19): Tests Basel-Stadt | 1058 | 2023-02-08T15:00:56.972000+00:00 |
 | [100105](https://data.bs.ch/explore/dataset/100105/information/) | Coronavirus (COVID-19): Positiv getestete Personen nach Alter und Geschlecht | 13794 | 2024-03-13T14:01:52.391000+00:00 |

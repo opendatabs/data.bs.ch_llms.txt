@@ -1,13 +1,13 @@
 # Theme: Kultur, Medien, Informationsgesellschaft, Sport
 
-_Generated: 2026-10-27T08:10:35+00:00_
+_Generated: 2026-10-31T08:38:21+00:00_
 
 - Dataset count: **29**
 - Back to: [theme index](./index.md)
 
 | dataset_id | title | records_count | modified |
 |---|---|---:|---|
-| [100008](https://data.bs.ch/explore/dataset/100008/information/) | Bade-, Trinkwasser- und Zierbrunnen in Basel | 305 | 2026-10-26T23:03:57.994000+00:00 |
+| [100008](https://data.bs.ch/explore/dataset/100008/information/) | Bade-, Trinkwasser- und Zierbrunnen in Basel | 305 | 2026-10-30T23:03:44.237000+00:00 |
 | [100015](https://data.bs.ch/explore/dataset/100015/information/) | Basel Info Points of Interest | 1014 | 2026-08-18T00:00:00+00:00 |
 | [100024](https://data.bs.ch/explore/dataset/100024/information/) | Kinder- und Jugendangebote | 90 | 2021-07-16T00:00:00+00:00 |
 | [100026](https://data.bs.ch/explore/dataset/100026/information/) | Quartiertreffpunkte | 28 | 2026-05-05T00:00:00+00:00 |
@@ -21,18 +21,18 @@ _Generated: 2026-10-27T08:10:35+00:00_
 | [100255](https://data.bs.ch/explore/dataset/100255/information/) | BachApp: Am Fluss | 24 | 2026-09-02T11:15:39.158000+00:00 |
 | [100270](https://data.bs.ch/explore/dataset/100270/information/) | Empfohlene Schwimmbereiche im Rhein | 4 | 2023-04-14T07:39:38.684000+00:00 |
 | [100283](https://data.bs.ch/explore/dataset/100283/information/) | Buvetten in Gewässernähe | 11 | 2026-09-02T11:15:39.574000+00:00 |
-| [100352](https://data.bs.ch/explore/dataset/100352/information/) | Kantonsblatt | 91707 | 2026-10-27T00:33:58.068000+00:00 |
+| [100352](https://data.bs.ch/explore/dataset/100352/information/) | Kantonsblatt | 91851 | 2026-10-31T00:34:23.131000+00:00 |
 | [100365](https://data.bs.ch/explore/dataset/100365/information/) | Staatsarchiv: Neuzugänge im öffentlichen Archivkatalog | 953 | 2026-03-16T11:15:54.260000+00:00 |
-| [100384](https://data.bs.ch/explore/dataset/100384/information/) | Zeitreihe der Temperaturen der Gartenbäder | 139397 | 2026-10-27T08:06:39.401000+00:00 |
-| [100388](https://data.bs.ch/explore/dataset/100388/information/) | Aktuelle Temperaturen der Gartenbäder | 7 | 2026-10-27T08:05:36.884000+00:00 |
+| [100384](https://data.bs.ch/explore/dataset/100384/information/) | Zeitreihe der Temperaturen der Gartenbäder | 141847 | 2026-10-31T08:03:18.739000+00:00 |
+| [100388](https://data.bs.ch/explore/dataset/100388/information/) | Aktuelle Temperaturen der Gartenbäder | 7 | 2026-10-31T08:30:47.382000+00:00 |
 | [100417](https://data.bs.ch/explore/dataset/100417/information/) | ESC Eurovision Song Contest - FAQ | 180 | 2025-05-16T12:45:41.841000+00:00 |
-| [100418](https://data.bs.ch/explore/dataset/100418/information/) | Erwartete Besucherzahl im Raum St. Jakob | 380 | 2026-10-22T08:50:44.484000+00:00 |
-| [100419](https://data.bs.ch/explore/dataset/100419/information/) | Veranstaltungen im Raum St. Jakob | 482 | 2026-10-22T08:50:45.154000+00:00 |
+| [100418](https://data.bs.ch/explore/dataset/100418/information/) | Erwartete Besucherzahl im Raum St. Jakob | 394 | 2026-10-29T10:45:38.686000+00:00 |
+| [100419](https://data.bs.ch/explore/dataset/100419/information/) | Veranstaltungen im Raum St. Jakob | 499 | 2026-10-29T13:35:33.250000+00:00 |
 | [100429](https://data.bs.ch/explore/dataset/100429/information/) | Anreiseempfehlungen für Veranstaltungen im Raum St. Jakob | 14 | 2026-09-16T08:10:29.406000+00:00 |
 | [100431](https://data.bs.ch/explore/dataset/100431/information/) | Kantonale Partizipationsvorhaben | 79 | 2026-08-20T00:00:00+00:00 |
-| [100444](https://data.bs.ch/explore/dataset/100444/information/) | Registrierte Hunde nach Postleitzahl und verschiedenen Merkmalen seit 2008 | 125262 | 2026-10-26T15:02:18.085000+00:00 |
-| [100445](https://data.bs.ch/explore/dataset/100445/information/) | Hundebestand im Kanton Basel-Stadt seit 1970 | 589 | 2026-10-26T15:01:36.630000+00:00 |
-| [100446](https://data.bs.ch/explore/dataset/100446/information/) | Hundenamen im Kanton Basel-Stadt seit 2008 | 69689 | 2026-10-26T15:01:58.171000+00:00 |
-| [100447](https://data.bs.ch/explore/dataset/100447/information/) | Anzahl registrierter Hundebesitzer seit 2018 | 9 | 2026-10-26T15:01:36.691000+00:00 |
+| [100444](https://data.bs.ch/explore/dataset/100444/information/) | Registrierte Hunde nach Postleitzahl und verschiedenen Merkmalen seit 2008 | 125262 | 2026-10-30T15:01:22.378000+00:00 |
+| [100445](https://data.bs.ch/explore/dataset/100445/information/) | Hundebestand im Kanton Basel-Stadt seit 1970 | 589 | 2026-10-30T15:00:45.100000+00:00 |
+| [100446](https://data.bs.ch/explore/dataset/100446/information/) | Hundenamen im Kanton Basel-Stadt seit 2008 | 69689 | 2026-10-30T15:01:12.010000+00:00 |
+| [100447](https://data.bs.ch/explore/dataset/100447/information/) | Anzahl registrierter Hundebesitzer seit 2018 | 9 | 2026-10-30T15:01:04.248000+00:00 |
 | [100464](https://data.bs.ch/explore/dataset/100464/information/) | Informationen für den Raum St. Jakob | 4 | 2026-04-29T09:25:23.693000+00:00 |
 | [100468](https://data.bs.ch/explore/dataset/100468/information/) | Open Data Basel-Stadt Mastodon-Posts | 20 | 2025-09-11T10:18:11.415000+00:00 |
