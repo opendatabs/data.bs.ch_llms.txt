@@ -1,6 +1,6 @@
 # data.bs.ch datasets by theme
 
-_Generated: 2026-10-27T08:10:35+00:00_
+_Generated: 2026-10-31T08:38:21+00:00_
 
 ## Theme pages
 
@@ -27,6 +27,6 @@ _Generated: 2026-10-27T08:10:35+00:00_
 | Soziale Sicherheit | 8 | [open](./soziale-sicherheit.md) |
 | Statistische Grundlagen | 7 | [open](./statistische-grundlagen.md) |
 | Tourismus | 42 | [open](./tourismus.md) |
-| Verwaltung | 45 | [open](./verwaltung.md) |
+| Verwaltung | 44 | [open](./verwaltung.md) |
 | Volkswirtschaft | 5 | [open](./volkswirtschaft.md) |
 | Öffentliche Ordnung und Sicherheit | 29 | [open](./offentliche-ordnung-und-sicherheit.md) |

@@ -1,10 +1,10 @@
 # data.bs.ch dataset index
 
-_Generated: 2026-10-27T08:10:35+00:00_
+_Generated: 2026-10-31T08:38:21+00:00_
 
 This index is generated from the Explore API and grouped by themes in dedicated pages.
 
-- Total datasets: **364**
+- Total datasets: **363**
 - Theme index: [by-theme/index.md](./by-theme/index.md)
 
 ## Datasets
@@ -13,31 +13,31 @@ This index is generated from the Explore API and grouped by themes in dedicated 
 |---|---|---:|---|---|
 | [100003](https://data.bs.ch/explore/dataset/100003/information/) | Basler Index der Konsumentenpreise | 417626 | 2026-10-01T06:50:49.825000+00:00 | Preise |
 | [100004](https://data.bs.ch/explore/dataset/100004/information/) | Belegung der Elektroauto-Ladestationen der IWB | 26 | 2026-01-26T08:31:00.070000+00:00 | Mobilität und Verkehr, Energie, Industrie, Dienstleistungen, Tourismus |
-| [100005](https://data.bs.ch/explore/dataset/100005/information/) | Standorte der IWB Ladestationen für Elektroautos | 233 | 2026-10-26T23:00:36.148000+00:00 | Mobilität und Verkehr, Energie, Tourismus |
-| [100006](https://data.bs.ch/explore/dataset/100006/information/) | Verkehrszähldaten motorisierter Individualverkehr | 1991376 | 2026-10-27T07:40:15.575000+00:00 | Mobilität und Verkehr, Tourismus |
+| [100005](https://data.bs.ch/explore/dataset/100005/information/) | Standorte der IWB Ladestationen für Elektroautos | 233 | 2026-10-30T23:00:43.164000+00:00 | Mobilität und Verkehr, Energie, Tourismus |
+| [100006](https://data.bs.ch/explore/dataset/100006/information/) | Verkehrszähldaten motorisierter Individualverkehr | 1998912 | 2026-10-31T07:36:43.188000+00:00 | Mobilität und Verkehr, Tourismus |
 | [100007](https://data.bs.ch/explore/dataset/100007/information/) | Bevölkerungsszenarien Basel-Stadt 2026-2050 | 105600 | 2026-07-16T07:46:39.867000+00:00 | Bau- und Wohnungswesen, Bevölkerung, Raum und Umwelt, Statistische Grundlagen, Verwaltung, Volkswirtschaft |
-| [100008](https://data.bs.ch/explore/dataset/100008/information/) | Bade-, Trinkwasser- und Zierbrunnen in Basel | 305 | 2026-10-26T23:03:57.994000+00:00 | Kultur, Medien, Informationsgesellschaft, Sport, Tourismus |
-| [100009](https://data.bs.ch/explore/dataset/100009/information/) | Smart Climate Luftklima | 6870777 | 2026-10-27T07:13:57.694000+00:00 | Raum und Umwelt |
+| [100008](https://data.bs.ch/explore/dataset/100008/information/) | Bade-, Trinkwasser- und Zierbrunnen in Basel | 305 | 2026-10-30T23:03:44.237000+00:00 | Kultur, Medien, Informationsgesellschaft, Sport, Tourismus |
+| [100009](https://data.bs.ch/explore/dataset/100009/information/) | Smart Climate Luftklima | 6877939 | 2026-10-31T08:11:29.163000+00:00 | Raum und Umwelt |
 | [100010](https://data.bs.ch/explore/dataset/100010/information/) | Leerstehende Wohnungen | 5441 | 2026-08-21T08:58:10.612000+00:00 | Bau- und Wohnungswesen |
 | [100011](https://data.bs.ch/explore/dataset/100011/information/) | Kennzahlen zu den Basler Wohnvierteln und Landgemeinden | 231 | 2025-10-17T08:15:34.556000+00:00 | Arbeit, Erwerb, Bau- und Wohnungswesen, Bevölkerung, Raum und Umwelt, Finanzen, Industrie, Dienstleistungen, Soziale Sicherheit, Volkswirtschaft |
-| [100013](https://data.bs.ch/explore/dataset/100013/information/) | Verkehrszähldaten Velos und Fussgänger | 2453736 | 2026-10-27T07:43:44.961000+00:00 | Mobilität und Verkehr, Tourismus |
-| [100014](https://data.bs.ch/explore/dataset/100014/information/) | Zeitreihe der Belegung öffentlicher Parkhäuser Basel | 1037069 | 2026-10-27T08:10:01.500000+00:00 | Mobilität und Verkehr |
+| [100013](https://data.bs.ch/explore/dataset/100013/information/) | Verkehrszähldaten Velos und Fussgänger | 2461392 | 2026-10-31T07:41:33.933000+00:00 | Mobilität und Verkehr, Tourismus |
+| [100014](https://data.bs.ch/explore/dataset/100014/information/) | Zeitreihe der Belegung öffentlicher Parkhäuser Basel | 1038589 | 2026-10-31T08:05:48.090000+00:00 | Mobilität und Verkehr |
 | [100015](https://data.bs.ch/explore/dataset/100015/information/) | Basel Info Points of Interest | 1014 | 2026-08-18T00:00:00+00:00 | Tourismus, Geographie, Kultur, Medien, Informationsgesellschaft, Sport |
 | [100016](https://data.bs.ch/explore/dataset/100016/information/) | Postleitzahl | 15 | 2026-08-20T00:00:00+00:00 | Geographie, Verwaltung, Statistische Grundlagen |
 | [100017](https://data.bs.ch/explore/dataset/100017/information/) | Gemeinde | 3 | 2026-08-20T00:00:00+00:00 | Geographie, Verwaltung, Statistische Grundlagen |
-| [100018](https://data.bs.ch/explore/dataset/100018/information/) | Allmendbewilligungen | 262960 | 2026-10-24T00:00:00+00:00 | Öffentliche Ordnung und Sicherheit, Bau- und Wohnungswesen, Geographie |
+| [100018](https://data.bs.ch/explore/dataset/100018/information/) | Allmendbewilligungen | 264737 | 2026-10-30T00:00:00+00:00 | Öffentliche Ordnung und Sicherheit, Bau- und Wohnungswesen, Geographie |
 | [100019](https://data.bs.ch/explore/dataset/100019/information/) | Defibrillatoren | 235 | 2026-05-05T00:00:00+00:00 | Gesundheit, Geographie |
 | [100020](https://data.bs.ch/explore/dataset/100020/information/) | Elternberatung | 12 | 2026-05-05T00:00:00+00:00 | Gesundheit, Bevölkerung, Geographie |
-| [100021](https://data.bs.ch/explore/dataset/100021/information/) | Entsorgungsstellen | 108 | 2026-10-27T00:00:00+00:00 | Öffentliche Ordnung und Sicherheit, Geographie |
+| [100021](https://data.bs.ch/explore/dataset/100021/information/) | Entsorgungsstellen | 108 | 2026-10-31T00:00:00+00:00 | Öffentliche Ordnung und Sicherheit, Geographie |
 | [100022](https://data.bs.ch/explore/dataset/100022/information/) | Güteklassen öffentlicher Verkehr | 5 | 2026-07-30T00:00:00+00:00 | Mobilität und Verkehr, Geographie |
 | [100023](https://data.bs.ch/explore/dataset/100023/information/) | Hundesignalisation: Orte mit Leinenpflicht oder Hundeverbot | 315 | 2026-10-02T00:00:00+00:00 | Öffentliche Ordnung und Sicherheit, Geographie |
 | [100024](https://data.bs.ch/explore/dataset/100024/information/) | Kinder- und Jugendangebote | 90 | 2021-07-16T00:00:00+00:00 | Kultur, Medien, Informationsgesellschaft, Sport, Bevölkerung, Geographie, Tourismus |
 | [100025](https://data.bs.ch/explore/dataset/100025/information/) | Politische Wahlkreise | 5 | 2026-05-06T00:00:00+00:00 | Politik, Geographie |
 | [100026](https://data.bs.ch/explore/dataset/100026/information/) | Quartiertreffpunkte | 28 | 2026-05-05T00:00:00+00:00 | Kultur, Medien, Informationsgesellschaft, Sport, Bevölkerung, Geographie |
-| [100027](https://data.bs.ch/explore/dataset/100027/information/) | Recyclingstationen | 65 | 2026-10-26T00:00:00+00:00 | Öffentliche Ordnung und Sicherheit, Geographie |
-| [100028](https://data.bs.ch/explore/dataset/100028/information/) | Bio-Klappen | 8 | 2026-10-27T00:00:00+00:00 | Öffentliche Ordnung und Sicherheit, Geographie |
+| [100027](https://data.bs.ch/explore/dataset/100027/information/) | Recyclingstationen | 65 | 2026-10-30T00:00:00+00:00 | Öffentliche Ordnung und Sicherheit, Geographie |
+| [100028](https://data.bs.ch/explore/dataset/100028/information/) | Bio-Klappen | 8 | 2026-10-31T00:00:00+00:00 | Öffentliche Ordnung und Sicherheit, Geographie |
 | [100029](https://data.bs.ch/explore/dataset/100029/information/) | Schulstandorte (Gemeinde Basel) | 415 | 2026-06-30T00:00:00+00:00 | Bildung, Wissenschaft, Bevölkerung, Geographie |
-| [100030](https://data.bs.ch/explore/dataset/100030/information/) | Schulstandorte (Gemeinden Riehen und Bettingen) | 37 | 2026-10-23T00:00:00+00:00 | Bildung, Wissenschaft, Bevölkerung, Geographie |
+| [100030](https://data.bs.ch/explore/dataset/100030/information/) | Schulstandorte (Gemeinden Riehen und Bettingen) | 37 | 2026-10-29T00:00:00+00:00 | Bildung, Wissenschaft, Bevölkerung, Geographie |
 | [100031](https://data.bs.ch/explore/dataset/100031/information/) | Sanitäre Anlagen | 159 | 2026-08-10T00:00:00+00:00 | Öffentliche Ordnung und Sicherheit, Geographie |
 | [100032](https://data.bs.ch/explore/dataset/100032/information/) | Alltagsvelorouten | 21 | 2025-02-10T13:49:36.886000+00:00 | Mobilität und Verkehr, Geographie, Tourismus |
 | [100033](https://data.bs.ch/explore/dataset/100033/information/) | Touristische Velorouten | 29 | 2024-10-08T11:23:40.424000+00:00 | Tourismus, Mobilität und Verkehr, Geographie |
@@ -47,58 +47,58 @@ This index is generated from the Explore API and grouped by themes in dedicated 
 | [100041](https://data.bs.ch/explore/dataset/100041/information/) | Statistische Raumeinheiten: Blockseiten | 4179 | 2026-05-06T00:00:00+00:00 | Geographie, Statistische Grundlagen |
 | [100042](https://data.bs.ch/explore/dataset/100042/information/) | Statistische Raumeinheiten: Wohnviertel | 21 | 2026-05-06T00:00:00+00:00 | Geographie |
 | [100043](https://data.bs.ch/explore/dataset/100043/information/) | Invasive Neophyten | 6982 | 2026-10-25T00:00:00+00:00 | Raum und Umwelt, Geographie |
-| [100044](https://data.bs.ch/explore/dataset/100044/information/) | Standorte der öffentlichen Parkhäuser Basel | 16 | 2026-10-27T08:05:36.926000+00:00 | Mobilität und Verkehr, Geographie, Tourismus |
-| [100046](https://data.bs.ch/explore/dataset/100046/information/) | Rheinmesswerte kontinuierlich | 442521 | 2026-10-27T08:00:45.404000+00:00 | Raum und Umwelt |
+| [100044](https://data.bs.ch/explore/dataset/100044/information/) | Standorte der öffentlichen Parkhäuser Basel | 16 | 2026-10-31T08:01:32.747000+00:00 | Mobilität und Verkehr, Geographie, Tourismus |
+| [100046](https://data.bs.ch/explore/dataset/100046/information/) | Rheinmesswerte kontinuierlich | 442904 | 2026-10-31T07:50:22.442000+00:00 | Raum und Umwelt |
 | [100047](https://data.bs.ch/explore/dataset/100047/information/) | Smarte Strasse: Elektroauto-Ladestationen | 4159 | 2025-11-10T08:18:53.229000+00:00 | Mobilität und Verkehr, Energie, Industrie, Dienstleistungen |
-| [100048](https://data.bs.ch/explore/dataset/100048/information/) | Luftqualität Station Chrischona | 232637 | 2026-10-27T07:15:58.549000+00:00 | Raum und Umwelt, Gesundheit, Tourismus |
-| [100049](https://data.bs.ch/explore/dataset/100049/information/) | Luftqualität Station St. Johannplatz | 234279 | 2026-10-27T07:16:04.876000+00:00 | Raum und Umwelt, Gesundheit, Tourismus |
-| [100050](https://data.bs.ch/explore/dataset/100050/information/) | Luftqualität Station Feldbergstrasse | 233180 | 2026-10-27T07:16:10.798000+00:00 | Raum und Umwelt, Gesundheit, Tourismus |
-| [100051](https://data.bs.ch/explore/dataset/100051/information/) | Luftqualität Station Basel-Binningen | 73704 | 2026-10-27T07:20:52.100000+00:00 | Raum und Umwelt, Gesundheit, Tourismus |
-| [100052](https://data.bs.ch/explore/dataset/100052/information/) | Baumkataster: Baumbestand | 32435 | 2026-10-27T00:00:00+00:00 | Raum und Umwelt, Geographie |
+| [100048](https://data.bs.ch/explore/dataset/100048/information/) | Luftqualität Station Chrischona | 232733 | 2026-10-31T07:15:52.349000+00:00 | Raum und Umwelt, Gesundheit, Tourismus |
+| [100049](https://data.bs.ch/explore/dataset/100049/information/) | Luftqualität Station St. Johannplatz | 234375 | 2026-10-31T07:15:57.951000+00:00 | Raum und Umwelt, Gesundheit, Tourismus |
+| [100050](https://data.bs.ch/explore/dataset/100050/information/) | Luftqualität Station Feldbergstrasse | 233276 | 2026-10-31T07:16:02.317000+00:00 | Raum und Umwelt, Gesundheit, Tourismus |
+| [100051](https://data.bs.ch/explore/dataset/100051/information/) | Luftqualität Station Basel-Binningen | 73800 | 2026-10-31T08:20:48.109000+00:00 | Raum und Umwelt, Gesundheit, Tourismus |
+| [100052](https://data.bs.ch/explore/dataset/100052/information/) | Baumkataster: Baumbestand | 32426 | 2026-10-31T00:00:00+00:00 | Raum und Umwelt, Geographie |
 | [100053](https://data.bs.ch/explore/dataset/100053/information/) | Schulwegsicherheit: Strassenquerungen | 0 | 2025-08-28T14:18:27.157000+00:00 | Öffentliche Ordnung und Sicherheit, Mobilität und Verkehr |
 | [100054](https://data.bs.ch/explore/dataset/100054/information/) | Baumkataster: Fäll- und Baumersatzliste | 1 | 2026-04-28T00:00:00+00:00 | Raum und Umwelt, Geographie |
 | [100056](https://data.bs.ch/explore/dataset/100056/information/) | Schulwegsicherheit: Fusswege | 0 | 2025-08-28T14:18:25.520000+00:00 | Öffentliche Ordnung und Sicherheit, Mobilität und Verkehr |
-| [100057](https://data.bs.ch/explore/dataset/100057/information/) | OGD Datensätze | 364 | 2026-10-27T08:06:46.116000+00:00 | Verwaltung |
+| [100057](https://data.bs.ch/explore/dataset/100057/information/) | OGD Datensätze | 363 | 2026-10-31T08:03:15.336000+00:00 | Verwaltung |
 | [100058](https://data.bs.ch/explore/dataset/100058/information/) | Ordnungsbussen | 2051246 | 2026-09-04T08:39:38.787000+00:00 | Öffentliche Ordnung und Sicherheit, Gesetzgebung, Mobilität und Verkehr, Kriminalität, Strafrecht |
-| [100059](https://data.bs.ch/explore/dataset/100059/information/) | Wohnbevölkerung nach Staatsangehörigkeit und Gemeinde | 81 | 2026-10-27T02:50:51.404000+00:00 | Bevölkerung |
-| [100060](https://data.bs.ch/explore/dataset/100060/information/) | Wohnbevölkerung nach Staatsangehörigkeit und Wohnviertel | 567 | 2026-10-27T02:50:54.644000+00:00 | Bevölkerung |
-| [100061](https://data.bs.ch/explore/dataset/100061/information/) | Wohnbevölkerung nach Staatsangehörigkeit und Bezirk | 1880 | 2026-10-27T02:51:00.784000+00:00 | Bevölkerung |
-| [100062](https://data.bs.ch/explore/dataset/100062/information/) | Wohnbevölkerung nach Staatsangehörigkeit und Block | 34534 | 2026-10-27T02:53:16.062000+00:00 | Bevölkerung |
+| [100059](https://data.bs.ch/explore/dataset/100059/information/) | Wohnbevölkerung nach Staatsangehörigkeit und Gemeinde | 81 | 2026-10-31T00:00:58.966000+00:00 | Bevölkerung |
+| [100060](https://data.bs.ch/explore/dataset/100060/information/) | Wohnbevölkerung nach Staatsangehörigkeit und Wohnviertel | 567 | 2026-10-31T00:00:53.745000+00:00 | Bevölkerung |
+| [100061](https://data.bs.ch/explore/dataset/100061/information/) | Wohnbevölkerung nach Staatsangehörigkeit und Bezirk | 1880 | 2026-10-31T00:01:00.788000+00:00 | Bevölkerung |
+| [100062](https://data.bs.ch/explore/dataset/100062/information/) | Wohnbevölkerung nach Staatsangehörigkeit und Block | 34534 | 2026-10-31T00:03:36.589000+00:00 | Bevölkerung |
 | [100063](https://data.bs.ch/explore/dataset/100063/information/) | Haltestellen des öffentlichen Verkehrs | 846 | 2026-02-09T00:00:00+00:00 | Mobilität und Verkehr, Raum und Umwelt, Verwaltung, Tourismus |
 | [100064](https://data.bs.ch/explore/dataset/100064/information/) | Liniennetz des öffentlichen Verkehrs | 187 | 2026-02-09T00:00:00+00:00 | Mobilität und Verkehr, Raum und Umwelt, Verwaltung, Tourismus |
 | [100065](https://data.bs.ch/explore/dataset/100065/information/) | Teilhaltestellen des öffentlichen Verkehrs | 660 | 2026-02-09T00:00:00+00:00 | Mobilität und Verkehr, Raum und Umwelt, Verwaltung, Tourismus |
-| [100066](https://data.bs.ch/explore/dataset/100066/information/) | Umweltanalyse Oberflächengewässer | 270053 | 2026-10-27T06:06:13.697000+00:00 | Raum und Umwelt |
-| [100067](https://data.bs.ch/explore/dataset/100067/information/) | Umweltanalyse Grundwasser | 338651 | 2026-10-27T06:09:09.257000+00:00 | Raum und Umwelt |
+| [100066](https://data.bs.ch/explore/dataset/100066/information/) | Umweltanalyse Oberflächengewässer | 270080 | 2026-10-31T06:05:45.086000+00:00 | Raum und Umwelt |
+| [100067](https://data.bs.ch/explore/dataset/100067/information/) | Umweltanalyse Grundwasser | 338684 | 2026-10-31T06:08:34.768000+00:00 | Raum und Umwelt |
 | [100068](https://data.bs.ch/explore/dataset/100068/information/) | Rheinüberwachungsstation: Umweltanalyse Schwebstoffe | 63947 | 2026-07-31T06:04:04.814000+00:00 | Raum und Umwelt |
-| [100069](https://data.bs.ch/explore/dataset/100069/information/) | Rheinüberwachungsstation: Umweltanalyse Wasserphase | 2685305 | 2026-10-27T06:02:12.731000+00:00 | Raum und Umwelt |
-| [100070](https://data.bs.ch/explore/dataset/100070/information/) | Wilde Abfall-Deponien | 32167 | 2026-10-26T14:01:58.325000+00:00 | Raum und Umwelt, Bevölkerung, Verwaltung, Öffentliche Ordnung und Sicherheit |
+| [100069](https://data.bs.ch/explore/dataset/100069/information/) | Rheinüberwachungsstation: Umweltanalyse Wasserphase | 2685658 | 2026-10-31T06:02:02.643000+00:00 | Raum und Umwelt |
+| [100070](https://data.bs.ch/explore/dataset/100070/information/) | Wilde Abfall-Deponien | 32206 | 2026-10-30T14:01:44.484000+00:00 | Raum und Umwelt, Bevölkerung, Verwaltung, Öffentliche Ordnung und Sicherheit |
 | [100073](https://data.bs.ch/explore/dataset/100073/information/) | Coronavirus (COVID-19): Fallzahlen Basel-Stadt | 1225 | 2023-07-05T07:40:31.547000+00:00 | Gesundheit |
-| [100074](https://data.bs.ch/explore/dataset/100074/information/) | Veranstaltungen mit potenziellem Einfluss auf Veloverkehr | 15527 | 2026-10-26T17:31:01.515000+00:00 | Raum und Umwelt, Öffentliche Ordnung und Sicherheit |
+| [100074](https://data.bs.ch/explore/dataset/100074/information/) | Veranstaltungen mit potenziellem Einfluss auf Veloverkehr | 15526 | 2026-10-30T17:30:56.908000+00:00 | Raum und Umwelt, Öffentliche Ordnung und Sicherheit |
 | [100075](https://data.bs.ch/explore/dataset/100075/information/) | Fahrgastzahlen BVB | 285 | 2026-10-09T09:30:58.929000+00:00 | Mobilität und Verkehr, Tourismus |
 | [100076](https://data.bs.ch/explore/dataset/100076/information/) | Coronavirus (COVID-19): Todesfälle Basel-Stadt nach Alter und Geschlecht | 321 | 2024-03-13T14:01:41.500000+00:00 | Gesundheit |
 | [100077](https://data.bs.ch/explore/dataset/100077/information/) | Coronavirus (COVID-19): Fallzahlen ganze Schweiz | 24440 | 2025-09-26T11:29:59+00:00 | Gesundheit |
-| [100078](https://data.bs.ch/explore/dataset/100078/information/) | EuroAirport: Tägliche Flugbewegungen, Passagiere und Fracht | 11424 | 2026-10-27T08:05:44.048000+00:00 | Mobilität und Verkehr, Volkswirtschaft, Tourismus |
-| [100079](https://data.bs.ch/explore/dataset/100079/information/) | Gestorbene nach Altersklasse, Geschlecht und Sterbedatum | 7920 | 2026-10-27T02:15:43.903000+00:00 | Bevölkerung, Gesundheit |
-| [100080](https://data.bs.ch/explore/dataset/100080/information/) | Weiterverwendungen von OGD Datensätzen | 218 | 2026-10-27T08:10:39.692000+00:00 | Verwaltung |
+| [100078](https://data.bs.ch/explore/dataset/100078/information/) | EuroAirport: Tägliche Flugbewegungen, Passagiere und Fracht | 11440 | 2026-10-31T08:30:51.825000+00:00 | Mobilität und Verkehr, Volkswirtschaft, Tourismus |
+| [100079](https://data.bs.ch/explore/dataset/100079/information/) | Gestorbene nach Altersklasse, Geschlecht und Sterbedatum | 7923 | 2026-10-30T02:16:18.605000+00:00 | Bevölkerung, Gesundheit |
+| [100080](https://data.bs.ch/explore/dataset/100080/information/) | Weiterverwendungen von OGD Datensätzen | 218 | 2026-10-31T08:10:17.769000+00:00 | Verwaltung |
 | [100081](https://data.bs.ch/explore/dataset/100081/information/) | Smart Climate Feinstaubmessungen | 375663 | 2024-02-29T14:01:04.995000+00:00 | Raum und Umwelt |
-| [100082](https://data.bs.ch/explore/dataset/100082/information/) | Standorte Messstationen Smart Climate Luftklima | 198 | 2026-10-27T07:13:07.502000+00:00 | Raum und Umwelt |
+| [100082](https://data.bs.ch/explore/dataset/100082/information/) | Standorte Messstationen Smart Climate Luftklima | 198 | 2026-10-31T08:10:35.572000+00:00 | Raum und Umwelt |
 | [100083](https://data.bs.ch/explore/dataset/100083/information/) | Umfrage «digitale Mitwirkung» 2020 | 1000 | 2020-05-06T08:52:25.304000+00:00 | Politik, Verwaltung, Gesetzgebung |
 | [100084](https://data.bs.ch/explore/dataset/100084/information/) | Standorte Mess-Stationen Smart Climate Feinstaubmessungen | 10 | 2021-01-12T15:57:11.797000+00:00 | Raum und Umwelt |
 | [100085](https://data.bs.ch/explore/dataset/100085/information/) | Coronavirus (COVID-19): Ergänzte Fallzahlen ganze Schweiz | 39693 | 2024-05-05T08:01:25.842000+00:00 | Gesundheit |
 | [100086](https://data.bs.ch/explore/dataset/100086/information/) | Grosser Rat: Politische Vorstösse | 2437 | 2024-03-05T23:00:00+00:00 | Politik, Gesetzgebung |
-| [100087](https://data.bs.ch/explore/dataset/100087/information/) | Smart Climate Schallpegelmessungen | 1885494 | 2026-10-27T08:00:19.480000+00:00 | Raum und Umwelt |
-| [100088](https://data.bs.ch/explore/dataset/100088/information/) | Aktuelle Belegung der öffentlichen Parkhäuser Basel | 16 | 2026-10-27T08:09:04.712000+00:00 | Mobilität und Verkehr, Tourismus |
-| [100089](https://data.bs.ch/explore/dataset/100089/information/) | Rhein Wasserstand, Pegel und Abfluss | 667151 | 2026-10-27T08:00:27.534000+00:00 | Raum und Umwelt |
+| [100087](https://data.bs.ch/explore/dataset/100087/information/) | Smart Climate Schallpegelmessungen | 1886510 | 2026-10-31T08:00:14.972000+00:00 | Raum und Umwelt |
+| [100088](https://data.bs.ch/explore/dataset/100088/information/) | Aktuelle Belegung der öffentlichen Parkhäuser Basel | 16 | 2026-10-31T08:38:05.408000+00:00 | Mobilität und Verkehr, Tourismus |
+| [100089](https://data.bs.ch/explore/dataset/100089/information/) | Rhein Wasserstand, Pegel und Abfluss | 668301 | 2026-10-31T07:55:07.568000+00:00 | Raum und Umwelt |
 | [100090](https://data.bs.ch/explore/dataset/100090/information/) | Standorte Mess-Stationen Smart Climate Schallpegelmessungen | 1 | 2026-04-29T13:46:33.005000+00:00 | Raum und Umwelt |
-| [100092](https://data.bs.ch/explore/dataset/100092/information/) | Geborene nach Geschlecht, Staatsangehörigkeit, Wohnviertel und Geburtsdatum | 41396 | 2026-10-27T02:16:06.878000+00:00 | Bevölkerung |
+| [100092](https://data.bs.ch/explore/dataset/100092/information/) | Geborene nach Geschlecht, Staatsangehörigkeit, Wohnviertel und Geburtsdatum | 41416 | 2026-10-30T02:16:42.922000+00:00 | Bevölkerung |
 | [100093](https://data.bs.ch/explore/dataset/100093/information/) | Smarte Strasse: Luftqualität | 20303 | 2023-06-29T07:45:17.247000+00:00 | Raum und Umwelt |
 | [100094](https://data.bs.ch/explore/dataset/100094/information/) | Coronavirus (COVID-19): Tests Basel-Stadt | 1058 | 2023-02-08T15:00:56.972000+00:00 | Gesundheit |
 | [100095](https://data.bs.ch/explore/dataset/100095/information/) | Abfuhrzonen (Gemeinde Basel) | 18 | 2026-08-10T00:00:00+00:00 | Raum und Umwelt, Öffentliche Ordnung und Sicherheit, Verwaltung |
 | [100096](https://data.bs.ch/explore/dataset/100096/information/) | Abfuhrtermine | 15925 | 2026-05-12T15:20:45.851000+00:00 | Raum und Umwelt, Öffentliche Ordnung und Sicherheit, Verwaltung |
 | [100097](https://data.bs.ch/explore/dataset/100097/information/) | Geschwindigkeitsmonitoring: Einzelmessungen | 17299973 | 2026-10-13T02:39:44.290000+00:00 | Mobilität und Verkehr |
 | [100098](https://data.bs.ch/explore/dataset/100098/information/) | Wahllokale Kanton Basel-Stadt | 14 | 2025-09-24T10:12:24.520000+00:00 | Politik |
-| [100099](https://data.bs.ch/explore/dataset/100099/information/) | Geborene nach Geschlecht, Staatsangehörigkeit und Geburtsmonat | 41342 | 2026-10-27T02:02:15.891000+00:00 | Bevölkerung |
-| [100100](https://data.bs.ch/explore/dataset/100100/information/) | Feinstaubmessungen Naturhistorisches Museum Basel | 29906 | 2026-10-26T23:30:21.635000+00:00 | Raum und Umwelt |
+| [100099](https://data.bs.ch/explore/dataset/100099/information/) | Geborene nach Geschlecht, Staatsangehörigkeit und Geburtsmonat | 41346 | 2026-10-30T02:01:02.005000+00:00 | Bevölkerung |
+| [100100](https://data.bs.ch/explore/dataset/100100/information/) | Feinstaubmessungen Naturhistorisches Museum Basel | 29906 | 2026-10-30T23:30:27.787000+00:00 | Raum und Umwelt |
 | [100101](https://data.bs.ch/explore/dataset/100101/information/) | Resultate der Grossratswahlen 25. Oktober 2020 | 792 | 2025-04-28T07:45:39.584000+00:00 | Politik, Bevölkerung, Gesetzgebung |
 | [100102](https://data.bs.ch/explore/dataset/100102/information/) | Resultate der Regierungsrats- und Regierungspräsidiumswahlen 2020 | 82 | 2025-04-28T07:45:39.104000+00:00 | Politik, Gesetzgebung, Bevölkerung |
 | [100105](https://data.bs.ch/explore/dataset/100105/information/) | Coronavirus (COVID-19): Positiv getestete Personen nach Alter und Geschlecht | 13794 | 2024-03-13T14:01:52.391000+00:00 | Gesundheit |
@@ -108,7 +108,7 @@ This index is generated from the Explore API and grouped by themes in dedicated 
 | [100109](https://data.bs.ch/explore/dataset/100109/information/) | Coronavirus (COVID-19): Hospitalisierte in baselstädtischen Spitälern | 1161 | 2023-05-02T12:45:41.422000+00:00 | Gesundheit |
 | [100110](https://data.bs.ch/explore/dataset/100110/information/) | Coronavirus (COVID-19): Reproduktionszahl (Re) | 259367 | 2026-10-26T08:31:44.856000+00:00 | Gesundheit |
 | [100111](https://data.bs.ch/explore/dataset/100111/information/) | Coronavirus (COVID-19): In Basel-Stadt verabreichte Impfungen | 915 | 2024-01-04T08:38:16.056000+00:00 | Gesundheit |
-| [100112](https://data.bs.ch/explore/dataset/100112/information/) | Geschwindigkeitsmonitoring: Kennzahlen pro Mess-Standort | 1158 | 2026-10-27T02:01:35.778000+00:00 | Mobilität und Verkehr |
+| [100112](https://data.bs.ch/explore/dataset/100112/information/) | Geschwindigkeitsmonitoring: Kennzahlen pro Mess-Standort | 1158 | 2026-10-31T02:03:39.792000+00:00 | Mobilität und Verkehr |
 | [100113](https://data.bs.ch/explore/dataset/100113/information/) | Feinstaubmessungen auf BVB-Trams | 933434 | 2026-01-28T10:16:46.763000+00:00 | Raum und Umwelt, Mobilität und Verkehr |
 | [100114](https://data.bs.ch/explore/dataset/100114/information/) | Smarte Strasse: Sensoren | 6 | 2022-01-31T15:32:35.096000+00:00 | Raum und Umwelt, Mobilität und Verkehr, Energie |
 | [100116](https://data.bs.ch/explore/dataset/100116/information/) | Coronavirus (COVID-19): Tests nach Nachweismethode | 30247 | 2023-02-08T08:49:35.858000+00:00 | Gesundheit |
@@ -117,7 +117,7 @@ This index is generated from the Explore API and grouped by themes in dedicated 
 | [100122](https://data.bs.ch/explore/dataset/100122/information/) | Schülerprognose Riehen und Bettingen | 2184 | 2026-03-16T11:15:38.271000+00:00 | Bildung, Wissenschaft |
 | [100123](https://data.bs.ch/explore/dataset/100123/information/) | Lohntabelle des Kantons Basel-Stadt | 19040 | 2026-09-07T14:01:17.127000+00:00 | Verwaltung |
 | [100124](https://data.bs.ch/explore/dataset/100124/information/) | Perimeter der Schülerprognosen Basel-Stadt | 28 | 2025-04-28T07:46:31.752000+00:00 | Bildung, Wissenschaft |
-| [100125](https://data.bs.ch/explore/dataset/100125/information/) | Wohnbevölkerung nach Bezirk | 14528 | 2026-10-27T02:17:40.268000+00:00 | Bevölkerung |
+| [100125](https://data.bs.ch/explore/dataset/100125/information/) | Wohnbevölkerung nach Bezirk | 14528 | 2026-10-30T02:18:10.476000+00:00 | Bevölkerung |
 | [100126](https://data.bs.ch/explore/dataset/100126/information/) | Wohnbevölkerung nach Geschlecht, Staatsangehörigkeit und Wohnviertel | 123202 | 2026-08-10T12:31:23.042000+00:00 | Bevölkerung |
 | [100127](https://data.bs.ch/explore/dataset/100127/information/) | Nachnamen der baselstädtischen Bevölkerung | 693011 | 2026-10-01T01:20:29.925000+00:00 | Bevölkerung |
 | [100128](https://data.bs.ch/explore/dataset/100128/information/) | Wohnbevölkerung nach Geschlecht, Alter, Staatsangehörigkeit und Wohnviertel | 370615 | 2026-10-01T01:19:00.685000+00:00 | Bevölkerung |
@@ -129,8 +129,8 @@ This index is generated from the Explore API and grouped by themes in dedicated 
 | [100135](https://data.bs.ch/explore/dataset/100135/information/) | Coronavirus (COVID-19): Impfungen nach Altersgruppe | 18931 | 2024-01-04T08:42:54.330000+00:00 | Gesundheit |
 | [100136](https://data.bs.ch/explore/dataset/100136/information/) | Coronavirus (COVID-19): Für Impfung angemeldete Personen nach Altersklasse | 2008 | 2021-12-16T16:38:47.599000+00:00 | Gesundheit |
 | [100137](https://data.bs.ch/explore/dataset/100137/information/) | Coronavirus (COVID-19): Erweiterte Daten zu Impfungen nach Altersgruppe | 22643 | 2024-01-04T08:34:41.291000+00:00 | Gesundheit |
-| [100138](https://data.bs.ch/explore/dataset/100138/information/) | Wanderungen (Zuzug, Wegzug und Umzug) Kanton Basel-Stadt | 1781066 | 2026-10-27T02:33:26.573000+00:00 | Bevölkerung |
-| [100139](https://data.bs.ch/explore/dataset/100139/information/) | Scheidungen nach Scheidungsdatum, Ehedauer sowie Alter und Staatsangehörigkeit der ehemaligen Ehepartner | 19114 | 2026-10-27T02:15:51.955000+00:00 | Bevölkerung |
+| [100138](https://data.bs.ch/explore/dataset/100138/information/) | Wanderungen (Zuzug, Wegzug und Umzug) Kanton Basel-Stadt | 1781066 | 2026-10-30T02:34:35.387000+00:00 | Bevölkerung |
+| [100139](https://data.bs.ch/explore/dataset/100139/information/) | Scheidungen nach Scheidungsdatum, Ehedauer sowie Alter und Staatsangehörigkeit der ehemaligen Ehepartner | 19114 | 2026-10-30T02:16:26.464000+00:00 | Bevölkerung |
 | [100145](https://data.bs.ch/explore/dataset/100145/information/) | Coronavirus (COVID-19): Massentests an Schulen der Primar- und Sekundarstufe I | 69 | 2025-04-28T07:46:05.132000+00:00 | Gesundheit |
 | [100146](https://data.bs.ch/explore/dataset/100146/information/) | Coronavirus (COVID-19): Massentests in Betrieben | 173 | 2025-04-28T07:46:15.442000+00:00 | Gesundheit |
 | [100148](https://data.bs.ch/explore/dataset/100148/information/) | Sammlung Europa | 73733 | 2025-04-24T11:06:17.719000+00:00 | Kultur, Medien, Informationsgesellschaft, Sport |
@@ -139,11 +139,11 @@ This index is generated from the Explore API and grouped by themes in dedicated 
 | [100151](https://data.bs.ch/explore/dataset/100151/information/) | Sport- und Bewegungsanlagen | 313 | 2026-05-05T00:00:00+00:00 | Kultur, Medien, Informationsgesellschaft, Sport, Geographie, Tourismus |
 | [100152](https://data.bs.ch/explore/dataset/100152/information/) | Coronavirus (COVID-19): Positiv getestete Minderjährige in 3-Jahresklassen | 3114 | 2025-04-28T07:46:37.840000+00:00 | Gesundheit |
 | [100153](https://data.bs.ch/explore/dataset/100153/information/) | Coronavirus (COVID-19): Massentests an Schulen der Sekundarstufe II | 51 | 2022-03-09T14:02:52.257000+00:00 | Gesundheit |
-| [100156](https://data.bs.ch/explore/dataset/100156/information/) | Heiraten nach Trauungsdatum | 48379 | 2026-10-27T02:16:12.029000+00:00 | Bevölkerung |
+| [100156](https://data.bs.ch/explore/dataset/100156/information/) | Heiraten nach Trauungsdatum | 48379 | 2026-10-30T02:16:45.799000+00:00 | Bevölkerung |
 | [100158](https://data.bs.ch/explore/dataset/100158/information/) | Überwachung Luftqualität Sanierung Areal Walkeweg | 246 | 2025-12-01T11:01:06.943000+00:00 | Raum und Umwelt |
 | [100160](https://data.bs.ch/explore/dataset/100160/information/) | Smarte Strasse: Parkplatzbelegung | 1 | 2023-03-02T09:57:54.876000+00:00 | Mobilität und Verkehr |
 | [100162](https://data.bs.ch/explore/dataset/100162/information/) | Coronavirus (COVID-19): Geimpfte Personen mit Wohnsitz in Basel-Stadt | 915 | 2024-01-04T08:34:36.742000+00:00 | Gesundheit |
-| [100164](https://data.bs.ch/explore/dataset/100164/information/) | Wasserstand Grundwasser | 17103953 | 2026-10-26T14:44:26.003000+00:00 | Raum und Umwelt |
+| [100164](https://data.bs.ch/explore/dataset/100164/information/) | Wasserstand Grundwasser | 17111465 | 2026-10-31T05:25:53.843000+00:00 | Raum und Umwelt |
 | [100165](https://data.bs.ch/explore/dataset/100165/information/) | Steuerstatistik Basel-Stadt: Kennzahlen seit 1991 nach Gemeinde und Wohnviertel | 704 | 2025-10-10T06:31:06.483000+00:00 | Finanzen |
 | [100170](https://data.bs.ch/explore/dataset/100170/information/) | Smarte Strasse: Verkehrslärm | 144229 | 2024-02-29T13:52:55.404000+00:00 | Mobilität und Verkehr, Tourismus |
 | [100171](https://data.bs.ch/explore/dataset/100171/information/) | Smarte Strasse: Zu- und Wegfahrten, Parkplatzauslastung | 7796 | 2022-10-04T11:45:10.577000+00:00 | Mobilität und Verkehr, Tourismus |
@@ -154,15 +154,15 @@ This index is generated from the Explore API and grouped by themes in dedicated 
 | [100176](https://data.bs.ch/explore/dataset/100176/information/) | Smarte Strasse: Parkplatz-Zonen | 6 | 2026-02-07T10:35:40.052000+00:00 | Mobilität und Verkehr |
 | [100177](https://data.bs.ch/explore/dataset/100177/information/) | Öffentlicher Archivkatalog in RDF | 0 | 2026-01-29T09:52:58.619000+00:00 | Kultur, Medien, Informationsgesellschaft, Sport, Bildung, Wissenschaft, Verwaltung |
 | [100178](https://data.bs.ch/explore/dataset/100178/information/) | Smarte Strasse: Luftqualität Vergleichsmessungen | 19381 | 2023-06-29T07:45:18.266000+00:00 | Raum und Umwelt |
-| [100179](https://data.bs.ch/explore/dataset/100179/information/) | Temperatur Grundwasser | 12092720 | 2026-10-26T14:44:25.869000+00:00 | Raum und Umwelt |
-| [100180](https://data.bs.ch/explore/dataset/100180/information/) | Wasserstand Grundwasser: Langjährige Statistiken | 2708 | 2026-10-26T14:45:57.470000+00:00 | Raum und Umwelt |
-| [100181](https://data.bs.ch/explore/dataset/100181/information/) | Temperatur Grundwasser: Langjährige Statistiken | 1876 | 2026-10-26T14:46:08.705000+00:00 | Raum und Umwelt |
+| [100179](https://data.bs.ch/explore/dataset/100179/information/) | Temperatur Grundwasser | 12100209 | 2026-10-31T05:25:53.717000+00:00 | Raum und Umwelt |
+| [100180](https://data.bs.ch/explore/dataset/100180/information/) | Wasserstand Grundwasser: Langjährige Statistiken | 2708 | 2026-10-31T05:25:50.081000+00:00 | Raum und Umwelt |
+| [100181](https://data.bs.ch/explore/dataset/100181/information/) | Temperatur Grundwasser: Langjährige Statistiken | 1876 | 2026-10-31T05:25:50.848000+00:00 | Raum und Umwelt |
 | [100182](https://data.bs.ch/explore/dataset/100182/information/) | Bohrkataster | 8767 | 2026-07-08T00:00:00+00:00 | Geographie, Raum und Umwelt, Bau- und Wohnungswesen |
 | [100183](https://data.bs.ch/explore/dataset/100183/information/) | Coronavirus (COVID-19): Massentests an Schulen | 98 | 2025-04-28T07:46:15.471000+00:00 | Gesundheit |
 | [100185](https://data.bs.ch/explore/dataset/100185/information/) | Befragung 55plus (jahresübergreifend) | 780159 | 2026-03-26T12:42:47.571000+00:00 | Bevölkerung |
 | [100186](https://data.bs.ch/explore/dataset/100186/information/) | Grosser Rat: Live-Abstimmungsergebnisse | 623200 | 2026-10-21T20:40:40.210000+00:00 | Politik, Gesetzgebung, Verwaltung |
 | [100187](https://data.bs.ch/explore/dataset/100187/information/) | Coronavirus (COVID-19): SARS-CoV-2 im Abwasser und positiv auf SARS-CoV-2 getestete Personen | 1949 | 2026-10-26T14:01:39.728000+00:00 | Gesundheit |
-| [100188](https://data.bs.ch/explore/dataset/100188/information/) | Grosser Rat: Sitzungskalender | 1025 | 2026-10-27T05:14:14.472000+00:00 | Politik, Gesetzgebung, Verwaltung |
+| [100188](https://data.bs.ch/explore/dataset/100188/information/) | Grosser Rat: Sitzungskalender | 1025 | 2026-10-31T02:04:13.747000+00:00 | Politik, Gesetzgebung, Verwaltung |
 | [100189](https://data.bs.ch/explore/dataset/100189/information/) | Strassennamen | 1456 | 2026-08-09T00:00:00+00:00 | Geographie, Raum und Umwelt |
 | [100191](https://data.bs.ch/explore/dataset/100191/information/) | Studierende der Universität Basel nach Geschlecht und Fakultät | 126 | 2026-02-10T09:12:30.927000+00:00 | Bildung, Wissenschaft |
 | [100192](https://data.bs.ch/explore/dataset/100192/information/) | Vornamen der Neugeborenen nach Geschlecht | 24972 | 2026-10-01T01:15:57.656000+00:00 | Bevölkerung |
@@ -170,57 +170,57 @@ This index is generated from the Explore API and grouped by themes in dedicated 
 | [100196](https://data.bs.ch/explore/dataset/100196/information/) | Zeitreihe der Belegung der Elektroauto-Ladestationen der IWB | 107714 | 2022-09-21T03:28:52.377000+00:00 | Mobilität und Verkehr, Energie, Industrie, Dienstleistungen |
 | [100197](https://data.bs.ch/explore/dataset/100197/information/) | Wohnbevölkerung nach Postleitzahl seit 1979 | 684 | 2026-10-01T01:15:49.230000+00:00 | Bevölkerung |
 | [100198](https://data.bs.ch/explore/dataset/100198/information/) | Ein- und Ausfahrten öffentlicher Parkhäuser Basel | 297953 | 2026-03-16T12:24:06.983000+00:00 | Mobilität und Verkehr |
-| [100199](https://data.bs.ch/explore/dataset/100199/information/) | Durchschnittlicher Tagesverkehr (basierend auf dem Geschwindigkeitsmonitoring der Kantonspolizei) | 1701 | 2026-10-27T04:02:15.105000+00:00 | Mobilität und Verkehr, Tourismus |
-| [100201](https://data.bs.ch/explore/dataset/100201/information/) | Liegenschaften: Parzellen | 24426 | 2026-08-20T00:00:00+00:00 | Geographie, Raum und Umwelt |
+| [100199](https://data.bs.ch/explore/dataset/100199/information/) | Durchschnittlicher Tagesverkehr (basierend auf dem Geschwindigkeitsmonitoring der Kantonspolizei) | 1701 | 2026-10-31T04:02:08.211000+00:00 | Mobilität und Verkehr, Tourismus |
+| [100201](https://data.bs.ch/explore/dataset/100201/information/) | Liegenschaften: Parzellen | 24425 | 2026-08-20T00:00:00+00:00 | Geographie, Raum und Umwelt |
 | [100202](https://data.bs.ch/explore/dataset/100202/information/) | Zuordnung von Parzellen auf Statistische Raumeinheiten | 24380 | 2025-04-28T08:28:49.529000+00:00 | Bau- und Wohnungswesen |
 | [100203](https://data.bs.ch/explore/dataset/100203/information/) | Befragung 55plus (2019) | 373650 | 2026-03-26T12:39:37.684000+00:00 | Bevölkerung |
 | [100204](https://data.bs.ch/explore/dataset/100204/information/) | Befragung 55plus (2015) | 373874 | 2026-03-26T12:39:37.545000+00:00 | Bevölkerung |
 | [100205](https://data.bs.ch/explore/dataset/100205/information/) | Befragung 55plus (2011) | 462786 | 2026-03-26T12:40:22.032000+00:00 | Bevölkerung |
 | [100213](https://data.bs.ch/explore/dataset/100213/information/) | Velopumpen | 32 | 2026-08-18T00:00:00+00:00 | Geographie, Mobilität und Verkehr |
 | [100214](https://data.bs.ch/explore/dataset/100214/information/) | Kunst im öffentlichen Raum | 568 | 2026-09-08T00:00:00+00:00 | Kultur, Medien, Informationsgesellschaft, Sport, Bevölkerung, Bildung, Wissenschaft, Raum und Umwelt |
-| [100215](https://data.bs.ch/explore/dataset/100215/information/) | Verkehrsberuhigte Zonen: Begegnungszone | 173 | 2026-09-07T00:00:00+00:00 | Geographie, Mobilität und Verkehr |
-| [100216](https://data.bs.ch/explore/dataset/100216/information/) | Unfallschwerpunkte | 187 | 2026-10-26T00:00:00+00:00 | Mobilität und Verkehr, Öffentliche Ordnung und Sicherheit, Raum und Umwelt |
+| [100215](https://data.bs.ch/explore/dataset/100215/information/) | Verkehrsberuhigte Zonen: Begegnungszone | 173 | 2026-10-22T00:00:00+00:00 | Geographie, Mobilität und Verkehr |
+| [100216](https://data.bs.ch/explore/dataset/100216/information/) | Unfallschwerpunkte | 187 | 2026-10-30T00:00:00+00:00 | Mobilität und Verkehr, Öffentliche Ordnung und Sicherheit, Raum und Umwelt |
 | [100221](https://data.bs.ch/explore/dataset/100221/information/) | Swisslos-Sportfonds Basel-Stadt | 1427 | 2026-03-19T02:01:46.604000+00:00 | Kultur, Medien, Informationsgesellschaft, Sport |
-| [100223](https://data.bs.ch/explore/dataset/100223/information/) | Briefliche Stimmbeteiligung | 469 | 2026-10-26T10:30:14.121000+00:00 | Politik |
+| [100223](https://data.bs.ch/explore/dataset/100223/information/) | Briefliche Stimmbeteiligung | 473 | 2026-10-30T09:30:14.090000+00:00 | Politik |
 | [100225](https://data.bs.ch/explore/dataset/100225/information/) | Schutzsuchende im Kanton Basel-Stadt nach Geschlecht, Altersklasse, Staatsangehörigkeit, Zuzugs- und Wegzugsmonat | 36913 | 2025-04-28T07:47:10.053000+00:00 | Bevölkerung |
 | [100226](https://data.bs.ch/explore/dataset/100226/information/) | Kennzahlen zu den Basler Wohnvierteln und Landgemeinden - langer Datensatz | 2793 | 2025-10-17T08:15:35.570000+00:00 | Arbeit, Erwerb, Bau- und Wohnungswesen, Bevölkerung, Raum und Umwelt, Finanzen, Industrie, Dienstleistungen, Soziale Sicherheit, Volkswirtschaft |
 | [100227](https://data.bs.ch/explore/dataset/100227/information/) | Witterung | 1269 | 2026-10-01T11:31:07.517000+00:00 | Raum und Umwelt |
 | [100229](https://data.bs.ch/explore/dataset/100229/information/) | Kantonale Abstimmungen | 657 | 2026-09-28T08:46:05.167000+00:00 | Politik |
-| [100230](https://data.bs.ch/explore/dataset/100230/information/) | Gebäude (Gebäude- und Wohnungsregister GWR) | 32262 | 2026-10-27T05:26:45.422000+00:00 | Bau- und Wohnungswesen |
-| [100231](https://data.bs.ch/explore/dataset/100231/information/) | Gebäudeeingänge (Gebäude- und Wohnungsregister GWR) | 33774 | 2026-10-27T05:26:31.091000+00:00 | Bau- und Wohnungswesen |
-| [100232](https://data.bs.ch/explore/dataset/100232/information/) | Wohnungen (Gebäude- und Wohnungsregister GWR) | 126052 | 2026-10-27T05:27:12.728000+00:00 | Bau- und Wohnungswesen |
-| [100233](https://data.bs.ch/explore/dataset/100233/information/) | Kantonaler Stromverbrauch | 519299 | 2026-10-26T09:05:21.730000+00:00 | Energie |
+| [100230](https://data.bs.ch/explore/dataset/100230/information/) | Gebäude (Gebäude- und Wohnungsregister GWR) | 32262 | 2026-10-31T05:26:26.415000+00:00 | Bau- und Wohnungswesen |
+| [100231](https://data.bs.ch/explore/dataset/100231/information/) | Gebäudeeingänge (Gebäude- und Wohnungsregister GWR) | 33774 | 2026-10-31T05:26:14.453000+00:00 | Bau- und Wohnungswesen |
+| [100232](https://data.bs.ch/explore/dataset/100232/information/) | Wohnungen (Gebäude- und Wohnungsregister GWR) | 126053 | 2026-10-31T05:26:55.475000+00:00 | Bau- und Wohnungswesen |
+| [100233](https://data.bs.ch/explore/dataset/100233/information/) | Kantonaler Stromverbrauch | 519683 | 2026-10-30T09:05:23.433000+00:00 | Energie |
 | [100234](https://data.bs.ch/explore/dataset/100234/information/) | Nutzungsplan - Zonenplan Stadt Basel: Überlagernde Festlegungen | 455 | 2026-07-08T00:00:00+00:00 | Geographie, Raum und Umwelt |
-| [100235](https://data.bs.ch/explore/dataset/100235/information/) | Wiese Wasserstand und Abfluss | 419930 | 2026-10-27T08:00:29.035000+00:00 | Raum und Umwelt |
-| [100236](https://data.bs.ch/explore/dataset/100236/information/) | Birs Temperatur, Wasserstand und Abfluss | 419927 | 2026-10-27T08:00:28.102000+00:00 | Raum und Umwelt |
+| [100235](https://data.bs.ch/explore/dataset/100235/information/) | Wiese Wasserstand und Abfluss | 421080 | 2026-10-31T07:55:08.952000+00:00 | Raum und Umwelt |
+| [100236](https://data.bs.ch/explore/dataset/100236/information/) | Birs Temperatur, Wasserstand und Abfluss | 421077 | 2026-10-31T07:55:08.273000+00:00 | Raum und Umwelt |
 | [100238](https://data.bs.ch/explore/dataset/100238/information/) | Bevölkerung nach Geschlecht, Heimat und Altersjahr ab 1945 | 47960 | 2026-01-01T02:31:17.058000+00:00 | Bevölkerung |
 | [100241](https://data.bs.ch/explore/dataset/100241/information/) | Veloabstellplätze | 1437 | 2026-08-20T00:00:00+00:00 | Mobilität und Verkehr, Geographie |
 | [100242](https://data.bs.ch/explore/dataset/100242/information/) | Strassen und Wege: Durchgangsstrassen | 36 | 2026-06-09T00:00:00+00:00 | Mobilität und Verkehr, Geographie |
-| [100243](https://data.bs.ch/explore/dataset/100243/information/) | Rhein Wasserstand Klingentalfähre | 406440 | 2026-10-27T08:00:29.882000+00:00 | Raum und Umwelt |
+| [100243](https://data.bs.ch/explore/dataset/100243/information/) | Rhein Wasserstand Klingentalfähre | 407588 | 2026-10-31T07:55:09.649000+00:00 | Raum und Umwelt |
 | [100244](https://data.bs.ch/explore/dataset/100244/information/) | Gefahrenstufen für Hochwasser | 3 | 2022-12-16T12:54:26.221000+00:00 | Raum und Umwelt |
 | [100245](https://data.bs.ch/explore/dataset/100245/information/) | Effektiver und erwarteter täglicher Stromverbrauch | 5052 | 2026-03-16T11:15:40.206000+00:00 | Energie |
 | [100246](https://data.bs.ch/explore/dataset/100246/information/) | BachApp: Infos - Allgemein | 21 | 2026-09-02T11:15:37.192000+00:00 | Kultur, Medien, Informationsgesellschaft, Sport, Tourismus |
 | [100247](https://data.bs.ch/explore/dataset/100247/information/) | Events in Gewässernähe | 20 | 2026-09-02T11:15:38.958000+00:00 | Kultur, Medien, Informationsgesellschaft, Sport, Tourismus |
 | [100249](https://data.bs.ch/explore/dataset/100249/information/) | Strassen und Wege: Kantonsstrassen Riehen und Bettingen | 13 | 2024-10-31T00:00:00+00:00 | Geographie, Mobilität und Verkehr |
-| [100250](https://data.bs.ch/explore/dataset/100250/information/) | Strassen und Wege: Strassentypen und Wege | 7553 | 2026-06-09T00:00:00+00:00 | Mobilität und Verkehr, Geographie |
-| [100251](https://data.bs.ch/explore/dataset/100251/information/) | Verkehrsberuhigte Zonen: Fussgängerzone | 48 | 2026-09-07T00:00:00+00:00 | Geographie, Mobilität und Verkehr |
-| [100252](https://data.bs.ch/explore/dataset/100252/information/) | Verkehrsberuhigte Zonen: Tempo 30 - Zone | 190 | 2026-09-07T00:00:00+00:00 | Geographie, Mobilität und Verkehr |
-| [100253](https://data.bs.ch/explore/dataset/100253/information/) | Verkehrsberuhigte Zonen: Kernzone Verkehrskonzept Innenstadt | 5 | 2026-09-07T00:00:00+00:00 | Geographie, Mobilität und Verkehr |
-| [100254](https://data.bs.ch/explore/dataset/100254/information/) | Tägliche Klimadaten der NBCN-Station Basel-Binningen | 59469 | 2026-10-27T05:42:17.997000+00:00 | Raum und Umwelt |
+| [100250](https://data.bs.ch/explore/dataset/100250/information/) | Strassen und Wege: Strassentypen und Wege | 7601 | 2026-06-09T00:00:00+00:00 | Mobilität und Verkehr, Geographie |
+| [100251](https://data.bs.ch/explore/dataset/100251/information/) | Verkehrsberuhigte Zonen: Fussgängerzone | 49 | 2026-10-22T00:00:00+00:00 | Geographie, Mobilität und Verkehr |
+| [100252](https://data.bs.ch/explore/dataset/100252/information/) | Verkehrsberuhigte Zonen: Tempo 30 - Zone | 194 | 2026-10-22T00:00:00+00:00 | Geographie, Mobilität und Verkehr |
+| [100253](https://data.bs.ch/explore/dataset/100253/information/) | Verkehrsberuhigte Zonen: Kernzone Verkehrskonzept Innenstadt | 5 | 2026-10-22T00:00:00+00:00 | Geographie, Mobilität und Verkehr |
+| [100254](https://data.bs.ch/explore/dataset/100254/information/) | Tägliche Klimadaten der NBCN-Station Basel-Binningen | 59473 | 2026-10-31T02:42:14.362000+00:00 | Raum und Umwelt |
 | [100255](https://data.bs.ch/explore/dataset/100255/information/) | BachApp: Am Fluss | 24 | 2026-09-02T11:15:39.158000+00:00 | Kultur, Medien, Informationsgesellschaft, Sport, Tourismus, Raum und Umwelt |
 | [100256](https://data.bs.ch/explore/dataset/100256/information/) | Nutzungsplan - Zonenplan Riehen: Überlagernde Festlegungen | 294 | 2026-05-05T00:00:00+00:00 | Geographie, Raum und Umwelt |
 | [100257](https://data.bs.ch/explore/dataset/100257/information/) | Nutzungsplan - Zonenplan Bettingen:  Überlagernde Festlegungen | 38 | 2026-05-06T00:00:00+00:00 | Geographie, Raum und Umwelt |
-| [100259](https://data.bs.ch/explore/dataset/100259/information/) | Gebäudeadressen und -informationen | 33310 | 2026-10-24T00:00:00+00:00 | Bau- und Wohnungswesen, Geographie, Raum und Umwelt |
+| [100259](https://data.bs.ch/explore/dataset/100259/information/) | Gebäudeadressen und -informationen | 33310 | 2026-10-30T00:00:00+00:00 | Bau- und Wohnungswesen, Geographie, Raum und Umwelt |
 | [100261](https://data.bs.ch/explore/dataset/100261/information/) | Gewässernetz: Gewässerachsen | 40 | 2019-06-24T00:00:00+00:00 | Geographie, Raum und Umwelt |
 | [100262](https://data.bs.ch/explore/dataset/100262/information/) | Gewässernetz: Eindolungen | 58 | 2019-06-24T00:00:00+00:00 | Geographie, Raum und Umwelt |
 | [100268](https://data.bs.ch/explore/dataset/100268/information/) | Einzelmessungen der Smiley-Geschwindigkeitsanzeigen | 4843693 | 2026-09-09T06:01:06.816000+00:00 | Mobilität und Verkehr, Öffentliche Ordnung und Sicherheit |
-| [100269](https://data.bs.ch/explore/dataset/100269/information/) | Temperatur Wiese | 32352 | 2026-10-27T07:30:10.871000+00:00 | Raum und Umwelt |
+| [100269](https://data.bs.ch/explore/dataset/100269/information/) | Temperatur Wiese | 32449 | 2026-10-31T08:30:11.580000+00:00 | Raum und Umwelt |
 | [100270](https://data.bs.ch/explore/dataset/100270/information/) | Empfohlene Schwimmbereiche im Rhein | 4 | 2023-04-14T07:39:38.684000+00:00 | Kultur, Medien, Informationsgesellschaft, Sport, Tourismus |
-| [100271](https://data.bs.ch/explore/dataset/100271/information/) | Vorhersagen Rhein: Wasserstand und Abfluss | 423 | 2026-10-27T07:05:13.686000+00:00 | Raum und Umwelt |
-| [100272](https://data.bs.ch/explore/dataset/100272/information/) | Vorhersagen Birs: Wasserstand und Abfluss | 423 | 2026-10-27T07:06:09.734000+00:00 | Raum und Umwelt |
+| [100271](https://data.bs.ch/explore/dataset/100271/information/) | Vorhersagen Rhein: Wasserstand und Abfluss | 423 | 2026-10-31T07:01:45.656000+00:00 | Raum und Umwelt |
+| [100272](https://data.bs.ch/explore/dataset/100272/information/) | Vorhersagen Birs: Wasserstand und Abfluss | 423 | 2026-10-31T07:01:45.716000+00:00 | Raum und Umwelt |
 | [100273](https://data.bs.ch/explore/dataset/100273/information/) | Überwachung Luftqualität Transformation Areal Rosental: Flüchtige Schadstoffe | 1780 | 2026-10-02T13:45:35.232000+00:00 | Raum und Umwelt |
 | [100274](https://data.bs.ch/explore/dataset/100274/information/) | Überwachung Luftqualität Transformation Areal Rosental: Staubgebundene Schadstoffe | 3512 | 2026-10-02T13:45:08.123000+00:00 | Raum und Umwelt |
-| [100275](https://data.bs.ch/explore/dataset/100275/information/) | Überwachung Luftqualität Transformation Areal Rosental: Online Sensor Feinstaub | 268762 | 2026-10-27T08:00:11.574000+00:00 | Raum und Umwelt |
+| [100275](https://data.bs.ch/explore/dataset/100275/information/) | Überwachung Luftqualität Transformation Areal Rosental: Online Sensor Feinstaub | 269530 | 2026-10-31T08:00:09.607000+00:00 | Raum und Umwelt |
 | [100276](https://data.bs.ch/explore/dataset/100276/information/) | Feuerstellen in Gewässernähe | 10 | 2025-04-28T07:47:05.899000+00:00 | Raum und Umwelt, Tourismus |
 | [100277](https://data.bs.ch/explore/dataset/100277/information/) | Statistiken der Smiley-Geschwindigkeitsanzeigen | 288 | 2026-09-04T04:37:16.782000+00:00 | Mobilität und Verkehr, Öffentliche Ordnung und Sicherheit |
 | [100278](https://data.bs.ch/explore/dataset/100278/information/) | Fischereiverbotszonen Rhein | 7 | 2025-04-28T07:46:52.289000+00:00 | Raum und Umwelt |
@@ -243,52 +243,52 @@ This index is generated from the Explore API and grouped by themes in dedicated 
 | [100300](https://data.bs.ch/explore/dataset/100300/information/) | Resultate der Bürgergemeinderatswahlen 18. Juni 2023 | 298 | 2025-04-28T07:47:13.213000+00:00 | Politik, Bevölkerung, Gesetzgebung |
 | [100301](https://data.bs.ch/explore/dataset/100301/information/) | Resultate der Bürgergemeinderatswahlen 2023 auf Listenebene | 10 | 2025-04-28T07:47:13.668000+00:00 | Politik, Bevölkerung, Gesetzgebung |
 | [100302](https://data.bs.ch/explore/dataset/100302/information/) | Abwassermonitoring: Influenza und RSV | 1943 | 2026-10-26T18:01:20.129000+00:00 | Gesundheit |
-| [100304](https://data.bs.ch/explore/dataset/100304/information/) | Gasverbrauch im Versorgungsgebiet der IWB | 45145 | 2026-10-26T13:02:00.337000+00:00 | Energie |
+| [100304](https://data.bs.ch/explore/dataset/100304/information/) | Gasverbrauch im Versorgungsgebiet der IWB | 45241 | 2026-10-30T13:01:55.678000+00:00 | Energie |
 | [100305](https://data.bs.ch/explore/dataset/100305/information/) | Tigermückenbekämpfungsgebiet | 1 | 2026-08-18T00:00:00+00:00 | Raum und Umwelt |
 | [100306](https://data.bs.ch/explore/dataset/100306/information/) | Smarte Strasse: Aufrufe der Microsites | 1025 | 2026-02-07T10:38:09.298000+00:00 | Raum und Umwelt |
-| [100307](https://data.bs.ch/explore/dataset/100307/information/) | Grosser Rat: Ratsmitgliedschaften | 456 | 2026-10-27T04:01:41.792000+00:00 | Politik, Verwaltung |
+| [100307](https://data.bs.ch/explore/dataset/100307/information/) | Grosser Rat: Ratsmitgliedschaften | 456 | 2026-10-28T04:01:45.207000+00:00 | Politik, Verwaltung |
 | [100308](https://data.bs.ch/explore/dataset/100308/information/) | Grosser Rat: Mitgliedschaften in Gremien | 3036 | 2026-10-21T03:01:46.358000+00:00 | Politik, Verwaltung |
-| [100309](https://data.bs.ch/explore/dataset/100309/information/) | Grosser Rat: Interessensbindungen Ratsmitglieder | 1050 | 2026-10-27T04:01:43.611000+00:00 | Politik, Verwaltung |
+| [100309](https://data.bs.ch/explore/dataset/100309/information/) | Grosser Rat: Interessensbindungen Ratsmitglieder | 1050 | 2026-10-28T04:01:45.368000+00:00 | Politik, Verwaltung |
 | [100310](https://data.bs.ch/explore/dataset/100310/information/) | Grosser Rat: Gremien | 84 | 2026-10-21T03:01:46.119000+00:00 | Politik, Verwaltung |
-| [100311](https://data.bs.ch/explore/dataset/100311/information/) | Grosser Rat: Geschäfte | 21259 | 2026-10-27T04:01:59.189000+00:00 | Politik, Verwaltung |
-| [100312](https://data.bs.ch/explore/dataset/100312/information/) | Grosser Rat: Zuweisungen von Geschäften | 25449 | 2026-10-27T04:02:04.156000+00:00 | Politik, Verwaltung |
-| [100313](https://data.bs.ch/explore/dataset/100313/information/) | Grosser Rat: Dokumente | 57049 | 2026-10-27T04:02:18.095000+00:00 | Politik, Verwaltung |
-| [100314](https://data.bs.ch/explore/dataset/100314/information/) | Grosser Rat: Vorgänge von Geschäften | 45195 | 2026-10-27T04:02:13.374000+00:00 | Politik, Verwaltung |
+| [100311](https://data.bs.ch/explore/dataset/100311/information/) | Grosser Rat: Geschäfte | 21264 | 2026-10-30T04:01:54.843000+00:00 | Politik, Verwaltung |
+| [100312](https://data.bs.ch/explore/dataset/100312/information/) | Grosser Rat: Zuweisungen von Geschäften | 25457 | 2026-10-30T04:01:56.471000+00:00 | Politik, Verwaltung |
+| [100313](https://data.bs.ch/explore/dataset/100313/information/) | Grosser Rat: Dokumente | 57066 | 2026-10-30T04:02:16.240000+00:00 | Politik, Verwaltung |
+| [100314](https://data.bs.ch/explore/dataset/100314/information/) | Grosser Rat: Vorgänge von Geschäften | 45201 | 2026-10-30T04:02:08.338000+00:00 | Politik, Verwaltung |
 | [100316](https://data.bs.ch/explore/dataset/100316/information/) | Kandidierende der Nationalratswahlen 22. Oktober 2023 | 122 | 2025-04-28T07:47:25.598000+00:00 | Politik, Gesetzgebung, Verwaltung |
 | [100317](https://data.bs.ch/explore/dataset/100317/information/) | Kandidierende der Ständeratswahlen 22. Oktober 2023 | 4 | 2025-04-28T07:47:26.130000+00:00 | Politik, Gesetzgebung, Verwaltung |
 | [100318](https://data.bs.ch/explore/dataset/100318/information/) | Gesundheitsversorgung (GSV): Pflegeheime | 362 | 2025-08-19T23:00:57+00:00 | Gesundheit |
 | [100319](https://data.bs.ch/explore/dataset/100319/information/) | Gesundheitsversorgung (GSV): Pflegeheimbewohnende | 14 | 2025-08-19T23:00:58+00:00 | Gesundheit |
 | [100320](https://data.bs.ch/explore/dataset/100320/information/) | Gesundheitsversorgung (GSV): Spitalkennzahlen | 69 | 2026-07-16T15:00:50.359000+00:00 | Gesundheit |
 | [100321](https://data.bs.ch/explore/dataset/100321/information/) | Erwerb des Schweizer Bürgerrechts nach Geschlecht, Alter, Geburtsland und Staatsangehörigkeit bei Gesuchsstellung | 11760 | 2025-11-14T15:30:56.919000+00:00 | Bevölkerung |
-| [100323](https://data.bs.ch/explore/dataset/100323/information/) | Rheintrübung kontinuierlich | 26388 | 2026-10-27T08:00:47.147000+00:00 | Raum und Umwelt |
+| [100323](https://data.bs.ch/explore/dataset/100323/information/) | Rheintrübung kontinuierlich | 26484 | 2026-10-31T08:00:58.078000+00:00 | Raum und Umwelt |
 | [100325](https://data.bs.ch/explore/dataset/100325/information/) | Kantonales Leistungsverzeichnis: Gebühren | 406 | 2026-10-16T10:02:20.164000+00:00 | Verwaltung |
 | [100326](https://data.bs.ch/explore/dataset/100326/information/) | Lebendgeborene seit 1901 | 124 | 2026-03-16T11:15:48.542000+00:00 | Bevölkerung |
-| [100329](https://data.bs.ch/explore/dataset/100329/information/) | Parkflächen | 7821 | 2026-10-25T00:01:34.735000+00:00 | Mobilität und Verkehr, Raum und Umwelt |
-| [100330](https://data.bs.ch/explore/dataset/100330/information/) | Handelsregister: Firmen mit Rechtsform und Standort | 19466 | 2026-10-27T00:06:13.777000+00:00 | Industrie, Dienstleistungen, Volkswirtschaft |
+| [100329](https://data.bs.ch/explore/dataset/100329/information/) | Parkflächen | 7822 | 2026-10-29T00:01:38.762000+00:00 | Mobilität und Verkehr, Raum und Umwelt |
+| [100330](https://data.bs.ch/explore/dataset/100330/information/) | Handelsregister: Firmen mit Rechtsform und Standort | 19466 | 2026-10-31T00:06:08.999000+00:00 | Industrie, Dienstleistungen, Volkswirtschaft |
 | [100331](https://data.bs.ch/explore/dataset/100331/information/) | Veränderte Wahlzettel der Nationalratswahlen 22. Oktober 2023 | 29637 | 2026-03-16T11:16:15.398000+00:00 | Politik, Bevölkerung |
 | [100332](https://data.bs.ch/explore/dataset/100332/information/) | Verbotszonen geteilte Mikromobilität: Sperr- und Parkverbotszonen | 54 | 2025-01-29T00:00:00+00:00 | Mobilität und Verkehr, Öffentliche Ordnung und Sicherheit, Raum und Umwelt |
 | [100333](https://data.bs.ch/explore/dataset/100333/information/) | Kandidierende der Ersatzwahlen Regierungsrat 3. März 2024 | 4 | 2024-03-21T12:41:54.470000+00:00 | Politik, Gesetzgebung, Bevölkerung |
 | [100334](https://data.bs.ch/explore/dataset/100334/information/) | Kandidierende der Ersatzwahlen Regierungspräsidium 3. März 2024 | 4 | 2024-03-21T12:43:21.265000+00:00 | Politik, Gesetzgebung, Bevölkerung |
-| [100335](https://data.bs.ch/explore/dataset/100335/information/) | Baustellen | 106 | 2026-10-27T00:01:30.629000+00:00 | Bau- und Wohnungswesen |
+| [100335](https://data.bs.ch/explore/dataset/100335/information/) | Baustellen | 102 | 2026-10-31T06:01:21.879000+00:00 | Bau- und Wohnungswesen |
 | [100336](https://data.bs.ch/explore/dataset/100336/information/) | Einzugsgebiet der ARA Basel | 13 | 2024-01-18T14:39:47+00:00 | Gesundheit |
 | [100337](https://data.bs.ch/explore/dataset/100337/information/) | Resultate der Ersatzwahlen Regierungsrat 3. März 2024 | 16 | 2025-04-28T07:47:38.285000+00:00 | Politik, Gesetzgebung, Bevölkerung |
 | [100338](https://data.bs.ch/explore/dataset/100338/information/) | Resultate der Ersatzwahlen Regierungspräsidium 3. März 2024 | 20 | 2025-04-28T07:47:39.408000+00:00 | Politik, Bevölkerung |
-| [100341](https://data.bs.ch/explore/dataset/100341/information/) | Tagesheime und Kitas | 132 | 2026-05-05T00:00:00+00:00 | Bevölkerung |
+| [100341](https://data.bs.ch/explore/dataset/100341/information/) | Tagesheime und Kitas | 129 | 2026-05-05T00:00:00+00:00 | Bevölkerung |
 | [100345](https://data.bs.ch/explore/dataset/100345/information/) | Abstimmungen Details | 808 | 2026-09-27T14:16:08.899000+00:00 | Politik |
 | [100346](https://data.bs.ch/explore/dataset/100346/information/) | Kennzahlen der Abstimmungen | 399 | 2026-09-27T14:16:08.979000+00:00 | Politik |
-| [100348](https://data.bs.ch/explore/dataset/100348/information/) | Grosser Rat: Tagesordnungen und Traktandenlisten der Grossratssitzungen | 10923 | 2026-10-22T11:50:15.507000+00:00 | Politik, Verwaltung |
-| [100352](https://data.bs.ch/explore/dataset/100352/information/) | Kantonsblatt | 91707 | 2026-10-27T00:33:58.068000+00:00 | Verwaltung, Gesetzgebung, Bau- und Wohnungswesen, Kultur, Medien, Informationsgesellschaft, Sport |
+| [100348](https://data.bs.ch/explore/dataset/100348/information/) | Grosser Rat: Tagesordnungen und Traktandenlisten der Grossratssitzungen | 11028 | 2026-10-30T04:01:53.597000+00:00 | Politik, Verwaltung |
+| [100352](https://data.bs.ch/explore/dataset/100352/information/) | Kantonsblatt | 91851 | 2026-10-31T00:34:23.131000+00:00 | Verwaltung, Gesetzgebung, Bau- und Wohnungswesen, Kultur, Medien, Informationsgesellschaft, Sport |
 | [100353](https://data.bs.ch/explore/dataset/100353/information/) | Effektiver und erwarteter täglicher Gasverbrauch | 1522 | 2026-03-16T11:15:52.384000+00:00 | Energie |
-| [100354](https://data.bs.ch/explore/dataset/100354/information/) | Gesetzessammlung: Gesetzestexte | 11097 | 2026-10-23T08:21:40.860000+00:00 | Gesetzgebung |
-| [100355](https://data.bs.ch/explore/dataset/100355/information/) | Gesetzessammlung: Gesetzesänderungen | 3346 | 2026-10-23T08:17:33.643000+00:00 | Gesetzgebung |
-| [100356](https://data.bs.ch/explore/dataset/100356/information/) | Geschwindigkeitsklassen motorisierter Individualverkehr | 1460832 | 2026-10-27T06:56:56.601000+00:00 | Mobilität und Verkehr |
+| [100354](https://data.bs.ch/explore/dataset/100354/information/) | Gesetzessammlung: Gesetzestexte | 11113 | 2026-10-30T08:24:04.532000+00:00 | Gesetzgebung |
+| [100355](https://data.bs.ch/explore/dataset/100355/information/) | Gesetzessammlung: Gesetzesänderungen | 3362 | 2026-10-30T08:19:40.828000+00:00 | Gesetzgebung |
+| [100356](https://data.bs.ch/explore/dataset/100356/information/) | Geschwindigkeitsklassen motorisierter Individualverkehr | 1466736 | 2026-10-31T06:55:02.755000+00:00 | Mobilität und Verkehr |
 | [100357](https://data.bs.ch/explore/dataset/100357/information/) | Baumkronenbedeckung | 3 | 2026-02-07T10:39:24.760000+00:00 | Raum und Umwelt, Geographie |
 | [100360](https://data.bs.ch/explore/dataset/100360/information/) | Resultate der Ersatzwahlen Regierungsrat 7. April 2024 (2. Wahlgang) | 12 | 2025-04-28T07:47:41.886000+00:00 | Politik, Gesetzgebung, Bevölkerung |
 | [100361](https://data.bs.ch/explore/dataset/100361/information/) | Resultate der Ersatzwahlen Regierungspräsidium 7. April 2024 (2. Wahlgang) | 28 | 2025-04-28T07:47:43.294000+00:00 | Politik, Gesetzgebung, Bevölkerung |
-| [100362](https://data.bs.ch/explore/dataset/100362/information/) | Sauberkeitsindex pro Quartal und Wohnviertel | 460 | 2026-10-01T07:01:51.415000+00:00 | Öffentliche Ordnung und Sicherheit, Raum und Umwelt, Bevölkerung |
-| [100363](https://data.bs.ch/explore/dataset/100363/information/) | Secondhand-Angebote / Wiederverwendungsstellen | 24 | 2026-10-27T00:00:00+00:00 | Handel, Geographie, Raum und Umwelt |
+| [100362](https://data.bs.ch/explore/dataset/100362/information/) | Sauberkeitsindex pro Quartal und Wohnviertel | 460 | 2026-10-27T14:02:04.262000+00:00 | Öffentliche Ordnung und Sicherheit, Raum und Umwelt, Bevölkerung |
+| [100363](https://data.bs.ch/explore/dataset/100363/information/) | Secondhand-Angebote / Wiederverwendungsstellen | 24 | 2026-10-31T00:00:00+00:00 | Handel, Geographie, Raum und Umwelt |
 | [100365](https://data.bs.ch/explore/dataset/100365/information/) | Staatsarchiv: Neuzugänge im öffentlichen Archivkatalog | 953 | 2026-03-16T11:15:54.260000+00:00 | Verwaltung, Kultur, Medien, Informationsgesellschaft, Sport |
-| [100366](https://data.bs.ch/explore/dataset/100366/information/) | Kantonsblatt: Baupublikationen | 163 | 2026-10-27T01:03:13.227000+00:00 | Bau- und Wohnungswesen, Verwaltung, Gesetzgebung |
+| [100366](https://data.bs.ch/explore/dataset/100366/information/) | Kantonsblatt: Baupublikationen | 194 | 2026-10-31T01:03:34.022000+00:00 | Bau- und Wohnungswesen, Verwaltung, Gesetzgebung |
 | [100375](https://data.bs.ch/explore/dataset/100375/information/) | Zivilschutzkataster Quartier | 43 | 2023-09-05T00:00:00+00:00 | Öffentliche Ordnung und Sicherheit, Geographie |
 | [100376](https://data.bs.ch/explore/dataset/100376/information/) | Zivilschutzkataster Sektor | 8 | 2023-09-05T00:00:00+00:00 | Öffentliche Ordnung und Sicherheit, Geographie |
 | [100377](https://data.bs.ch/explore/dataset/100377/information/) | Gesundheitsversorgung (GSV): Tagesgäste von Tages- und Nachtpflegeeinrichtungen (TNP) | 6 | 2026-10-22T05:43:30.601000+00:00 | Gesundheit |
@@ -298,18 +298,18 @@ This index is generated from the Explore API and grouped by themes in dedicated 
 | [100381](https://data.bs.ch/explore/dataset/100381/information/) | Resultate der Wahl eines zusätzl. Strafgerichtspräsidiums 18. August 2024 | 8 | 2025-04-28T07:47:48.984000+00:00 | Politik, Bevölkerung |
 | [100382](https://data.bs.ch/explore/dataset/100382/information/) | Solarkataster: Solarpotenzial | 34955 | 2022-12-14T00:00:00+00:00 | Energie |
 | [100383](https://data.bs.ch/explore/dataset/100383/information/) | Solarkataster: Dachkanten | 453460 | 2022-12-14T00:00:00+00:00 | Energie |
-| [100384](https://data.bs.ch/explore/dataset/100384/information/) | Zeitreihe der Temperaturen der Gartenbäder | 139397 | 2026-10-27T08:06:39.401000+00:00 | Kultur, Medien, Informationsgesellschaft, Sport, Tourismus |
+| [100384](https://data.bs.ch/explore/dataset/100384/information/) | Zeitreihe der Temperaturen der Gartenbäder | 141847 | 2026-10-31T08:03:18.739000+00:00 | Kultur, Medien, Informationsgesellschaft, Sport, Tourismus |
 | [100385](https://data.bs.ch/explore/dataset/100385/information/) | Kandidierende der Grossratswahlen 20. Oktober 2024 | 870 | 2024-08-30T07:08:30.099000+00:00 | Politik, Gesetzgebung, Verwaltung |
 | [100386](https://data.bs.ch/explore/dataset/100386/information/) | Kandidierende der Regierungsratswahlen 20. Oktober 2024 | 12 | 2024-08-30T07:08:38.076000+00:00 | Politik, Gesetzgebung, Bevölkerung |
 | [100387](https://data.bs.ch/explore/dataset/100387/information/) | Kandidierende der Regierungspräsidiumswahlen 20. Oktober 2024 | 3 | 2024-08-30T07:08:39.036000+00:00 | Politik, Gesetzgebung, Bevölkerung |
-| [100388](https://data.bs.ch/explore/dataset/100388/information/) | Aktuelle Temperaturen der Gartenbäder | 7 | 2026-10-27T08:05:36.884000+00:00 | Kultur, Medien, Informationsgesellschaft, Sport, Tourismus |
-| [100389](https://data.bs.ch/explore/dataset/100389/information/) | Sprayereien | 8703 | 2026-10-27T08:05:43.571000+00:00 | Öffentliche Ordnung und Sicherheit, Raum und Umwelt |
+| [100388](https://data.bs.ch/explore/dataset/100388/information/) | Aktuelle Temperaturen der Gartenbäder | 7 | 2026-10-31T08:30:47.382000+00:00 | Kultur, Medien, Informationsgesellschaft, Sport, Tourismus |
+| [100389](https://data.bs.ch/explore/dataset/100389/information/) | Sprayereien | 8728 | 2026-10-30T14:01:28.994000+00:00 | Öffentliche Ordnung und Sicherheit, Raum und Umwelt |
 | [100391](https://data.bs.ch/explore/dataset/100391/information/) | Kandidierende der Grossratswahlen nach Geschlecht seit 1968 | 15 | 2026-03-16T11:15:58.302000+00:00 | Politik, Gesetzgebung, Verwaltung |
 | [100392](https://data.bs.ch/explore/dataset/100392/information/) | Kandidierende der Grossratswahlen nach Alter, Geschlecht und Liste seit 2020 | 372 | 2024-08-30T07:08:33.513000+00:00 | Politik, Gesetzgebung, Verwaltung |
 | [100393](https://data.bs.ch/explore/dataset/100393/information/) | Kandidierende der Grossratswahlen 2024 nach Häufigkeit der Kandidatur seit 2008 | 32 | 2024-08-30T07:08:35.792000+00:00 | Politik, Gesetzgebung, Verwaltung |
 | [100394](https://data.bs.ch/explore/dataset/100394/information/) | Kandidierende der Grossratswahlen nach Berufsgruppe seit 2020 | 32 | 2024-08-30T07:08:37.103000+00:00 | Politik, Gesetzgebung, Verwaltung |
 | [100396](https://data.bs.ch/explore/dataset/100396/information/) | U-Abos nach Alter und Wohnsitz | 4226 | 2025-10-23T12:31:56.066000+00:00 | Mobilität und Verkehr |
-| [100397](https://data.bs.ch/explore/dataset/100397/information/) | Schulferien Kanton Basel-Stadt | 88 | 2026-10-27T03:00:29.239000+00:00 | Bevölkerung, Bildung, Wissenschaft |
+| [100397](https://data.bs.ch/explore/dataset/100397/information/) | Schulferien Kanton Basel-Stadt | 88 | 2026-10-31T03:00:29.428000+00:00 | Bevölkerung, Bildung, Wissenschaft |
 | [100398](https://data.bs.ch/explore/dataset/100398/information/) | Grundwassernutzung | 99 | 2026-10-06T00:00:00+00:00 | Raum und Umwelt |
 | [100399](https://data.bs.ch/explore/dataset/100399/information/) | Resultate der Grossratswahlen 20. Oktober 2024 | 870 | 2025-04-28T07:47:58.957000+00:00 | Politik, Bevölkerung, Gesetzgebung |
 | [100400](https://data.bs.ch/explore/dataset/100400/information/) | Resultate der Regierungsratswahlen 20. Oktober 2024 | 48 | 2025-04-28T07:47:55.679000+00:00 | Politik, Gesetzgebung, Bevölkerung |
@@ -321,31 +321,31 @@ This index is generated from the Explore API and grouped by themes in dedicated 
 | [100406](https://data.bs.ch/explore/dataset/100406/information/) | Dashboards - Open Data Basel-Stadt | 14 | 2026-08-04T09:30:49.387000+00:00 | Verwaltung |
 | [100407](https://data.bs.ch/explore/dataset/100407/information/) | Resultate der Regierungsratswahlen 24. November 2024 (2. Wahlgang) | 16 | 2025-04-28T07:48:03.540000+00:00 | Politik, Gesetzgebung, Bevölkerung |
 | [100408](https://data.bs.ch/explore/dataset/100408/information/) | Veränderte Wahlzettel der Grossratswahlen 20. Oktober 2024 | 20733 | 2026-03-16T11:42:33.347000+00:00 | Politik, Bevölkerung |
-| [100412](https://data.bs.ch/explore/dataset/100412/information/) | Befragung 55plus (2023) | 307760 | 2026-03-26T12:39:23.992000+00:00 | Bevölkerung |
+| [100412](https://data.bs.ch/explore/dataset/100412/information/) | Befragung 55plus (2023) | 307760 | 2026-10-27T14:07:27.696000+00:00 | Bevölkerung |
 | [100413](https://data.bs.ch/explore/dataset/100413/information/) | Tägliche Ankünfte, Logiernächte, Zimmer nach Hotelkategorie | 6695 | 2026-09-15T07:01:45.432000+00:00 | Tourismus |
 | [100414](https://data.bs.ch/explore/dataset/100414/information/) | Tägliche Ankünfte und Logiernächte nach Herkunftsland | 336545 | 2026-09-15T07:04:06.255000+00:00 | Tourismus |
-| [100415](https://data.bs.ch/explore/dataset/100415/information/) | Geteilte Mikromobilität: Aktuelle Verfügbarkeit | 3127 | 2026-10-27T08:05:40.924000+00:00 | Mobilität und Verkehr, Raum und Umwelt |
-| [100416](https://data.bs.ch/explore/dataset/100416/information/) | Geteilte Mikromobilität nach Bezirk und Tag | 54985 | 2026-10-27T04:03:50.683000+00:00 | Mobilität und Verkehr, Raum und Umwelt |
+| [100415](https://data.bs.ch/explore/dataset/100415/information/) | Geteilte Mikromobilität: Aktuelle Verfügbarkeit | 972 | 2026-10-31T02:31:48.023000+00:00 | Mobilität und Verkehr, Raum und Umwelt |
+| [100416](https://data.bs.ch/explore/dataset/100416/information/) | Geteilte Mikromobilität nach Bezirk und Tag | 57508 | 2026-10-31T04:03:56.814000+00:00 | Mobilität und Verkehr, Raum und Umwelt |
 | [100417](https://data.bs.ch/explore/dataset/100417/information/) | ESC Eurovision Song Contest - FAQ | 180 | 2025-05-16T12:45:41.841000+00:00 | Kultur, Medien, Informationsgesellschaft, Sport, Tourismus |
-| [100418](https://data.bs.ch/explore/dataset/100418/information/) | Erwartete Besucherzahl im Raum St. Jakob | 380 | 2026-10-22T08:50:44.484000+00:00 | Mobilität und Verkehr, Kultur, Medien, Informationsgesellschaft, Sport |
-| [100419](https://data.bs.ch/explore/dataset/100419/information/) | Veranstaltungen im Raum St. Jakob | 482 | 2026-10-22T08:50:45.154000+00:00 | Mobilität und Verkehr, Kultur, Medien, Informationsgesellschaft, Sport |
+| [100418](https://data.bs.ch/explore/dataset/100418/information/) | Erwartete Besucherzahl im Raum St. Jakob | 394 | 2026-10-29T10:45:38.686000+00:00 | Mobilität und Verkehr, Kultur, Medien, Informationsgesellschaft, Sport |
+| [100419](https://data.bs.ch/explore/dataset/100419/information/) | Veranstaltungen im Raum St. Jakob | 499 | 2026-10-29T13:35:33.250000+00:00 | Mobilität und Verkehr, Kultur, Medien, Informationsgesellschaft, Sport |
 | [100420](https://data.bs.ch/explore/dataset/100420/information/) | Wasserverbrauch im Kanton Basel-Stadt und in Binningen seit 1951 | 927 | 2025-08-04T08:45:59.100000+00:00 | Raum und Umwelt |
 | [100421](https://data.bs.ch/explore/dataset/100421/information/) | Zivilschutzkataster Block | 294 | 2023-09-05T00:00:00+00:00 | Öffentliche Ordnung und Sicherheit, Geographie |
-| [100422](https://data.bs.ch/explore/dataset/100422/information/) | Geteilte Mikromobilität nach Gemeinde und Tag | 8454 | 2026-10-27T04:03:27.893000+00:00 | Mobilität und Verkehr, Raum und Umwelt |
+| [100422](https://data.bs.ch/explore/dataset/100422/information/) | Geteilte Mikromobilität nach Gemeinde und Tag | 8518 | 2026-10-31T04:03:34.649000+00:00 | Mobilität und Verkehr, Raum und Umwelt |
 | [100424](https://data.bs.ch/explore/dataset/100424/information/) | Bewilligungen gemäss dem baselstädtischen Gesetz über öffentliche Ruhetage und Ladenöffnung | 240 | 2026-03-16T16:16:13.616000+00:00 | Arbeit, Erwerb |
 | [100425](https://data.bs.ch/explore/dataset/100425/information/) | Bewilligungen für Nacht-, Sonn- und/oder Feiertagsarbeit | 240 | 2026-03-16T16:16:14.901000+00:00 | Arbeit, Erwerb |
 | [100426](https://data.bs.ch/explore/dataset/100426/information/) | Velostadtplan: Eignung | 5354 | 2026-08-18T00:00:00+00:00 | Mobilität und Verkehr, Geographie, Tourismus |
-| [100428](https://data.bs.ch/explore/dataset/100428/information/) | Geteilte Mikromobilität nach Bezirk, Wochentagesabschnitt und Monat | 74953 | 2026-10-27T04:04:02.662000+00:00 | Mobilität und Verkehr, Raum und Umwelt |
+| [100428](https://data.bs.ch/explore/dataset/100428/information/) | Geteilte Mikromobilität nach Bezirk, Wochentagesabschnitt und Monat | 74953 | 2026-10-31T04:04:07.650000+00:00 | Mobilität und Verkehr, Raum und Umwelt |
 | [100429](https://data.bs.ch/explore/dataset/100429/information/) | Anreiseempfehlungen für Veranstaltungen im Raum St. Jakob | 14 | 2026-09-16T08:10:29.406000+00:00 | Mobilität und Verkehr, Kultur, Medien, Informationsgesellschaft, Sport |
 | [100430](https://data.bs.ch/explore/dataset/100430/information/) | Lichtsignalanlagen | 131 | 2026-02-10T00:00:00+00:00 | Mobilität und Verkehr |
 | [100431](https://data.bs.ch/explore/dataset/100431/information/) | Kantonale Partizipationsvorhaben | 79 | 2026-08-20T00:00:00+00:00 | Bevölkerung, Kultur, Medien, Informationsgesellschaft, Sport |
 | [100440](https://data.bs.ch/explore/dataset/100440/information/) | Velostadtplan: Fussgängerzone | 48 | 2026-08-18T00:00:00+00:00 | Mobilität und Verkehr, Geographie, Tourismus |
 | [100441](https://data.bs.ch/explore/dataset/100441/information/) | Angezeigte Straftaten nach Ausländer- und Integrationsgesetz (AIG) | 944 | 2026-03-23T16:25:39.668000+00:00 | Kriminalität, Strafrecht, Öffentliche Ordnung und Sicherheit |
 | [100443](https://data.bs.ch/explore/dataset/100443/information/) | FAQ zur KI-Richtlinie | 21 | 2026-06-25T14:05:24.684000+00:00 | Verwaltung |
-| [100444](https://data.bs.ch/explore/dataset/100444/information/) | Registrierte Hunde nach Postleitzahl und verschiedenen Merkmalen seit 2008 | 125262 | 2026-10-26T15:02:18.085000+00:00 | Kultur, Medien, Informationsgesellschaft, Sport |
-| [100445](https://data.bs.ch/explore/dataset/100445/information/) | Hundebestand im Kanton Basel-Stadt seit 1970 | 589 | 2026-10-26T15:01:36.630000+00:00 | Kultur, Medien, Informationsgesellschaft, Sport |
-| [100446](https://data.bs.ch/explore/dataset/100446/information/) | Hundenamen im Kanton Basel-Stadt seit 2008 | 69689 | 2026-10-26T15:01:58.171000+00:00 | Kultur, Medien, Informationsgesellschaft, Sport |
-| [100447](https://data.bs.ch/explore/dataset/100447/information/) | Anzahl registrierter Hundebesitzer seit 2018 | 9 | 2026-10-26T15:01:36.691000+00:00 | Kultur, Medien, Informationsgesellschaft, Sport |
+| [100444](https://data.bs.ch/explore/dataset/100444/information/) | Registrierte Hunde nach Postleitzahl und verschiedenen Merkmalen seit 2008 | 125262 | 2026-10-30T15:01:22.378000+00:00 | Kultur, Medien, Informationsgesellschaft, Sport |
+| [100445](https://data.bs.ch/explore/dataset/100445/information/) | Hundebestand im Kanton Basel-Stadt seit 1970 | 589 | 2026-10-30T15:00:45.100000+00:00 | Kultur, Medien, Informationsgesellschaft, Sport |
+| [100446](https://data.bs.ch/explore/dataset/100446/information/) | Hundenamen im Kanton Basel-Stadt seit 2008 | 69689 | 2026-10-30T15:01:12.010000+00:00 | Kultur, Medien, Informationsgesellschaft, Sport |
+| [100447](https://data.bs.ch/explore/dataset/100447/information/) | Anzahl registrierter Hundebesitzer seit 2018 | 9 | 2026-10-30T15:01:04.248000+00:00 | Kultur, Medien, Informationsgesellschaft, Sport |
 | [100448](https://data.bs.ch/explore/dataset/100448/information/) | Arbeitsfreie Tage für Mitarbeitende der kantonalen Verwaltung Basel-Stadt | 72 | 2026-09-03T09:46:29.969000+00:00 | Bevölkerung |
 | [100449](https://data.bs.ch/explore/dataset/100449/information/) | Angezeigte Straftaten nach Betäubungsmittelgesetz (BetmG) | 806 | 2026-03-23T15:45:36.244000+00:00 | Kriminalität, Strafrecht, Öffentliche Ordnung und Sicherheit |
 | [100459](https://data.bs.ch/explore/dataset/100459/information/) | Notfalltreffpunkte | 17 | 2026-05-05T00:00:00+00:00 | Öffentliche Ordnung und Sicherheit, Geographie |
@@ -357,11 +357,10 @@ This index is generated from the Explore API and grouped by themes in dedicated 
 | [100477](https://data.bs.ch/explore/dataset/100477/information/) | Bodenbedeckung | 49594 | 2026-08-20T00:00:00+00:00 | Geographie, Raum und Umwelt |
 | [100488](https://data.bs.ch/explore/dataset/100488/information/) | Resultate der Einwohnerratswahlen in Riehen 2025 | 221 | 2025-11-03T08:12:57.506000+00:00 | Politik, Bevölkerung, Gesetzgebung |
 | [100508](https://data.bs.ch/explore/dataset/100508/information/) | Angezeigte Straftaten nach Strafgesetzbuch (StGB) | 3501 | 2026-03-24T10:04:13.197000+00:00 | Kriminalität, Strafrecht, Öffentliche Ordnung und Sicherheit |
-| [100513](https://data.bs.ch/explore/dataset/100513/information/) | Anschauungsbeispiel: Vom Kanton in Auftrag gegebene Gutachten | 1 | 2025-12-17T13:37:07.455000+00:00 | Verwaltung |
 | [100514](https://data.bs.ch/explore/dataset/100514/information/) | Rückmeldungen Vernehmlassungen | 746 | 2026-09-01T10:54:15.417000+00:00 | Gesetzgebung, Politik, Verwaltung |
 | [100515](https://data.bs.ch/explore/dataset/100515/information/) | Dokumente Vernehmlassungen | 8 | 2026-08-26T14:54:10.786000+00:00 | Gesetzgebung, Politik, Verwaltung |
 | [100516](https://data.bs.ch/explore/dataset/100516/information/) | Vernehmlassungen | 2 | 2026-09-01T10:54:10.174000+00:00 | Gesetzgebung, Politik, Verwaltung |
-| [100518](https://data.bs.ch/explore/dataset/100518/information/) | Kantonale Abstimmungen - baselvotes | 657 | 2026-10-05T18:15:38.169000+00:00 | Politik |
+| [100518](https://data.bs.ch/explore/dataset/100518/information/) | Kantonale Abstimmungen - baselvotes | 657 | 2026-10-29T18:15:37.850000+00:00 | Politik |
 | [100519](https://data.bs.ch/explore/dataset/100519/information/) | Anzahl durch Wärmepumpen beheizte Gebäude | 81 | 2026-10-02T06:31:32.059000+00:00 | Bau- und Wohnungswesen, Raum und Umwelt |
 | [100533](https://data.bs.ch/explore/dataset/100533/information/) | Bevölkerungsbefragung (2011): Befragung zu Lebenslage und Zufriedenheit | 294104 | 2026-06-08T08:37:25.102000+00:00 | Bevölkerung |
 | [100534](https://data.bs.ch/explore/dataset/100534/information/) | Bevölkerungsbefragung (2015): Befragung zu Lebenslage und Zufriedenheit | 256020 | 2026-06-08T08:37:31.283000+00:00 | Bevölkerung |

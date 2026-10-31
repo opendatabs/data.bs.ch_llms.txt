@@ -1,6 +1,6 @@
 # Theme: Bevölkerung
 
-_Generated: 2026-10-27T08:10:35+00:00_
+_Generated: 2026-10-31T08:38:21+00:00_
 
 - Dataset count: **81**
 - Back to: [theme index](./index.md)
@@ -13,25 +13,25 @@ _Generated: 2026-10-27T08:10:35+00:00_
 | [100024](https://data.bs.ch/explore/dataset/100024/information/) | Kinder- und Jugendangebote | 90 | 2021-07-16T00:00:00+00:00 |
 | [100026](https://data.bs.ch/explore/dataset/100026/information/) | Quartiertreffpunkte | 28 | 2026-05-05T00:00:00+00:00 |
 | [100029](https://data.bs.ch/explore/dataset/100029/information/) | Schulstandorte (Gemeinde Basel) | 415 | 2026-06-30T00:00:00+00:00 |
-| [100030](https://data.bs.ch/explore/dataset/100030/information/) | Schulstandorte (Gemeinden Riehen und Bettingen) | 37 | 2026-10-23T00:00:00+00:00 |
-| [100059](https://data.bs.ch/explore/dataset/100059/information/) | Wohnbevölkerung nach Staatsangehörigkeit und Gemeinde | 81 | 2026-10-27T02:50:51.404000+00:00 |
-| [100060](https://data.bs.ch/explore/dataset/100060/information/) | Wohnbevölkerung nach Staatsangehörigkeit und Wohnviertel | 567 | 2026-10-27T02:50:54.644000+00:00 |
-| [100061](https://data.bs.ch/explore/dataset/100061/information/) | Wohnbevölkerung nach Staatsangehörigkeit und Bezirk | 1880 | 2026-10-27T02:51:00.784000+00:00 |
-| [100062](https://data.bs.ch/explore/dataset/100062/information/) | Wohnbevölkerung nach Staatsangehörigkeit und Block | 34534 | 2026-10-27T02:53:16.062000+00:00 |
-| [100070](https://data.bs.ch/explore/dataset/100070/information/) | Wilde Abfall-Deponien | 32167 | 2026-10-26T14:01:58.325000+00:00 |
-| [100079](https://data.bs.ch/explore/dataset/100079/information/) | Gestorbene nach Altersklasse, Geschlecht und Sterbedatum | 7920 | 2026-10-27T02:15:43.903000+00:00 |
-| [100092](https://data.bs.ch/explore/dataset/100092/information/) | Geborene nach Geschlecht, Staatsangehörigkeit, Wohnviertel und Geburtsdatum | 41396 | 2026-10-27T02:16:06.878000+00:00 |
-| [100099](https://data.bs.ch/explore/dataset/100099/information/) | Geborene nach Geschlecht, Staatsangehörigkeit und Geburtsmonat | 41342 | 2026-10-27T02:02:15.891000+00:00 |
+| [100030](https://data.bs.ch/explore/dataset/100030/information/) | Schulstandorte (Gemeinden Riehen und Bettingen) | 37 | 2026-10-29T00:00:00+00:00 |
+| [100059](https://data.bs.ch/explore/dataset/100059/information/) | Wohnbevölkerung nach Staatsangehörigkeit und Gemeinde | 81 | 2026-10-31T00:00:58.966000+00:00 |
+| [100060](https://data.bs.ch/explore/dataset/100060/information/) | Wohnbevölkerung nach Staatsangehörigkeit und Wohnviertel | 567 | 2026-10-31T00:00:53.745000+00:00 |
+| [100061](https://data.bs.ch/explore/dataset/100061/information/) | Wohnbevölkerung nach Staatsangehörigkeit und Bezirk | 1880 | 2026-10-31T00:01:00.788000+00:00 |
+| [100062](https://data.bs.ch/explore/dataset/100062/information/) | Wohnbevölkerung nach Staatsangehörigkeit und Block | 34534 | 2026-10-31T00:03:36.589000+00:00 |
+| [100070](https://data.bs.ch/explore/dataset/100070/information/) | Wilde Abfall-Deponien | 32206 | 2026-10-30T14:01:44.484000+00:00 |
+| [100079](https://data.bs.ch/explore/dataset/100079/information/) | Gestorbene nach Altersklasse, Geschlecht und Sterbedatum | 7923 | 2026-10-30T02:16:18.605000+00:00 |
+| [100092](https://data.bs.ch/explore/dataset/100092/information/) | Geborene nach Geschlecht, Staatsangehörigkeit, Wohnviertel und Geburtsdatum | 41416 | 2026-10-30T02:16:42.922000+00:00 |
+| [100099](https://data.bs.ch/explore/dataset/100099/information/) | Geborene nach Geschlecht, Staatsangehörigkeit und Geburtsmonat | 41346 | 2026-10-30T02:01:02.005000+00:00 |
 | [100101](https://data.bs.ch/explore/dataset/100101/information/) | Resultate der Grossratswahlen 25. Oktober 2020 | 792 | 2025-04-28T07:45:39.584000+00:00 |
 | [100102](https://data.bs.ch/explore/dataset/100102/information/) | Resultate der Regierungsrats- und Regierungspräsidiumswahlen 2020 | 82 | 2025-04-28T07:45:39.104000+00:00 |
-| [100125](https://data.bs.ch/explore/dataset/100125/information/) | Wohnbevölkerung nach Bezirk | 14528 | 2026-10-27T02:17:40.268000+00:00 |
+| [100125](https://data.bs.ch/explore/dataset/100125/information/) | Wohnbevölkerung nach Bezirk | 14528 | 2026-10-30T02:18:10.476000+00:00 |
 | [100126](https://data.bs.ch/explore/dataset/100126/information/) | Wohnbevölkerung nach Geschlecht, Staatsangehörigkeit und Wohnviertel | 123202 | 2026-08-10T12:31:23.042000+00:00 |
 | [100127](https://data.bs.ch/explore/dataset/100127/information/) | Nachnamen der baselstädtischen Bevölkerung | 693011 | 2026-10-01T01:20:29.925000+00:00 |
 | [100128](https://data.bs.ch/explore/dataset/100128/information/) | Wohnbevölkerung nach Geschlecht, Alter, Staatsangehörigkeit und Wohnviertel | 370615 | 2026-10-01T01:19:00.685000+00:00 |
 | [100129](https://data.bs.ch/explore/dataset/100129/information/) | Vornamen der baselstädtischen Bevölkerung | 899668 | 2026-10-01T01:21:47.263000+00:00 |
-| [100138](https://data.bs.ch/explore/dataset/100138/information/) | Wanderungen (Zuzug, Wegzug und Umzug) Kanton Basel-Stadt | 1781066 | 2026-10-27T02:33:26.573000+00:00 |
-| [100139](https://data.bs.ch/explore/dataset/100139/information/) | Scheidungen nach Scheidungsdatum, Ehedauer sowie Alter und Staatsangehörigkeit der ehemaligen Ehepartner | 19114 | 2026-10-27T02:15:51.955000+00:00 |
-| [100156](https://data.bs.ch/explore/dataset/100156/information/) | Heiraten nach Trauungsdatum | 48379 | 2026-10-27T02:16:12.029000+00:00 |
+| [100138](https://data.bs.ch/explore/dataset/100138/information/) | Wanderungen (Zuzug, Wegzug und Umzug) Kanton Basel-Stadt | 1781066 | 2026-10-30T02:34:35.387000+00:00 |
+| [100139](https://data.bs.ch/explore/dataset/100139/information/) | Scheidungen nach Scheidungsdatum, Ehedauer sowie Alter und Staatsangehörigkeit der ehemaligen Ehepartner | 19114 | 2026-10-30T02:16:26.464000+00:00 |
+| [100156](https://data.bs.ch/explore/dataset/100156/information/) | Heiraten nach Trauungsdatum | 48379 | 2026-10-30T02:16:45.799000+00:00 |
 | [100173](https://data.bs.ch/explore/dataset/100173/information/) | Monatliche Sterberaten nach Geschlecht und Altersgruppe | 11616 | 2026-10-12T06:00:41.924000+00:00 |
 | [100185](https://data.bs.ch/explore/dataset/100185/information/) | Befragung 55plus (jahresübergreifend) | 780159 | 2026-03-26T12:42:47.571000+00:00 |
 | [100192](https://data.bs.ch/explore/dataset/100192/information/) | Vornamen der Neugeborenen nach Geschlecht | 24972 | 2026-10-01T01:15:57.656000+00:00 |
@@ -56,22 +56,22 @@ _Generated: 2026-10-27T08:10:35+00:00_
 | [100334](https://data.bs.ch/explore/dataset/100334/information/) | Kandidierende der Ersatzwahlen Regierungspräsidium 3. März 2024 | 4 | 2024-03-21T12:43:21.265000+00:00 |
 | [100337](https://data.bs.ch/explore/dataset/100337/information/) | Resultate der Ersatzwahlen Regierungsrat 3. März 2024 | 16 | 2025-04-28T07:47:38.285000+00:00 |
 | [100338](https://data.bs.ch/explore/dataset/100338/information/) | Resultate der Ersatzwahlen Regierungspräsidium 3. März 2024 | 20 | 2025-04-28T07:47:39.408000+00:00 |
-| [100341](https://data.bs.ch/explore/dataset/100341/information/) | Tagesheime und Kitas | 132 | 2026-05-05T00:00:00+00:00 |
+| [100341](https://data.bs.ch/explore/dataset/100341/information/) | Tagesheime und Kitas | 129 | 2026-05-05T00:00:00+00:00 |
 | [100360](https://data.bs.ch/explore/dataset/100360/information/) | Resultate der Ersatzwahlen Regierungsrat 7. April 2024 (2. Wahlgang) | 12 | 2025-04-28T07:47:41.886000+00:00 |
 | [100361](https://data.bs.ch/explore/dataset/100361/information/) | Resultate der Ersatzwahlen Regierungspräsidium 7. April 2024 (2. Wahlgang) | 28 | 2025-04-28T07:47:43.294000+00:00 |
-| [100362](https://data.bs.ch/explore/dataset/100362/information/) | Sauberkeitsindex pro Quartal und Wohnviertel | 460 | 2026-10-01T07:01:51.415000+00:00 |
+| [100362](https://data.bs.ch/explore/dataset/100362/information/) | Sauberkeitsindex pro Quartal und Wohnviertel | 460 | 2026-10-27T14:02:04.262000+00:00 |
 | [100379](https://data.bs.ch/explore/dataset/100379/information/) | Kandidierende der Gerichtspräsidienwahlen seit 2024 | 9 | 2026-08-06T08:45:32.439000+00:00 |
 | [100381](https://data.bs.ch/explore/dataset/100381/information/) | Resultate der Wahl eines zusätzl. Strafgerichtspräsidiums 18. August 2024 | 8 | 2025-04-28T07:47:48.984000+00:00 |
 | [100386](https://data.bs.ch/explore/dataset/100386/information/) | Kandidierende der Regierungsratswahlen 20. Oktober 2024 | 12 | 2024-08-30T07:08:38.076000+00:00 |
 | [100387](https://data.bs.ch/explore/dataset/100387/information/) | Kandidierende der Regierungspräsidiumswahlen 20. Oktober 2024 | 3 | 2024-08-30T07:08:39.036000+00:00 |
-| [100397](https://data.bs.ch/explore/dataset/100397/information/) | Schulferien Kanton Basel-Stadt | 88 | 2026-10-27T03:00:29.239000+00:00 |
+| [100397](https://data.bs.ch/explore/dataset/100397/information/) | Schulferien Kanton Basel-Stadt | 88 | 2026-10-31T03:00:29.428000+00:00 |
 | [100399](https://data.bs.ch/explore/dataset/100399/information/) | Resultate der Grossratswahlen 20. Oktober 2024 | 870 | 2025-04-28T07:47:58.957000+00:00 |
 | [100400](https://data.bs.ch/explore/dataset/100400/information/) | Resultate der Regierungsratswahlen 20. Oktober 2024 | 48 | 2025-04-28T07:47:55.679000+00:00 |
 | [100401](https://data.bs.ch/explore/dataset/100401/information/) | Resultate der Regierungspräsidiumswahl 20. Oktober 2024 | 36 | 2025-04-28T07:47:58.009000+00:00 |
 | [100405](https://data.bs.ch/explore/dataset/100405/information/) | Kandidierende der Regierungsratswahlen 24. November 2024 (2. Wahlgang) | 2 | 2024-10-25T15:11:44.322000+00:00 |
 | [100407](https://data.bs.ch/explore/dataset/100407/information/) | Resultate der Regierungsratswahlen 24. November 2024 (2. Wahlgang) | 16 | 2025-04-28T07:48:03.540000+00:00 |
 | [100408](https://data.bs.ch/explore/dataset/100408/information/) | Veränderte Wahlzettel der Grossratswahlen 20. Oktober 2024 | 20733 | 2026-03-16T11:42:33.347000+00:00 |
-| [100412](https://data.bs.ch/explore/dataset/100412/information/) | Befragung 55plus (2023) | 307760 | 2026-03-26T12:39:23.992000+00:00 |
+| [100412](https://data.bs.ch/explore/dataset/100412/information/) | Befragung 55plus (2023) | 307760 | 2026-10-27T14:07:27.696000+00:00 |
 | [100431](https://data.bs.ch/explore/dataset/100431/information/) | Kantonale Partizipationsvorhaben | 79 | 2026-08-20T00:00:00+00:00 |
 | [100448](https://data.bs.ch/explore/dataset/100448/information/) | Arbeitsfreie Tage für Mitarbeitende der kantonalen Verwaltung Basel-Stadt | 72 | 2026-09-03T09:46:29.969000+00:00 |
 | [100462](https://data.bs.ch/explore/dataset/100462/information/) | Spielen in Basel: Spielplätze | 67 | 2025-11-05T13:00:50.401000+00:00 |
