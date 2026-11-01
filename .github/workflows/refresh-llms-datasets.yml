@@ -27,7 +27,7 @@ jobs:
         run: uv run python scripts/generate_dataset_docs.py
 
       - name: Create pull request
-        uses: peter-evans/create-pull-request@v7
+        uses: peter-evans/create-pull-request@v8
         with:
           branch: ci/refresh-llms-datasets
           commit-message: "chore: refresh generated llms dataset indexes"
