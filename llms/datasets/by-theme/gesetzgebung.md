@@ -1,6 +1,6 @@
 # Theme: Gesetzgebung
 
-_Generated: 2026-10-27T08:10:35+00:00_
+_Generated: 2026-11-14T09:13:05+00:00_
 
 - Dataset count: **40**
 - Back to: [theme index](./index.md)
@@ -15,8 +15,8 @@ _Generated: 2026-10-27T08:10:35+00:00_
 | [100131](https://data.bs.ch/explore/dataset/100131/information/) | Resultate der Wahl von fünf Präsidentinnen oder Präsidenten des Appellationsgerichts 9. Mai 2021 | 24 | 2026-03-16T11:15:34.211000+00:00 |
 | [100132](https://data.bs.ch/explore/dataset/100132/information/) | Resultate der Wahl eines Mitglieds des Gerichts für fürsorgerische Unterbringungen 9. Mai 2021 | 8 | 2026-03-16T11:15:34.302000+00:00 |
 | [100133](https://data.bs.ch/explore/dataset/100133/information/) | Resultate der Wahl von sieben Präsidentinnen oder Präsidenten des Strafgerichts 9. Mai 2021 | 32 | 2026-03-16T11:15:34.390000+00:00 |
-| [100186](https://data.bs.ch/explore/dataset/100186/information/) | Grosser Rat: Live-Abstimmungsergebnisse | 623200 | 2026-10-21T20:40:40.210000+00:00 |
-| [100188](https://data.bs.ch/explore/dataset/100188/information/) | Grosser Rat: Sitzungskalender | 1025 | 2026-10-27T05:14:14.472000+00:00 |
+| [100186](https://data.bs.ch/explore/dataset/100186/information/) | Grosser Rat: Live-Abstimmungsergebnisse | 625900 | 2026-11-11T20:16:42.653000+00:00 |
+| [100188](https://data.bs.ch/explore/dataset/100188/information/) | Grosser Rat: Sitzungskalender | 1025 | 2026-11-14T03:18:16.914000+00:00 |
 | [100300](https://data.bs.ch/explore/dataset/100300/information/) | Resultate der Bürgergemeinderatswahlen 18. Juni 2023 | 298 | 2025-04-28T07:47:13.213000+00:00 |
 | [100301](https://data.bs.ch/explore/dataset/100301/information/) | Resultate der Bürgergemeinderatswahlen 2023 auf Listenebene | 10 | 2025-04-28T07:47:13.668000+00:00 |
 | [100316](https://data.bs.ch/explore/dataset/100316/information/) | Kandidierende der Nationalratswahlen 22. Oktober 2023 | 122 | 2025-04-28T07:47:25.598000+00:00 |
@@ -24,12 +24,12 @@ _Generated: 2026-10-27T08:10:35+00:00_
 | [100333](https://data.bs.ch/explore/dataset/100333/information/) | Kandidierende der Ersatzwahlen Regierungsrat 3. März 2024 | 4 | 2024-03-21T12:41:54.470000+00:00 |
 | [100334](https://data.bs.ch/explore/dataset/100334/information/) | Kandidierende der Ersatzwahlen Regierungspräsidium 3. März 2024 | 4 | 2024-03-21T12:43:21.265000+00:00 |
 | [100337](https://data.bs.ch/explore/dataset/100337/information/) | Resultate der Ersatzwahlen Regierungsrat 3. März 2024 | 16 | 2025-04-28T07:47:38.285000+00:00 |
-| [100352](https://data.bs.ch/explore/dataset/100352/information/) | Kantonsblatt | 91707 | 2026-10-27T00:33:58.068000+00:00 |
-| [100354](https://data.bs.ch/explore/dataset/100354/information/) | Gesetzessammlung: Gesetzestexte | 11097 | 2026-10-23T08:21:40.860000+00:00 |
-| [100355](https://data.bs.ch/explore/dataset/100355/information/) | Gesetzessammlung: Gesetzesänderungen | 3346 | 2026-10-23T08:17:33.643000+00:00 |
+| [100352](https://data.bs.ch/explore/dataset/100352/information/) | Kantonsblatt | 92300 | 2026-11-14T00:34:25.075000+00:00 |
+| [100354](https://data.bs.ch/explore/dataset/100354/information/) | Gesetzessammlung: Gesetzestexte | 11142 | 2026-11-12T08:24:15.204000+00:00 |
+| [100355](https://data.bs.ch/explore/dataset/100355/information/) | Gesetzessammlung: Gesetzesänderungen | 3391 | 2026-11-12T08:19:53.547000+00:00 |
 | [100360](https://data.bs.ch/explore/dataset/100360/information/) | Resultate der Ersatzwahlen Regierungsrat 7. April 2024 (2. Wahlgang) | 12 | 2025-04-28T07:47:41.886000+00:00 |
 | [100361](https://data.bs.ch/explore/dataset/100361/information/) | Resultate der Ersatzwahlen Regierungspräsidium 7. April 2024 (2. Wahlgang) | 28 | 2025-04-28T07:47:43.294000+00:00 |
-| [100366](https://data.bs.ch/explore/dataset/100366/information/) | Kantonsblatt: Baupublikationen | 163 | 2026-10-27T01:03:13.227000+00:00 |
+| [100366](https://data.bs.ch/explore/dataset/100366/information/) | Kantonsblatt: Baupublikationen | 313 | 2026-11-14T01:03:41.174000+00:00 |
 | [100379](https://data.bs.ch/explore/dataset/100379/information/) | Kandidierende der Gerichtspräsidienwahlen seit 2024 | 9 | 2026-08-06T08:45:32.439000+00:00 |
 | [100385](https://data.bs.ch/explore/dataset/100385/information/) | Kandidierende der Grossratswahlen 20. Oktober 2024 | 870 | 2024-08-30T07:08:30.099000+00:00 |
 | [100386](https://data.bs.ch/explore/dataset/100386/information/) | Kandidierende der Regierungsratswahlen 20. Oktober 2024 | 12 | 2024-08-30T07:08:38.076000+00:00 |
