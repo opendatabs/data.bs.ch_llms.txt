@@ -1,6 +1,6 @@
 # Theme: Statistische Grundlagen
 
-_Generated: 2026-10-27T08:10:35+00:00_
+_Generated: 2026-11-14T09:13:05+00:00_
 
 - Dataset count: **7**
 - Back to: [theme index](./index.md)
@@ -13,4 +13,4 @@ _Generated: 2026-10-27T08:10:35+00:00_
 | [100039](https://data.bs.ch/explore/dataset/100039/information/) | Statistische Raumeinheiten: Bezirke | 69 | 2026-05-06T00:00:00+00:00 |
 | [100040](https://data.bs.ch/explore/dataset/100040/information/) | Statistische Raumeinheiten: Blöcke | 1490 | 2026-05-06T00:00:00+00:00 |
 | [100041](https://data.bs.ch/explore/dataset/100041/information/) | Statistische Raumeinheiten: Blockseiten | 4179 | 2026-05-06T00:00:00+00:00 |
-| [100173](https://data.bs.ch/explore/dataset/100173/information/) | Monatliche Sterberaten nach Geschlecht und Altersgruppe | 11616 | 2026-10-12T06:00:41.924000+00:00 |
+| [100173](https://data.bs.ch/explore/dataset/100173/information/) | Monatliche Sterberaten nach Geschlecht und Altersgruppe | 11682 | 2026-11-02T11:01:31.121000+00:00 |

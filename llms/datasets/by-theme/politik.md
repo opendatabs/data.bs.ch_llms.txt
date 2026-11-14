@@ -1,8 +1,8 @@
 # Theme: Politik
 
-_Generated: 2026-10-27T08:10:35+00:00_
+_Generated: 2026-11-14T09:13:05+00:00_
 
-- Dataset count: **60**
+- Dataset count: **61**
 - Back to: [theme index](./index.md)
 
 | dataset_id | title | records_count | modified |
@@ -16,23 +16,23 @@ _Generated: 2026-10-27T08:10:35+00:00_
 | [100131](https://data.bs.ch/explore/dataset/100131/information/) | Resultate der Wahl von fünf Präsidentinnen oder Präsidenten des Appellationsgerichts 9. Mai 2021 | 24 | 2026-03-16T11:15:34.211000+00:00 |
 | [100132](https://data.bs.ch/explore/dataset/100132/information/) | Resultate der Wahl eines Mitglieds des Gerichts für fürsorgerische Unterbringungen 9. Mai 2021 | 8 | 2026-03-16T11:15:34.302000+00:00 |
 | [100133](https://data.bs.ch/explore/dataset/100133/information/) | Resultate der Wahl von sieben Präsidentinnen oder Präsidenten des Strafgerichts 9. Mai 2021 | 32 | 2026-03-16T11:15:34.390000+00:00 |
-| [100186](https://data.bs.ch/explore/dataset/100186/information/) | Grosser Rat: Live-Abstimmungsergebnisse | 623200 | 2026-10-21T20:40:40.210000+00:00 |
-| [100188](https://data.bs.ch/explore/dataset/100188/information/) | Grosser Rat: Sitzungskalender | 1025 | 2026-10-27T05:14:14.472000+00:00 |
-| [100223](https://data.bs.ch/explore/dataset/100223/information/) | Briefliche Stimmbeteiligung | 469 | 2026-10-26T10:30:14.121000+00:00 |
+| [100186](https://data.bs.ch/explore/dataset/100186/information/) | Grosser Rat: Live-Abstimmungsergebnisse | 625900 | 2026-11-11T20:16:42.653000+00:00 |
+| [100188](https://data.bs.ch/explore/dataset/100188/information/) | Grosser Rat: Sitzungskalender | 1025 | 2026-11-14T03:18:16.914000+00:00 |
+| [100223](https://data.bs.ch/explore/dataset/100223/information/) | Briefliche Stimmbeteiligung | 476 | 2026-11-11T09:30:14.775000+00:00 |
 | [100229](https://data.bs.ch/explore/dataset/100229/information/) | Kantonale Abstimmungen | 657 | 2026-09-28T08:46:05.167000+00:00 |
 | [100281](https://data.bs.ch/explore/dataset/100281/information/) | Resultate der Nationalratswahlen 22. Oktober 2023 | 610 | 2025-04-28T07:47:12.008000+00:00 |
 | [100282](https://data.bs.ch/explore/dataset/100282/information/) | Resultate der Ständeratswahlen 22. Oktober 2023 | 20 | 2025-04-28T07:47:09.471000+00:00 |
 | [100297](https://data.bs.ch/explore/dataset/100297/information/) | Resultate der Nationalratswahlen 22. Oktober 2023 (aggregierte Daten) | 160 | 2025-04-28T07:47:11.390000+00:00 |
 | [100300](https://data.bs.ch/explore/dataset/100300/information/) | Resultate der Bürgergemeinderatswahlen 18. Juni 2023 | 298 | 2025-04-28T07:47:13.213000+00:00 |
 | [100301](https://data.bs.ch/explore/dataset/100301/information/) | Resultate der Bürgergemeinderatswahlen 2023 auf Listenebene | 10 | 2025-04-28T07:47:13.668000+00:00 |
-| [100307](https://data.bs.ch/explore/dataset/100307/information/) | Grosser Rat: Ratsmitgliedschaften | 456 | 2026-10-27T04:01:41.792000+00:00 |
-| [100308](https://data.bs.ch/explore/dataset/100308/information/) | Grosser Rat: Mitgliedschaften in Gremien | 3036 | 2026-10-21T03:01:46.358000+00:00 |
-| [100309](https://data.bs.ch/explore/dataset/100309/information/) | Grosser Rat: Interessensbindungen Ratsmitglieder | 1050 | 2026-10-27T04:01:43.611000+00:00 |
-| [100310](https://data.bs.ch/explore/dataset/100310/information/) | Grosser Rat: Gremien | 84 | 2026-10-21T03:01:46.119000+00:00 |
-| [100311](https://data.bs.ch/explore/dataset/100311/information/) | Grosser Rat: Geschäfte | 21259 | 2026-10-27T04:01:59.189000+00:00 |
-| [100312](https://data.bs.ch/explore/dataset/100312/information/) | Grosser Rat: Zuweisungen von Geschäften | 25449 | 2026-10-27T04:02:04.156000+00:00 |
-| [100313](https://data.bs.ch/explore/dataset/100313/information/) | Grosser Rat: Dokumente | 57049 | 2026-10-27T04:02:18.095000+00:00 |
-| [100314](https://data.bs.ch/explore/dataset/100314/information/) | Grosser Rat: Vorgänge von Geschäften | 45195 | 2026-10-27T04:02:13.374000+00:00 |
+| [100307](https://data.bs.ch/explore/dataset/100307/information/) | Grosser Rat: Ratsmitgliedschaften | 456 | 2026-11-14T04:01:32.988000+00:00 |
+| [100308](https://data.bs.ch/explore/dataset/100308/information/) | Grosser Rat: Mitgliedschaften in Gremien | 3038 | 2026-11-12T04:01:46.787000+00:00 |
+| [100309](https://data.bs.ch/explore/dataset/100309/information/) | Grosser Rat: Interessensbindungen Ratsmitglieder | 1051 | 2026-11-14T04:01:33.173000+00:00 |
+| [100310](https://data.bs.ch/explore/dataset/100310/information/) | Grosser Rat: Gremien | 84 | 2026-11-12T04:01:44.970000+00:00 |
+| [100311](https://data.bs.ch/explore/dataset/100311/information/) | Grosser Rat: Geschäfte | 21301 | 2026-11-13T04:02:08.852000+00:00 |
+| [100312](https://data.bs.ch/explore/dataset/100312/information/) | Grosser Rat: Zuweisungen von Geschäften | 25532 | 2026-11-13T04:02:12.690000+00:00 |
+| [100313](https://data.bs.ch/explore/dataset/100313/information/) | Grosser Rat: Dokumente | 57200 | 2026-11-13T04:02:28.033000+00:00 |
+| [100314](https://data.bs.ch/explore/dataset/100314/information/) | Grosser Rat: Vorgänge von Geschäften | 45286 | 2026-11-13T04:02:22.349000+00:00 |
 | [100316](https://data.bs.ch/explore/dataset/100316/information/) | Kandidierende der Nationalratswahlen 22. Oktober 2023 | 122 | 2025-04-28T07:47:25.598000+00:00 |
 | [100317](https://data.bs.ch/explore/dataset/100317/information/) | Kandidierende der Ständeratswahlen 22. Oktober 2023 | 4 | 2025-04-28T07:47:26.130000+00:00 |
 | [100331](https://data.bs.ch/explore/dataset/100331/information/) | Veränderte Wahlzettel der Nationalratswahlen 22. Oktober 2023 | 29637 | 2026-03-16T11:16:15.398000+00:00 |
@@ -42,7 +42,7 @@ _Generated: 2026-10-27T08:10:35+00:00_
 | [100338](https://data.bs.ch/explore/dataset/100338/information/) | Resultate der Ersatzwahlen Regierungspräsidium 3. März 2024 | 20 | 2025-04-28T07:47:39.408000+00:00 |
 | [100345](https://data.bs.ch/explore/dataset/100345/information/) | Abstimmungen Details | 808 | 2026-09-27T14:16:08.899000+00:00 |
 | [100346](https://data.bs.ch/explore/dataset/100346/information/) | Kennzahlen der Abstimmungen | 399 | 2026-09-27T14:16:08.979000+00:00 |
-| [100348](https://data.bs.ch/explore/dataset/100348/information/) | Grosser Rat: Tagesordnungen und Traktandenlisten der Grossratssitzungen | 10923 | 2026-10-22T11:50:15.507000+00:00 |
+| [100348](https://data.bs.ch/explore/dataset/100348/information/) | Grosser Rat: Tagesordnungen und Traktandenlisten der Grossratssitzungen | 11028 | 2026-11-12T04:02:15.923000+00:00 |
 | [100360](https://data.bs.ch/explore/dataset/100360/information/) | Resultate der Ersatzwahlen Regierungsrat 7. April 2024 (2. Wahlgang) | 12 | 2025-04-28T07:47:41.886000+00:00 |
 | [100361](https://data.bs.ch/explore/dataset/100361/information/) | Resultate der Ersatzwahlen Regierungspräsidium 7. April 2024 (2. Wahlgang) | 28 | 2025-04-28T07:47:43.294000+00:00 |
 | [100379](https://data.bs.ch/explore/dataset/100379/information/) | Kandidierende der Gerichtspräsidienwahlen seit 2024 | 9 | 2026-08-06T08:45:32.439000+00:00 |
@@ -65,5 +65,6 @@ _Generated: 2026-10-27T08:10:35+00:00_
 | [100514](https://data.bs.ch/explore/dataset/100514/information/) | Rückmeldungen Vernehmlassungen | 746 | 2026-09-01T10:54:15.417000+00:00 |
 | [100515](https://data.bs.ch/explore/dataset/100515/information/) | Dokumente Vernehmlassungen | 8 | 2026-08-26T14:54:10.786000+00:00 |
 | [100516](https://data.bs.ch/explore/dataset/100516/information/) | Vernehmlassungen | 2 | 2026-09-01T10:54:10.174000+00:00 |
-| [100518](https://data.bs.ch/explore/dataset/100518/information/) | Kantonale Abstimmungen - baselvotes | 657 | 2026-10-05T18:15:38.169000+00:00 |
+| [100518](https://data.bs.ch/explore/dataset/100518/information/) | Kantonale Abstimmungen - baselvotes | 657 | 2026-11-12T18:15:36.991000+00:00 |
 | [100549](https://data.bs.ch/explore/dataset/100549/information/) | Resultate der Ersatzwahl eines Präsidiums des Appellationsgerichts 27. September 2026 | 8 | 2026-09-27T14:05:36.984000+00:00 |
+| [100557](https://data.bs.ch/explore/dataset/100557/information/) | Resultate der Ersatzwahl eines Präsidiums des Appellationsgerichts 1. November 2026 (2. Wahlgang) | 8 | 2026-11-01T13:33:14.853000+00:00 |
