@@ -1,18 +1,23 @@
 # Theme: Bildung, Wissenschaft
 
-_Generated: 2026-10-27T08:10:35+00:00_
+_Generated: 2026-11-21T10:00:59+00:00_
 
-- Dataset count: **9**
+- Dataset count: **14**
 - Back to: [theme index](./index.md)
 
 | dataset_id | title | records_count | modified |
 |---|---|---:|---|
-| [100029](https://data.bs.ch/explore/dataset/100029/information/) | Schulstandorte (Gemeinde Basel) | 415 | 2026-06-30T00:00:00+00:00 |
-| [100030](https://data.bs.ch/explore/dataset/100030/information/) | Schulstandorte (Gemeinden Riehen und Bettingen) | 37 | 2026-10-23T00:00:00+00:00 |
+| [100029](https://data.bs.ch/explore/dataset/100029/information/) | Schulstandorte (Gemeinde Basel) | 415 | 2026-09-29T00:00:00+00:00 |
+| [100030](https://data.bs.ch/explore/dataset/100030/information/) | Schulstandorte (Gemeinden Riehen und Bettingen) | 37 | 2026-11-19T00:00:00+00:00 |
 | [100121](https://data.bs.ch/explore/dataset/100121/information/) | Schülerprognose Basel | 4200 | 2026-03-16T11:15:38.398000+00:00 |
 | [100122](https://data.bs.ch/explore/dataset/100122/information/) | Schülerprognose Riehen und Bettingen | 2184 | 2026-03-16T11:15:38.271000+00:00 |
 | [100124](https://data.bs.ch/explore/dataset/100124/information/) | Perimeter der Schülerprognosen Basel-Stadt | 28 | 2025-04-28T07:46:31.752000+00:00 |
 | [100177](https://data.bs.ch/explore/dataset/100177/information/) | Öffentlicher Archivkatalog in RDF | 0 | 2026-01-29T09:52:58.619000+00:00 |
+| [100185](https://data.bs.ch/explore/dataset/100185/information/) | Befragung 55plus (jahresübergreifend) | 780159 | 2026-03-26T12:42:47.571000+00:00 |
 | [100191](https://data.bs.ch/explore/dataset/100191/information/) | Studierende der Universität Basel nach Geschlecht und Fakultät | 126 | 2026-02-10T09:12:30.927000+00:00 |
+| [100203](https://data.bs.ch/explore/dataset/100203/information/) | Befragung 55plus (2019) | 373650 | 2026-11-12T14:21:58.811000+00:00 |
+| [100204](https://data.bs.ch/explore/dataset/100204/information/) | Befragung 55plus (2015) | 373874 | 2026-11-12T14:22:23.138000+00:00 |
+| [100205](https://data.bs.ch/explore/dataset/100205/information/) | Befragung 55plus (2011) | 462786 | 2026-11-12T15:33:55.639000+00:00 |
 | [100214](https://data.bs.ch/explore/dataset/100214/information/) | Kunst im öffentlichen Raum | 568 | 2026-09-08T00:00:00+00:00 |
-| [100397](https://data.bs.ch/explore/dataset/100397/information/) | Schulferien Kanton Basel-Stadt | 88 | 2026-10-27T03:00:29.239000+00:00 |
+| [100397](https://data.bs.ch/explore/dataset/100397/information/) | Schulferien Kanton Basel-Stadt | 88 | 2026-11-21T03:00:16+00:00 |
+| [100412](https://data.bs.ch/explore/dataset/100412/information/) | Befragung 55plus (2023) | 307760 | 2026-11-12T14:21:16.362000+00:00 |
