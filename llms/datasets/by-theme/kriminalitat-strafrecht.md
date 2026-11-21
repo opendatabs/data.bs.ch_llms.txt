@@ -1,6 +1,6 @@
 # Theme: Kriminalität, Strafrecht
 
-_Generated: 2026-10-27T08:10:35+00:00_
+_Generated: 2026-11-21T10:00:59+00:00_
 
 - Dataset count: **4**
 - Back to: [theme index](./index.md)
