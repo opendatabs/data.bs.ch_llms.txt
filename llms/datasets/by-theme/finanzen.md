@@ -1,6 +1,6 @@
 # Theme: Finanzen
 
-_Generated: 2026-10-27T08:10:35+00:00_
+_Generated: 2026-11-28T10:42:45+00:00_
 
 - Dataset count: **4**
 - Back to: [theme index](./index.md)
