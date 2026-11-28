@@ -1,22 +1,22 @@
 # Theme: Gesundheit
 
-_Generated: 2026-10-27T08:10:35+00:00_
+_Generated: 2026-11-28T10:42:45+00:00_
 
-- Dataset count: **37**
+- Dataset count: **42**
 - Back to: [theme index](./index.md)
 
 | dataset_id | title | records_count | modified |
 |---|---|---:|---|
 | [100019](https://data.bs.ch/explore/dataset/100019/information/) | Defibrillatoren | 235 | 2026-05-05T00:00:00+00:00 |
 | [100020](https://data.bs.ch/explore/dataset/100020/information/) | Elternberatung | 12 | 2026-05-05T00:00:00+00:00 |
-| [100048](https://data.bs.ch/explore/dataset/100048/information/) | Luftqualität Station Chrischona | 232637 | 2026-10-27T07:15:58.549000+00:00 |
-| [100049](https://data.bs.ch/explore/dataset/100049/information/) | Luftqualität Station St. Johannplatz | 234279 | 2026-10-27T07:16:04.876000+00:00 |
-| [100050](https://data.bs.ch/explore/dataset/100050/information/) | Luftqualität Station Feldbergstrasse | 233180 | 2026-10-27T07:16:10.798000+00:00 |
-| [100051](https://data.bs.ch/explore/dataset/100051/information/) | Luftqualität Station Basel-Binningen | 73704 | 2026-10-27T07:20:52.100000+00:00 |
+| [100048](https://data.bs.ch/explore/dataset/100048/information/) | Luftqualität Station Chrischona | 233407 | 2026-11-28T09:15:44.373000+00:00 |
+| [100049](https://data.bs.ch/explore/dataset/100049/information/) | Luftqualität Station St. Johannplatz | 235049 | 2026-11-28T09:15:49.403000+00:00 |
+| [100050](https://data.bs.ch/explore/dataset/100050/information/) | Luftqualität Station Feldbergstrasse | 233950 | 2026-11-28T09:15:53.837000+00:00 |
+| [100051](https://data.bs.ch/explore/dataset/100051/information/) | Luftqualität Station Basel-Binningen | 74472 | 2026-11-28T10:20:51.664000+00:00 |
 | [100073](https://data.bs.ch/explore/dataset/100073/information/) | Coronavirus (COVID-19): Fallzahlen Basel-Stadt | 1225 | 2023-07-05T07:40:31.547000+00:00 |
 | [100076](https://data.bs.ch/explore/dataset/100076/information/) | Coronavirus (COVID-19): Todesfälle Basel-Stadt nach Alter und Geschlecht | 321 | 2024-03-13T14:01:41.500000+00:00 |
 | [100077](https://data.bs.ch/explore/dataset/100077/information/) | Coronavirus (COVID-19): Fallzahlen ganze Schweiz | 24440 | 2025-09-26T11:29:59+00:00 |
-| [100079](https://data.bs.ch/explore/dataset/100079/information/) | Gestorbene nach Altersklasse, Geschlecht und Sterbedatum | 7920 | 2026-10-27T02:15:43.903000+00:00 |
+| [100079](https://data.bs.ch/explore/dataset/100079/information/) | Gestorbene nach Altersklasse, Geschlecht und Sterbedatum | 7951 | 2026-11-27T02:16:00.674000+00:00 |
 | [100085](https://data.bs.ch/explore/dataset/100085/information/) | Coronavirus (COVID-19): Ergänzte Fallzahlen ganze Schweiz | 39693 | 2024-05-05T08:01:25.842000+00:00 |
 | [100094](https://data.bs.ch/explore/dataset/100094/information/) | Coronavirus (COVID-19): Tests Basel-Stadt | 1058 | 2023-02-08T15:00:56.972000+00:00 |
 | [100105](https://data.bs.ch/explore/dataset/100105/information/) | Coronavirus (COVID-19): Positiv getestete Personen nach Alter und Geschlecht | 13794 | 2024-03-13T14:01:52.391000+00:00 |
@@ -35,8 +35,12 @@ _Generated: 2026-10-27T08:10:35+00:00_
 | [100153](https://data.bs.ch/explore/dataset/100153/information/) | Coronavirus (COVID-19): Massentests an Schulen der Sekundarstufe II | 51 | 2022-03-09T14:02:52.257000+00:00 |
 | [100162](https://data.bs.ch/explore/dataset/100162/information/) | Coronavirus (COVID-19): Geimpfte Personen mit Wohnsitz in Basel-Stadt | 915 | 2024-01-04T08:34:36.742000+00:00 |
 | [100183](https://data.bs.ch/explore/dataset/100183/information/) | Coronavirus (COVID-19): Massentests an Schulen | 98 | 2025-04-28T07:46:15.471000+00:00 |
-| [100187](https://data.bs.ch/explore/dataset/100187/information/) | Coronavirus (COVID-19): SARS-CoV-2 im Abwasser und positiv auf SARS-CoV-2 getestete Personen | 1949 | 2026-10-26T14:01:39.728000+00:00 |
-| [100302](https://data.bs.ch/explore/dataset/100302/information/) | Abwassermonitoring: Influenza und RSV | 1943 | 2026-10-26T18:01:20.129000+00:00 |
+| [100185](https://data.bs.ch/explore/dataset/100185/information/) | Befragung 55plus (jahresübergreifend) | 780159 | 2026-03-26T12:42:47.571000+00:00 |
+| [100187](https://data.bs.ch/explore/dataset/100187/information/) | Coronavirus (COVID-19): SARS-CoV-2 im Abwasser und positiv auf SARS-CoV-2 getestete Personen | 1977 | 2026-11-23T17:01:26.272000+00:00 |
+| [100203](https://data.bs.ch/explore/dataset/100203/information/) | Befragung 55plus (2019) | 373650 | 2026-11-12T14:21:58.811000+00:00 |
+| [100204](https://data.bs.ch/explore/dataset/100204/information/) | Befragung 55plus (2015) | 373874 | 2026-11-12T14:22:23.138000+00:00 |
+| [100205](https://data.bs.ch/explore/dataset/100205/information/) | Befragung 55plus (2011) | 462786 | 2026-11-24T16:52:04.095000+00:00 |
+| [100302](https://data.bs.ch/explore/dataset/100302/information/) | Abwassermonitoring: Influenza und RSV | 1943 | 2026-11-23T17:01:24.218000+00:00 |
 | [100318](https://data.bs.ch/explore/dataset/100318/information/) | Gesundheitsversorgung (GSV): Pflegeheime | 362 | 2025-08-19T23:00:57+00:00 |
 | [100319](https://data.bs.ch/explore/dataset/100319/information/) | Gesundheitsversorgung (GSV): Pflegeheimbewohnende | 14 | 2025-08-19T23:00:58+00:00 |
 | [100320](https://data.bs.ch/explore/dataset/100320/information/) | Gesundheitsversorgung (GSV): Spitalkennzahlen | 69 | 2026-07-16T15:00:50.359000+00:00 |
@@ -44,3 +48,4 @@ _Generated: 2026-10-27T08:10:35+00:00_
 | [100377](https://data.bs.ch/explore/dataset/100377/information/) | Gesundheitsversorgung (GSV): Tagesgäste von Tages- und Nachtpflegeeinrichtungen (TNP) | 6 | 2026-10-22T05:43:30.601000+00:00 |
 | [100378](https://data.bs.ch/explore/dataset/100378/information/) | Gesundheitsversorgung (GSV): Pflegebedürftige im Bereich der Pflege zu Hause (PzH) | 10 | 2026-10-22T05:43:30.740000+00:00 |
 | [100403](https://data.bs.ch/explore/dataset/100403/information/) | Gesundheitsversorgung (GSV): Patientenkennzahlen | 60 | 2025-04-28T07:47:52.561000+00:00 |
+| [100412](https://data.bs.ch/explore/dataset/100412/information/) | Befragung 55plus (2023) | 307760 | 2026-11-12T14:21:16.362000+00:00 |
